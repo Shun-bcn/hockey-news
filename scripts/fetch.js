@@ -135,7 +135,7 @@ Generate summaries in: ${langList}
 
 Rules:
 - headline: max 60 characters, clear and newsworthy
-- summary: max 200 characters, key facts only, no fluff
+- summary: 300-400 characters, include key facts, context and outcome so readers understand the full story
 - category: exactly one of [${CATEGORY_LIST}] — ALWAYS use the Japanese category name
 - If original language matches the target, keep the meaning accurate. For other languages, re-express the facts naturally.
 - Output ONLY valid JSON, no markdown, no explanation.
