@@ -57,19 +57,6 @@
       }
     },
     {
-      "name": "Japan Hockey Association",
-      "url": "https://www.hockey.or.jp/news/",
-      "lang": "ja",
-      "priority": 1,
-      "browserHeaders": true,
-      "selector": {
-        "list": ".news-item, article, .post, li",
-        "title": "h2, h3, .title, a",
-        "link": "a",
-        "base": "https://www.hockey.or.jp"
-      }
-    },
-    {
       "name": "EHL Hockey",
       "url": "https://ehlhockey.tv/news/",
       "lang": "en",
