@@ -140,6 +140,10 @@ Rules:
 - If original language matches the target, keep the meaning accurate. For other languages, re-express the facts naturally.
 - Output ONLY valid JSON, no markdown, no explanation.
 
+Terminology (always use these exact Japanese translations):
+- EHL / Euro Hockey League → ユーロホッケーリーグ
+- Kampong → カンポン
+
 Output format:
 {
   "ja": { "headline": "...", "summary": "...", "category": "..." },
