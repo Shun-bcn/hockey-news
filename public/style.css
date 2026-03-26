@@ -235,6 +235,58 @@ main {
   margin-left: auto;
 }
 
+.share-btn {
+  background: none;
+  color: var(--text-muted);
+  padding: 2px 4px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  transition: color 0.15s, background 0.15s;
+}
+.share-btn:hover { background: var(--btn-bg); color: var(--accent); }
+
+/* ─── 共有メニュー ────────────────────────────────────────── */
+.share-menu {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+  padding: 6px;
+  z-index: 300;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 170px;
+}
+.share-menu a, .share-menu button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 7px;
+  font-size: 0.85rem;
+  color: var(--text);
+  text-decoration: none;
+  width: 100%;
+  text-align: left;
+  background: none;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.share-menu a:hover, .share-menu button:hover { background: var(--btn-bg); }
+
+/* ─── ハイライトアニメーション ───────────────────────────── */
+@keyframes highlight-pulse {
+  0%   { box-shadow: var(--shadow); }
+  25%  { box-shadow: 0 0 0 4px var(--accent); background: var(--accent-light); }
+  100% { box-shadow: var(--shadow); background: var(--bg-card); }
+}
+.article-highlighted {
+  animation: highlight-pulse 3s ease forwards;
+}
+
 /* カテゴリ別ボーダー色 */
 .cat-試合結果  { --cat-color: #e53935; }
 .cat-代表チーム { --cat-color: #1565c0; }

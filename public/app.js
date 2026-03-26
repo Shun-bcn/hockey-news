@@ -134,9 +134,10 @@ function renderCard(article) {
   const cat = t.category || 'その他';
   const catLabel = (CAT_DISPLAY[state.lang] || CAT_DISPLAY.ja)[cat] || cat;
   const time = timeAgo(article.fetched_at);
+  const shareUrl = `${location.origin}${location.pathname}?date=${state.date}&lang=${state.lang}#article-${article.id}`;
 
   return `
-<article class="article-card ${catClass(cat)}">
+<article id="article-${article.id}" class="article-card ${catClass(cat)}">
   <div class="article-headline">
     <a href="${escHtml(article.source_url)}" target="_blank" rel="noopener">${headline}</a>
   </div>
@@ -145,8 +146,55 @@ function renderCard(article) {
     <span class="article-source">${escHtml(article.source)}</span>
     <span class="article-category">${escHtml(catLabel)}</span>
     <span class="article-time">${time}</span>
+    <button class="share-btn" data-url="${escHtml(shareUrl)}" data-title="${headline}" aria-label="Share">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+      </svg>
+    </button>
   </div>
 </article>`;
+}
+
+function showShareMenu(btn, url, title) {
+  document.querySelector('.share-menu')?.remove();
+
+  const waUrl = `https://wa.me/?text=${encodeURIComponent(title + '\n' + url)}`;
+  const xUrl = `https://x.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(url)}`;
+
+  const menu = document.createElement('div');
+  menu.className = 'share-menu';
+  menu.innerHTML = `
+    <a href="${waUrl}" target="_blank" rel="noopener">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.556 4.116 1.528 5.845L0 24l6.335-1.652A11.955 11.955 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.885 0-3.65-.52-5.166-1.427l-.371-.22-3.828.999 1.023-3.713-.241-.383A9.937 9.937 0 012 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z"/></svg>
+      WhatsApp
+    </a>
+    <a href="${xUrl}" target="_blank" rel="noopener">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      X (Twitter)
+    </a>
+    <button class="copy-link-btn" data-url="${escHtml(url)}">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+      リンクをコピー
+    </button>`;
+
+  const rect = btn.getBoundingClientRect();
+  const menuLeft = Math.min(rect.left, window.innerWidth - 180);
+  menu.style.cssText = `position:fixed;top:${rect.bottom + 6}px;left:${menuLeft}px;`;
+  document.body.appendChild(menu);
+
+  menu.querySelector('.copy-link-btn').addEventListener('click', () => {
+    navigator.clipboard.writeText(url).then(() => {
+      const svg = btn.innerHTML;
+      btn.textContent = '✓';
+      setTimeout(() => { btn.innerHTML = svg; }, 2000);
+    });
+    menu.remove();
+  });
+
+  setTimeout(() => {
+    document.addEventListener('click', () => menu.remove(), { once: true });
+  }, 0);
 }
 
 function escHtml(str) {
@@ -231,6 +279,18 @@ function setupEventListeners() {
     if (state.date < today()) changeDate(offsetDate(state.date, 1));
   });
 
+  // 共有ボタン（イベント委任）
+  document.getElementById('articles-container').addEventListener('click', e => {
+    const btn = e.target.closest('.share-btn');
+    if (!btn) return;
+    e.stopPropagation();
+    if (navigator.share) {
+      navigator.share({ title: btn.dataset.title, url: btn.dataset.url }).catch(() => {});
+    } else {
+      showShareMenu(btn, btn.dataset.url, btn.dataset.title);
+    }
+  });
+
   // テーマ切替
   const themeBtn = document.getElementById('theme-toggle');
   themeBtn.addEventListener('click', () => {
@@ -244,7 +304,7 @@ function setupEventListeners() {
 // ─── 初期化 ───────────────────────────────────────────────────
 
 async function init() {
-  // URLパラメータから言語を取得
+  // URLパラメータから言語・日付を取得
   const params = new URLSearchParams(window.location.search);
   const langParam = params.get('lang');
   if (langParam && ['ja', 'en', 'nl', 'es'].includes(langParam)) {
@@ -252,6 +312,10 @@ async function init() {
     document.querySelectorAll('.lang-btn').forEach(b => {
       b.classList.toggle('active', b.dataset.lang === langParam);
     });
+  }
+  const dateParam = params.get('date');
+  if (dateParam && /^\d{4}-\d{2}-\d{2}$/.test(dateParam) && dateParam <= today()) {
+    state.date = dateParam;
   }
 
   // 保存されたテーマを復元
@@ -266,10 +330,23 @@ async function init() {
   updateSortLabels();
   updateDateNav();
 
-  // 今日のデータを読み込む
+  // データを読み込む
   state.articles = await loadArticles(state.date);
   updateDateNav();
   renderArticles();
+
+  // 共有リンクで来た場合：記事にスクロール＆ハイライト
+  const hash = window.location.hash;
+  if (hash && hash.startsWith('#article-')) {
+    const el = document.getElementById(hash.slice(1));
+    if (el) {
+      setTimeout(() => {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        el.classList.add('article-highlighted');
+        setTimeout(() => el.classList.remove('article-highlighted'), 3000);
+      }, 200);
+    }
+  }
 }
 
 document.addEventListener('DOMContentLoaded', init);
