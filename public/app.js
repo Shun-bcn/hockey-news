@@ -64,10 +64,10 @@ const SORT_LABELS = {
 };
 
 const SITE_TITLE = {
-  ja: '🏑 Hockey433',
-  en: '🏑 Hockey433',
-  nl: '🏑 Hockey433',
-  es: '🏑 Hockey433',
+  ja: '🏑 Hockey-Deflect',
+  en: '🏑 Hockey-Deflect',
+  nl: '🏑 Hockey-Deflect',
+  es: '🏑 Hockey-Deflect',
 };
 
 const LOADING_TEXT = {
