@@ -4,6 +4,7 @@ const cheerio = require('cheerio');
 const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
 const Anthropic = require('@anthropic-ai/sdk');
 
 const sources = require('./sources.json');
@@ -81,19 +82,42 @@ async function fetchRSS(source) {
 // ─── スクレイピング取得 ────────────────────────────────────────
 
 async function fetchScrape(source) {
-  const res = await axios.get(source.url, {
+  const headers = source.browserHeaders ? {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'ja,en-US;q=0.9,en;q=0.8',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Connection': 'keep-alive',
+  } : {
+    'User-Agent': 'HockeyNews/1.0 (+https://hockey-deflect.pages.dev)',
+  };
+
+  const axiosOptions = {
     timeout: 15000,
-    headers: { 'User-Agent': 'HockeyNews/1.0 (+https://hockey-news.pages.dev)' },
-  });
+    headers,
+  };
+  if (source.skipSSLVerify) {
+    axiosOptions.httpsAgent = new https.Agent({ rejectUnauthorized: false });
+  }
+
+  const res = await axios.get(source.url, axiosOptions);
   const $ = cheerio.load(res.data);
   const items = [];
 
   $(source.selector.list).each((_, el) => {
     const titleEl = $(el).find(source.selector.title).first();
-    const linkEl = $(el).find(source.selector.link).first();
-    const title = titleEl.text().trim();
-    const href = linkEl.attr('href') || '';
-    if (!title || !href) return;
+    let title = titleEl.text().trim();
+    const href = source.selector.link === 'self'
+      ? $(el).attr('href') || ''
+      : $(el).find(source.selector.link).first().attr('href') || '';
+    if (!href) return;
+
+    // タイトルが取れない場合はURLスラグから生成
+    if (!title) {
+      const slug = href.split('/').pop().replace(/-\d+$/, '').replace(/-/g, ' ');
+      title = slug.charAt(0).toUpperCase() + slug.slice(1);
+    }
+    if (!title) return;
 
     const url = href.startsWith('http') ? href : source.selector.base + href;
     items.push({
