@@ -143,6 +143,7 @@ Rules:
 Terminology (always use these exact translations):
 - EHL → in Japanese: ユーロホッケーリーグ / in English: Euro Hockey League (NOT "European Hockey League")
 - Kampong → in Japanese: カンポン / in other languages: Kampong (unchanged)
+- Old Georgians → in Japanese: オールドジョージアンズ
 
 Output format:
 {
