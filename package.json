@@ -1,0 +1,16 @@
+{
+  "name": "hockey-news",
+  "version": "1.0.0",
+  "description": "Global field hockey news aggregator with multilingual AI summaries",
+  "main": "scripts/fetch.js",
+  "scripts": {
+    "fetch": "node scripts/fetch.js",
+    "dev": "npx serve public"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "rss-parser": "^3.13.0"
+  }
+}

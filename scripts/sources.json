@@ -1,0 +1,120 @@
+{
+  "rss": [
+    {
+      "name": "The Hockey Paper",
+      "url": "https://www.thehockeypaper.co.uk/feed/",
+      "lang": "en",
+      "priority": 1
+    },
+    {
+      "name": "NOS Sport",
+      "url": "https://feeds.nos.nl/nossportalgemeen",
+      "lang": "nl",
+      "priority": 2,
+      "filter": "hockey"
+    }
+  ],
+  "_rss_todo": [
+    {
+      "name": "FIH",
+      "note": "RSSなし → scrapeリストに追加済み",
+      "url": "https://www.fih.hockey/news/"
+    },
+    {
+      "name": "Hockey Australia",
+      "note": "ドメイン変更の可能性あり → 要URL確認",
+      "url": "https://hockey.org.au/"
+    },
+    {
+      "name": "Hockey India",
+      "note": "URL要確認",
+      "url": "https://hockeyindia.org/"
+    }
+  ],
+  "scrape": [
+    {
+      "name": "FIH",
+      "url": "https://www.fih.hockey/news/",
+      "lang": "en",
+      "priority": 1,
+      "selector": {
+        "list": "article, .news-item, .card",
+        "title": "h2, h3, .title",
+        "link": "a",
+        "base": "https://www.fih.hockey"
+      }
+    },
+    {
+      "name": "EuroHockey",
+      "url": "https://www.eurohockey.org/news/",
+      "lang": "en",
+      "priority": 1,
+      "selector": {
+        "list": "article",
+        "title": "h2, h3",
+        "link": "a",
+        "base": "https://www.eurohockey.org"
+      }
+    },
+    {
+      "name": "Japan Hockey Association",
+      "url": "https://www.hockey.or.jp/news/",
+      "lang": "ja",
+      "priority": 1,
+      "selector": {
+        "list": ".news-item, article, .post",
+        "title": "h2, h3, .title",
+        "link": "a",
+        "base": "https://www.hockey.or.jp"
+      }
+    },
+    {
+      "name": "EHL Hockey",
+      "url": "https://ehlhockey.tv/news/",
+      "lang": "en",
+      "priority": 2,
+      "selector": {
+        "list": "article, .news-card",
+        "title": "h2, h3",
+        "link": "a",
+        "base": "https://ehlhockey.tv"
+      }
+    },
+    {
+      "name": "KNHB",
+      "url": "https://www.knhb.nl/nieuws",
+      "lang": "nl",
+      "priority": 2,
+      "selector": {
+        "list": "article, .news-item",
+        "title": "h2, h3",
+        "link": "a",
+        "base": "https://www.knhb.nl"
+      }
+    },
+    {
+      "name": "Real Federacion Española de Hockey",
+      "url": "https://www.eshockey.es/noticias/",
+      "lang": "es",
+      "priority": 2,
+      "selector": {
+        "list": "article, .noticia",
+        "title": "h2, h3",
+        "link": "a",
+        "base": "https://www.eshockey.es"
+      }
+    },
+    {
+      "name": "England Hockey",
+      "url": "https://www.englandhockey.co.uk/news",
+      "lang": "en",
+      "priority": 2,
+      "selector": {
+        "list": "article, .news-card",
+        "title": "h2, h3",
+        "link": "a",
+        "base": "https://www.englandhockey.co.uk"
+      }
+    }
+  ]
+}
