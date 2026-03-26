@@ -2,7 +2,7 @@ name: Fetch Hockey News
 
 on:
   schedule:
-    - cron: '0 * * * *'   # 毎時0分に実行
+    - cron: '0 6 * * *'   # 毎日06:00 UTC（欧州時間08:00 CEST）に実行
   workflow_dispatch:       # 手動実行も可能
 
 permissions:
