@@ -83,7 +83,7 @@ const NO_ARTICLES_TEXT = {
 
 async function loadArticles(date) {
   try {
-    const res = await fetch(`../data/${date}.json`);
+    const res = await fetch(`/data/${date}.json`);
     if (!res.ok) return [];
     return await res.json();
   } catch (_) {

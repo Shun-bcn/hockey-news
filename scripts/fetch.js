@@ -20,7 +20,7 @@ function getToday() {
 }
 
 function getDataDir() {
-  return path.join(__dirname, '../data');
+  return path.join(__dirname, '../public/data');
 }
 
 function getTodayFile() {
