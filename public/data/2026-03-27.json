@@ -1,1 +1,508 @@
-[]
+[
+  {
+    "id": "e89fd7c219fc",
+    "source": "The Hockey Paper",
+    "source_url": "https://www.thehockeypaper.co.uk/articles/2026/03/27/you-cant-thrive-in-hockey-without-video",
+    "fetched_at": "2026-03-27T09:27:53.240Z",
+    "translations": {
+      "ja": {
+        "headline": "ビデオ分析なしではホッケーで成功できない",
+        "summary": "イーストグリンステッド女子1部のテオ・ダウゼ監督は、室内ホッケーでの成功に続き、プレミアディビジョンでの継続的な成功を目指している。同チームは27年ぶりのイングランド勢メダルをユーロホッケーリーグで獲得。監督はビデオ分析がホッケーの発展に不可欠であると強調し、同チームの成長戦略に組み込まれている。",
+        "category": "テクノロジー"
+      },
+      "en": {
+        "headline": "Video analysis crucial for hockey success",
+        "summary": "Theo Dowse, head coach of East Grinstead W1, aims to build on an impressive indoor season with success in the Premier Division as Finals Weekend approaches. East Grinstead achieved England's first medal at the Euro Hockey League in 27 years. Dowse emphasizes that video analysis is essential for thriving in modern hockey, highlighting its integral role in the team's development strategy.",
+        "category": "テクノロジー"
+      },
+      "nl": {
+        "headline": "Videoanalyse essentieel voor hockeysucces",
+        "summary": "Theo Dowse, hoofdcoach van East Grinstead W1, wil voortbouwen op een succesvol indoorseizoen met verdere triomfen in de Premier Division richting Finals Weekend. East Grinstead behaalde Englands eerste medaille op het Euro Hockey League in 27 jaar. Dowse onderstreept dat videoanalyse onmisbaar is voor vooruitgang in modern hockey en vormt een kernonderdeel van de ontwikkelingsstrategie van het team.",
+        "category": "テクノロジー"
+      }
+    }
+  },
+  {
+    "id": "860acf6a1e51",
+    "source": "NOS Sport",
+    "source_url": "https://nos.nl/l/2607897",
+    "fetched_at": "2026-03-27T09:27:53.610Z",
+    "translations": {
+      "ja": {
+        "headline": "カンポン伝説デ・ワイン、28年のキャリアに終止符",
+        "summary": "35歳のディフェンダー、サンダー・デ・ワインがシーズン終了後に現役引退を表明した。カンポンで18シーズンプレー、同クラブ最多出場記録を保持。オランダ代表では161キャップを獲得し、2012年オリンピックで銀メダル、2014年と2018年の世界選手権でも銀メダルを獲得。ヨーロッパ選手権3度優勝、オランダ国内選手権3度優勝、2024年には主要リーグの最優秀選手に選出された。",
+        "category": "選手"
+      },
+      "en": {
+        "headline": "Kampong Legend De Wijn Announces Retirement",
+        "summary": "Sander de Wijn, 35-year-old defender, has announced his retirement from top-level field hockey after the current season. De Wijn played 18 seasons for Kampong, more than any other player in the club's history, winning three national championships and earning three divisional player of the year awards. With the Dutch national team, he earned 161 caps, winning Olympic silver in 2012 and world championship silver in both 2014 and 2018. A three-time European champion, De Wijn concludes 28 years in competitive hockey.",
+        "category": "選手"
+      },
+      "nl": {
+        "headline": "Kampong-legende De Wijn beëindigt profloopbaan",
+        "summary": "Sander de Wijn (35) maakt bekend dat hij na dit seizoen stopt met tophockey. De verdediger speelde achttien seizoenen voor Kampong, langer dan elke andere speler voor de Utrechtse club. Hij werd drie keer landskampioen en drie keer gekozen tot beste speler van de hoofdklasse. Met het Nederlands elftal speelde De Wijn 161 interlands, waarvan hij acht doelpunten maakte. Hij won olympisch zilver in 2012 en wereldkampioenschappen in 2014 en 2018, plus drie Europese titels. Na 28 jaar sluit hij zijn hockeycarrière af.",
+        "category": "選手"
+      }
+    }
+  },
+  {
+    "id": "c005bef2c530",
+    "source": "EHL Hockey",
+    "source_url": "https://ehlhockey.tv/2026/03/26/aisling-utri-from-aflw-to-railway-union-and-the-ehl-dream/",
+    "fetched_at": "2026-03-27T09:27:55.509Z",
+    "translations": {
+      "ja": {
+        "headline": "エイスリング・ウトリ：AFLWからレイルウェイ・ユニオンへ、ユーロホッケーリーグへの挑戦",
+        "summary": "オーストラリアンフットボール選手からフィールドホッケーの道へ転身したエイスリング・ウトリが、レイルウェイ・ユニオンでプレーし、ユーロホッケーリーグ出場を目指している。AFLWでのキャリアからアイルランドのホッケー競技へ転換し、新たなチャレンジに挑む選手の軌跡を追う。",
+        "category": "選手"
+      },
+      "en": {
+        "headline": "Aisling Utri: From AFLW to Railway Union and EHL Ambitions",
+        "summary": "Aisling Utri has transitioned from Australian Rules Football (AFLW) to field hockey, now playing for Railway Union with aspirations of competing in the Euro Hockey League. Her remarkable career shift showcases her athletic versatility as she pursues new challenges in Ireland's hockey competition.",
+        "category": "選手"
+      },
+      "nl": {
+        "headline": "Aisling Utri: Van AFLW naar Railway Union en EHL-droom",
+        "summary": "Aisling Utri is overgestapt van Australian Rules Football (AFLW) naar hockey en speelt nu voor Railway Union met als doel deel te nemen aan de Euro Hockey League. Haar indrukwekkende carrièreswitch toont haar atletische veelzijdigheid terwijl zij nieuwe uitdagingen in Ierlands hockey nastreeft.",
+        "category": "選手"
+      }
+    }
+  },
+  {
+    "id": "3686ab640d5b",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/start-aanleg-nieuwe-trainingsvelden-voor-oranjeteams",
+    "fetched_at": "2026-03-27T09:27:57.499Z",
+    "translations": {
+      "ja": {
+        "headline": "オランダ代表チーム向け新ホッケー場の建設開始",
+        "summary": "オランダのワーゲナー・スタジアムから200メートルの距離に、オランダ代表チーム用の国際基準レベルのホッケー場2面の建設が正式に開始された。来年8月に同国立スタジアムで開催されるホッケー世界選手権に向けて、女子代表、男子代表、参加各国のチームがここで準備および大会期間中の練習を行う予定。将来的には国内ユース代表チームの定期的な練習拠点としても機能する。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "New training facility construction begins for Dutch national teams",
+        "summary": "Construction has officially commenced on two world-class hockey fields located just 200 meters from Wagener Stadium in the Netherlands. The facilities will serve the Dutch women's and men's national teams, as well as participating nations, for training during next summer's Hockey World Championships in August. The venue will also function as a permanent training base for Dutch national youth teams. The new complex represents significant infrastructure investment ahead of the major international tournament.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Bouw nieuwe hockeyvelden voor Oranjeteams officieel van start",
+        "summary": "De aanleg van twee topniveau hockeyvelden op slechts 200 meter van het Wagener Stadion is officieel begonnen. Deze faciliteiten zullen komende zomer door de OranjeHockey Dames, OranjeHockey Heren en deelnemende landen worden gebruikt voor trainingen in voorbereiding op en tijdens het WK Hockey in augustus. Daarnaast krijgen de nationale jeugdteams in de toekomst hun vaste trainingsplek op deze locatie, wat een belangrijke stap vormt voor de ontwikkeling van het Nederlandse hockey.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "eeb74f3cd35d",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/welkom-op-de-nieuwe-knhb-website",
+    "fetched_at": "2026-03-27T09:27:57.499Z",
+    "translations": {
+      "ja": {
+        "headline": "KNHB新ウェブサイトがオープン",
+        "summary": "オランダ field hockey 連盟（KNHB）が新しいウェブサイトを公開しました。このサイトは field hockey ファンと選手向けの情報提供プラットフォームとして機能し、最新のニュース、大会情報、選手プロフィール、ルール説明などを一元管理します。ユーザーフレンドリーなデザインにより、より多くのコミュニティへのアクセスを目指しています。",
+        "category": "テクノロジー"
+      },
+      "en": {
+        "headline": "KNHB Launches New Website",
+        "summary": "The Royal Netherlands Hockey Association (KNHB) has unveiled its new website, designed to serve as a comprehensive information hub for field hockey fans and players. The platform provides access to latest news, tournament schedules, player profiles, rules and regulations all in one place. With its user-friendly interface, the KNHB aims to enhance community engagement and improve accessibility to field hockey information.",
+        "category": "その他"
+      },
+      "nl": {
+        "headline": "KNHB onthult nieuwe website",
+        "summary": "De Koninklijke Nederlandse Hockey Bond (KNHB) heeft haar nieuwe website geopenbaard. Deze website dient als centraal informatieplatform voor hockeyliefhebbers en spelers, met actueel nieuws, wedstrijdschema's, speelersprofielen en regelgeving. Het gebruiksvriendelijke ontwerp is ontworpen om de betrokkenheid van de community te vergroten en de toegankelijkheid tot hockeyinformatie te verbeteren.",
+        "category": "その他"
+      }
+    }
+  },
+  {
+    "id": "77c443f66a9f",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/loting-ronde-8-silver-cup-heren",
+    "fetched_at": "2026-03-27T09:27:57.499Z",
+    "translations": {
+      "ja": {
+        "headline": "シルバーカップ男子第8ラウンド抽選実施",
+        "summary": "フィールドホッケーのシルバーカップ男子部門第8ラウンドの抽選が行われました。このラウンドでは、出場チーム間のマッチアップが決定されました。シルバーカップは競争力の高い大会であり、各チームは次のラウンドへの進出を目指して準備を進めることになります。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Silver Cup Men's Round 8 Draw Announced",
+        "summary": "The draw for Round 8 of the men's Silver Cup field hockey tournament has been completed. The matchups for the upcoming round have been determined, setting the stage for competitive fixtures among participating teams. Teams will now prepare for their scheduled matches as they vie for advancement in this prestigious competition.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Loting ronde 8 Silver Cup heren afgerond",
+        "summary": "De loting voor ronde 8 van de Silver Cup heren is uitgevoerd. De wedstrijdschema's voor de komende ronde zijn vastgesteld, waarbij de deelnemende teams hun tegenstanders hebben leren kennen. De teams zullen zich voorbereiding op hun wedstrijden in deze competitie met veel spanning.",
+        "category": "リーグ"
+      }
+    }
+  },
+  {
+    "id": "612b33703a73",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/promoties-nederlandse-scheidsrechters-en-officials-1",
+    "fetched_at": "2026-03-27T09:27:57.500Z",
+    "translations": {
+      "ja": {
+        "headline": "オランダの審判・オフィシャルが昇格",
+        "summary": "オランダフィールドホッケー連盟は、複数の審判とオフィシャルの昇格を発表しました。この昇格は、国際大会や高レベルの競技における彼らの優れたパフォーマンスと専門性を認めるものです。昇格したオフィシャルたちは、今後、より高いレベルの試合で活動することが期待されています。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Dutch referees and officials receive promotions",
+        "summary": "The Dutch field hockey association has announced promotions for several referees and officials, recognizing their outstanding performance and expertise in international competitions and high-level matches. The promoted officials are now expected to officiate at higher levels of competition, reflecting their advancement in the sport's officiating hierarchy.",
+        "category": "その他"
+      },
+      "nl": {
+        "headline": "Promoties Nederlandse scheidsrechters en officials",
+        "summary": "De Nederlandse hockeybond heeft promoties aangekondig voor meerdere scheidsrechters en officials. Deze bevorderingen erkennen hun uitstekende prestaties en expertise in internationale wedstrijden en competities op hoog niveau. De gepromoveerde officials zullen voortaan wedstrijden op een hoger niveau leiden, wat hun vooruitgang in de officiële hiërarchie van de sport weerspiegelt.",
+        "category": "その他"
+      }
+    }
+  },
+  {
+    "id": "a7d43c47bc14",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/nederlands-elftal-dames-opent-wk-hockey-2026-in-eigen-land-tegen-chili",
+    "fetched_at": "2026-03-27T09:27:57.500Z",
+    "translations": {
+      "ja": {
+        "headline": "オランダ女子代表、2026年W杯で開幕戦チリと対戦",
+        "summary": "オランダが2026年に自国で開催されるフィールドホッケー女子ワールドカップの開幕戦で、チリと対戦することが決定した。オランダ女子代表はホームアドバンテージを生かし、大会初戦でチリに臨む。このワールドカップはオランダにとって重要な国際大会となる。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Netherlands Women Open 2026 Hockey World Cup at Home vs Chile",
+        "summary": "The Netherlands women's field hockey team will face Chile in the opening match of the 2026 FIH Hockey World Cup, which will be hosted in the Netherlands. The Dutch squad will have the home advantage as they begin their campaign in this major international tournament. This marks an important opportunity for the Netherlands to compete on home soil.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Nederlands dames opent WK hockey 2026 tegen Chili",
+        "summary": "Het Nederlands vrouwen-hockeyelftal speelt de openingswedstrijd van het Wereldkampioenschap hockey 2026 tegen Chili. Het toernooi vindt plaats in Nederland, wat het Nederlandse team huisvoordeel geeft. Dit is een belangrijk moment voor de Nederlandse hockeyploeg om in eigen land aan het mondiale kampioenschap deel te nemen.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "a5779bd74396",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/loting-ronde-7-silver-cup-dames-en-halve-finales-gold-cup-heren",
+    "fetched_at": "2026-03-27T09:27:57.500Z",
+    "translations": {
+      "ja": {
+        "headline": "シルバーカップ女子7回戦の組み合わせ決定、ゴールドカップ男子準決勝へ",
+        "summary": "フィールドホッケーのシルバーカップ女子部門の第7回戦の組み合わせが発表されました。同時に、ゴールドカップ男子部門の準決勝の出場チームも確定しました。各チームは次のラウンドに向けた準備を進めます。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Silver Cup women round 7 draw, Gold Cup men semifinals confirmed",
+        "summary": "The draw for round 7 of the Silver Cup women's competition has been announced. In parallel, the participating teams for the Gold Cup men's semifinals have been confirmed. Both competitions are progressing toward their next stages with matchups now determined.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Loting ronde 7 silver cup dames en halve finales gold cup heren",
+        "summary": "De loting voor ronde 7 van de silver cup dames is bekend gemaakt. Tegelijkertijd zijn de deelnemers aan de halve finales van de gold cup heren vastgesteld. Beide competities zijn in volle gang met de eerstvolgende tegenstanders nu bepaald.",
+        "category": "リーグ"
+      }
+    }
+  },
+  {
+    "id": "48b5ba594b7d",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/hellofresh-officieel-partner-van-knhb-en-maaltijdleverancier-van-oranje",
+    "fetched_at": "2026-03-27T09:27:57.500Z",
+    "translations": {
+      "ja": {
+        "headline": "ハローフレッシュがオランダホッケー連盟の公式パートナーに",
+        "summary": "食事宅配サービスのハローフレッシュが、オランダホッケー連盟（KNHB）の公式パートナーおよびオランダ代表チームの食事提供業者として正式に契約を締結しました。この協力により、代表選手団への栄養サポートが強化されることになります。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "HelloFresh becomes official KNHB partner and meal supplier",
+        "summary": "Meal delivery service HelloFresh has officially become a partner of the Royal Netherlands Hockey Association (KNHB) and the exclusive meal supplier for the Dutch national hockey team. The partnership aims to provide comprehensive nutritional support to the Orange squad, enhancing player performance and wellbeing through tailored meal services.",
+        "category": "その他"
+      },
+      "nl": {
+        "headline": "Hellofresh officieel partner KNHB en leverancier Oranje",
+        "summary": "Maaltijdbezorgdienst Hellofresh is officieel benoemd tot partner van de KNHB en maaltijdleverancier van het Nederlands hockeyteam Oranje. De samenwerking zorgt voor professionele voedingsondersteuning aan de nationale selectie, wat de prestaties en gezondheid van de spelers ten goede komt.",
+        "category": "その他"
+      }
+    }
+  },
+  {
+    "id": "f366d4584402",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/oranjehockey-dames-hervatten-trainingen-met-nieuwe-trainingsgroep",
+    "fetched_at": "2026-03-27T09:27:57.500Z",
+    "translations": {
+      "ja": {
+        "headline": "オランダ女子ホッケー代表、新しい訓練グループで練習を再開",
+        "summary": "オランダの女子ホッケー代表チームが、新しい訓練グループで練習活動を再開した。この動きは代表チームの強化と選手育成プログラムの一環として実施されている。新しい訓練グループの構成により、チームは今後の国際試合に向けた準備を進める。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Dutch Women's Hockey Resume Training with New Squad",
+        "summary": "The Dutch women's hockey national team has resumed training activities with a newly formed training group. This development is part of the team's strengthening efforts and player development program. The new squad composition will allow the team to prepare for upcoming international competitions and matches ahead.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Oranjehockey dames hervatten trainingen met nieuwe groep",
+        "summary": "Het Nederlands vrouwen hockeyteam heeft trainingsactiviteiten hervat met een nieuw samengestelde trainingsgroep. Deze stap maakt deel uit van de versterkings- en speelersontwikkelingsprogramma's van het team. De nieuwe groepssamenstelling stelt het team in staat zich voor te bereiden op aankomende internationale wedstrijden.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "838f2b41efc4",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/oranjehockey-heren-starten-met-vernieuwde-trainingsgroep",
+    "fetched_at": "2026-03-27T09:27:57.500Z",
+    "translations": {
+      "ja": {
+        "headline": "オランダ男子ホッケー代表が新しいトレーニング",
+        "summary": "オランダ男子ホッケー代表チームが刷新されたトレーニンググループでスタートを切った。新体制のもと、チームは次の目標に向けて準備を進めている。この動きは、代表チームの強化と若い才能の育成を目指す重要なステップとなる。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Dutch Men's Hockey Launches Renewed Training Group",
+        "summary": "The Dutch men's national hockey team has launched a renewed training group as part of their program development. The revamped squad marks a fresh start for the team as they prepare for upcoming competitions. This initiative reflects the federation's commitment to strengthening the team and integrating emerging talent into the national program.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Oranjehockey heren start met vernieuwd team",
+        "summary": "Het Nederlands mannenhoekeyteam is gestart met een vernieuwde trainingsgroep. Deze hernieuwde samenstelling markeert een nieuw begin voor het team terwijl zij zich voorbereiden op komende wedstrijden. Het initiatief weerspiegelt de inzet van de bond om het team te versterken en opkomend talent in het nationale programma te integreren.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "3e4bc92f67e0",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/knhb-vier-jaar-langer-door-met-partner-dhl-ecommerce",
+    "fetched_at": "2026-03-27T09:27:57.500Z",
+    "translations": {
+      "ja": {
+        "headline": "KNHB、DHL eコマースと4年間のパートナーシップを延長",
+        "summary": "オランダ フィールドホッケー連盟（KNHB）は、物流大手DHL eコマースとのパートナーシップを4年間延長することを発表した。この契約延長により、両者の協力関係はさらに強化される。DHL eコマースはKNHBの重要なスポンサーパートナーとして、フィールドホッケーの発展を支援し続ける。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "KNHB extends partnership with DHL eCommerce for four years",
+        "summary": "The Royal Netherlands Hockey Association (KNHB) has announced the extension of its partnership with DHL eCommerce for an additional four years. This contract renewal strengthens the collaboration between the two organizations. DHL eCommerce will continue supporting Dutch field hockey development as a key sponsor partner of KNHB.",
+        "category": "その他"
+      },
+      "nl": {
+        "headline": "KNHB verlengd partnerschap met DHL eCommerce vier jaar",
+        "summary": "De Koninklijke Nederlandse Hockey Bond (KNHB) heeft de verlenging van het partnerschap met DHL eCommerce voor vier jaar aangekondigd. Deze contractverlenging versterkt de samenwerking tussen beide organisaties. DHL eCommerce zal als belangrijke sponsorpartner van de KNHB het Nederlandse hockey blijven ondersteunen.",
+        "category": "その他"
+      }
+    }
+  },
+  {
+    "id": "b512df632124",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/across-the-ehl-week-sixteen",
+    "fetched_at": "2026-03-27T09:27:58.881Z",
+    "translations": {
+      "ja": {
+        "headline": "ユーロホッケーリーグ第16週の試合結果",
+        "summary": "ユーロホッケーリーグの第16週の試合が開催されました。各チームの対戦結果や成績について報告されています。リーグの進行状況と各チームのパフォーマンスが詳しく記載されており、ファンは最新の試合結果と順位表を通じてリーグの動向を確認できます。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Euro Hockey League Week Sixteen Round-up",
+        "summary": "Week sixteen of the Euro Hockey League has concluded with multiple matches across the competition. The week's results showcase the ongoing performance of teams competing in Europe's premier field hockey league. Fans can stay updated on their favorite teams' progress through the latest match outcomes and league standings.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Euro Hockey League Week Zestien",
+        "summary": "Week zestien van de Euro Hockey League heeft plaatsgevonden met diverse wedstrijdresultaten. De competitie gaat verder met teams die strijden voor hun posities in Europees topveldhokey. Supporters kunnen op de hoogte blijven van hun favoriete teams door de laatste uitslagen en de stand van de competitie.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "863ac1c784b8",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/ehl-premier-division-review-week-thirteen",
+    "fetched_at": "2026-03-27T09:27:58.882Z",
+    "translations": {
+      "ja": {
+        "headline": "ユーロホッケーリーグ プレミアディビジョン 第13週レビュー",
+        "summary": "ユーロホッケーリーグプレミアディビジョンの第13週が開催されました。各チームの試合結果と順位の動きが報告されています。このレビューではシーズン中盤の重要な週における各チームのパフォーマンスと、リーグ全体の競争状況が総括されています。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Euro Hockey League Premier Division Week 13 Review",
+        "summary": "The Euro Hockey League Premier Division completed its thirteenth week of competition. The weekly review covers match results and league standings updates from this critical mid-season period. Key performances and competitive developments across the division are highlighted, providing readers with comprehensive insight into the current state of the league's top-tier competition.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Euro Hockey League Premierdivisie Week 13 Samenvatting",
+        "summary": "De Euro Hockey League Premierdivisie heeft haar dertiende speelronde afgerond. Deze wekelijkse review behandelt wedstrijdresultaten en updates in de competitiestand uit deze belangrijke periode in het seizoen. De prestaties van de teams en ontwikkelingen in de topklasse worden samengevat, waardoor lezers een volledig beeld krijgen van de huidige situatie.",
+        "category": "リーグ"
+      }
+    }
+  },
+  {
+    "id": "4b03f474dfc1",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/open-men-s-ehl-premier-division-preview-week-thirteen",
+    "fetched_at": "2026-03-27T09:27:58.882Z",
+    "translations": {
+      "ja": {
+        "headline": "ユーロホッケーリーグ プレミアムディビジョン第13週プレビュー",
+        "summary": "ユーロホッケーリーグ男子プレミアムディビジョンの第13週が間近に迫っている。各チームは激烈な競争の中で上位進出を目指す。カンポン、オールドジョージアンズなど強豪チームが参戦する重要な週となり、各チームの戦術と選手層がプレーオフへの道を左右する重要な節目である。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Euro Hockey League Men's Premier Division Week 13 Preview",
+        "summary": "The Euro Hockey League Men's Premier Division enters Week 13 with teams vying for crucial playoff positions. Top contenders including Kampong and Old Georgians are set to compete in matches that will significantly impact standings. This pivotal week features intense competition as teams look to solidify their positions and maintain momentum heading into the final stages of the season.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Euro Hockey League Mannen Premier Division Week 13 Preview",
+        "summary": "De Euro Hockey League Mannen Premier Division gaat week 13 in met teams die strijden voor cruciale playoff-posities. Topkandidaten zoals Kampong en Old Georgians treden aan in wedstrijden die van grote invloed zijn op de eindstand. Deze cruciale week biedt intense competitie terwijl teams hun positie willen veiligstellen en hun momentum behouden richting de finale fase van het seizoen.",
+        "category": "リーグ"
+      }
+    }
+  },
+  {
+    "id": "a87be9f936ae",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/draw-determines-fih-hockey-world-cup-2026-pools",
+    "fetched_at": "2026-03-27T09:27:58.882Z",
+    "translations": {
+      "ja": {
+        "headline": "2026年FIHホッケーワールドカップのプール決定",
+        "summary": "FIH（国際ホッケー連盟）の抽選により、2026年ホッケーワールドカップのプール分けが決定した。大会には世界中の強豪国が参加し、複数のプールに振り分けられる。抽選結果に基づいて、各国の予選リーグでの対戦相手が確定し、大会の本格的な準備が進むことになった。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "FIH Hockey World Cup 2026 Pool Draw Complete",
+        "summary": "The FIH has completed the draw determining pool divisions for the 2026 Hockey World Cup. Nations have been allocated to their respective groups through the official draw ceremony, setting the stage for preliminary round matchups. The pool assignments establish the competition framework for the upcoming world championship, with participating nations now knowing their group opponents and schedule structure.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Loting bepaalt pouleindeling WK Hockey 2026",
+        "summary": "De FIH heeft via loting de poulestelling voor het Wereldkampioenschap Hockey 2026 bepaald. De deelnemende landen zijn ingedeeld in verschillende groepen, waardoor de tegenstanders in de voorronde vastgesteld zijn. Met deze loting is de basis gelegd voor de competitiestructuur van het aanstaande wereldkampioenschap, waarbij alle landen nu hun groepsgenoten kennen.",
+        "category": "リーグ"
+      }
+    }
+  },
+  {
+    "id": "e1e95b017951",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/ehl-premier-division-review-week-12",
+    "fetched_at": "2026-03-27T09:27:58.883Z",
+    "translations": {
+      "ja": {
+        "headline": "ユーロホッケーリーグ プレミアディビジョン 第12週レビュー",
+        "summary": "ユーロホッケーリーグ プレミアディビジョンの第12週が開催されました。複数のチームが激しい試合を繰り広げ、リーグの順位争いが一層熾烈になっています。カンポンやオールドジョージアンズを含む主要チームの戦績が更新され、今後の順位変動に大きな影響を与えています。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Euro Hockey League Premier Division Week 12 Review",
+        "summary": "The Euro Hockey League Premier Division completed Week 12 with several competitive matches that intensified the league standings. Key teams including Kampong and Old Georgians delivered significant performances, shaping the race for top positions. The week's results have major implications for the remainder of the season and upcoming playoff positioning.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Euro Hockey League Premier Division Week 12 Terugblik",
+        "summary": "De Euro Hockey League Premier Division heeft Week 12 afgerond met meerdere intensieve wedstrijden die de strijd om de topposities verscherpen. Kampong en Old Georgians leverden opvallende prestaties, wat gevolgen heeft voor de verdere rangschikking. De resultaten van deze speelronde hebben aanzienlijke invloed op de titelrace en de eindstand van het seizoen.",
+        "category": "リーグ"
+      }
+    }
+  },
+  {
+    "id": "7caf844a576c",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/paul-departs-england-hockey-for-role-in-south-africa",
+    "fetched_at": "2026-03-27T09:27:58.883Z",
+    "translations": {
+      "ja": {
+        "headline": "ポール氏がイングランドホッケーを離れ南アフリカへ",
+        "summary": "イングランドホッケーの幹部であるポール氏が、南アフリカでの新しい職務を担うため組織を離れることが発表された。同氏の転職は、イングランドホッケーの運営体制に変化をもたらす。南アフリカでの具体的な役職については、さらなる詳細が明らかになる予定である。",
+        "category": "選手"
+      },
+      "en": {
+        "headline": "Paul leaves England Hockey for South Africa role",
+        "summary": "A senior official from England Hockey has departed the organization to take up a new position in South Africa. The move marks a significant change in leadership within England Hockey's administrative structure. Further details regarding Paul's specific role and responsibilities in South Africa are expected to be disclosed in the coming days.",
+        "category": "選手"
+      },
+      "nl": {
+        "headline": "Paul vertrekt bij England Hockey voor rol in Zuid-Afrika",
+        "summary": "Een leidinggevende van England Hockey heeft de organisatie verlaten om een nieuwe functie in Zuid-Afrika op zich te nemen. Deze stap markeert een belangrijke verandering in de leiderschapsstructuur van England Hockey. Verdere details over Pauls specifieke rol en verantwoordelijkheden in Zuid-Afrika zullen binnenkort worden bekendgemaakt.",
+        "category": "選手"
+      }
+    }
+  },
+  {
+    "id": "5bfecbad33a8",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/england-women-s-outstanding-2026-fih-hockey-world-cup-qualifier-campaign",
+    "fetched_at": "2026-03-27T09:27:58.883Z",
+    "translations": {
+      "ja": {
+        "headline": "イングランド女子、2026年FIH世界選手権予選で好成績",
+        "summary": "イングランド女子フィールドホッケーチームが2026年FIH世界選手権予選キャンペーンで優れた成績を収めた。予選では複数の重要な試合に勝利し、本大会出場への道を大きく前進させた。同チームは堅固な守備と攻撃力で予選ラウンドを主導し、国際舞台での競争力を示した。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "England Women Shine in 2026 FIH World Cup Qualifiers",
+        "summary": "England's women's field hockey team delivered an impressive performance throughout the 2026 FIH Hockey World Cup Qualifier campaign. The squad secured crucial victories in multiple qualifying matches, significantly advancing their path to the World Cup. Demonstrating strong defensive organization and attacking prowess, England dominated their qualification group and showcased competitive strength on the international stage.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Engeland vrouwen glans in WK-kwalificatie 2026",
+        "summary": "Het Engelse vrouwenhockeyteam leverde een indrukwekkende prestatie af in de kwalificatiecampagne voor het WK 2026 van de FIH. Het team behaalde cruciale overwinningen in meerdere kwalificatiewedstrijden en boekte aanzienlijke vooruitgang op weg naar het wereldkampioenschap. Met sterke verdediging en aanvallend spel domineerde Engeland hun kwalificatiegroep en toonde concurrentiekracht op het internationale toneel.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "e033651e2696",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/ehl-finals-tickets-now-on-sale",
+    "fetched_at": "2026-03-27T09:27:58.884Z",
+    "translations": {
+      "ja": {
+        "headline": "ユーロホッケーリーグ決勝戦のチケット販売開始",
+        "summary": "ユーロホッケーリーグ（EHL）の決勝戦のチケット販売がスタートしました。本大会は欧州のトップレベルのホッケーチームが参加する重要な試合となります。ファンはこの機会にチケットを購入し、決勝戦の熱い戦いを現地で観戦することができます。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Euro Hockey League Finals Tickets Available for Purchase",
+        "summary": "Tickets for the Euro Hockey League (EHL) Finals are now available for purchase. This significant event brings together Europe's top field hockey teams competing for the championship title. Fans can secure their tickets to experience the thrilling final matches live and witness the pinnacle of competitive club-level field hockey in Europe.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Kaartjes Euro Hockey League-finale nu te koop",
+        "summary": "De kaartverkoop voor de Euro Hockey League (EHL)-finale is van start gegaan. Dit belangrijke evenement brengt Europas beste veldhocker-clubs samen die strijden om het kampioenschap. Fans kunnen hun kaartjes nu reserveren om live getuige te zijn van de spannende finales van de toplevelcompetitie.",
+        "category": "リーグ"
+      }
+    }
+  },
+  {
+    "id": "1e313a5ec080",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/ehl-premier-division-preview-week-twelve",
+    "fetched_at": "2026-03-27T09:27:58.885Z",
+    "translations": {
+      "ja": {
+        "headline": "ユーロホッケーリーグ プレミアディビジョン 第12週プレビュー",
+        "summary": "ユーロホッケーリーグプレミアディビジョンの第12週が間もなく開幕する。各チームが激しい競争を繰り広げる中、カンポンやオールドジョージアンズを含む強豪チームの対戦が予定されている。シーズン中盤の重要な週となり、上位争いに大きな影響を与える試合が多く予定されている。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Euro Hockey League Premier Division Week Twelve Awaits",
+        "summary": "The Euro Hockey League Premier Division is set for Week Twelve action, with top teams including Kampong and Old Georgians preparing for crucial matchups. This pivotal mid-season week features important contests that will significantly impact the title race and playoff positioning. Teams are gearing up for competitive encounters that could reshape the league standings.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Euro Hockey League Premier Division Week Twaalf in Beeld",
+        "summary": "De Euro Hockey League Premier Division bereidt zich voor op week twaalf met wedstrijden van topteams waaronder Kampong en Old Georgians. Deze cruciale periode in het seizoen biedt belangrijke duels die invloed zullen hebben op de rangschikking en play-off-posities. Alle deelnemers stellen zich op voor competitieve wedstrijden met mogelijk ingrijpende gevolgen.",
+        "category": "リーグ"
+      }
+    }
+  }
+]
