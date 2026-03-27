@@ -173,6 +173,7 @@ Terminology (always use these exact translations):
 ${ehlTerm}
 - Kampong → in Japanese: カンポン / in other languages: Kampong (unchanged)
 - Old Georgians → in Japanese: オールドジョージアンズ
+- Sander de Wijn → in Japanese: サンダー・デ・バイン
 
 Output format:
 {
