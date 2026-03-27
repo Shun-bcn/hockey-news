@@ -66,11 +66,11 @@ const SORT_LABELS = {
 };
 
 const SITE_TITLE = {
-  ja: '🏑 Hockey-Deflect',
-  en: '🏑 Hockey-Deflect',
-  nl: '🏑 Hockey-Deflect',
-  es: '🏑 Hockey-Deflect',
-  hi: '🏑 Hockey-Deflect',
+  ja: '🏑 Hockey Deflect',
+  en: '🏑 Hockey Deflect',
+  nl: '🏑 Hockey Deflect',
+  es: '🏑 Hockey Deflect',
+  hi: '🏑 Hockey Deflect',
 };
 
 const LOADING_TEXT = {

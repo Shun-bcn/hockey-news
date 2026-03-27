@@ -5,10 +5,10 @@
   --text: #1a1a1a;
   --text-muted: #666;
   --border: #e0e0e0;
-  --accent: #1a6b3a;
-  --accent-light: #e8f5ed;
+  --accent: #0066CC;
+  --accent-light: #e0f0ff;
   --btn-bg: #eee;
-  --btn-active-bg: #1a6b3a;
+  --btn-active-bg: #0066CC;
   --btn-active-text: #fff;
   --shadow: 0 1px 3px rgba(0,0,0,0.08);
 }
@@ -19,10 +19,10 @@
   --text: #e8e8e8;
   --text-muted: #999;
   --border: #333;
-  --accent: #4caf77;
-  --accent-light: #1a2e22;
+  --accent: #4DA6FF;
+  --accent-light: #0d1f33;
   --btn-bg: #2a2a2a;
-  --btn-active-bg: #4caf77;
+  --btn-active-bg: #4DA6FF;
   --btn-active-text: #000;
   --shadow: 0 1px 4px rgba(0,0,0,0.4);
 }
@@ -62,10 +62,12 @@ header {
 }
 
 .site-title {
-  font-size: 1.3rem;
-  font-weight: 800;
+  font-family: 'Barlow Condensed', 'Segoe UI', sans-serif;
+  font-size: 2.6rem;
+  font-weight: 700;
   color: var(--accent);
-  letter-spacing: -0.5px;
+  letter-spacing: 0.5px;
+  line-height: 1;
 }
 
 .header-meta {
