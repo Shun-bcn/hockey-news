@@ -149,8 +149,13 @@ const LANG_NAMES = {
 async function generateTranslations(article, targetLangs = ['ja', 'en', 'nl']) {
   const langList = targetLangs.map(l => `${l} (${LANG_NAMES[l]})`).join(', ');
 
+  const ehlTerm = article.source === 'England Hockey'
+    ? '- EHL → in Japanese: イングランドホッケーリーグ / in English: England Hockey League'
+    : '- EHL → in Japanese: ユーロホッケーリーグ / in English: Euro Hockey League (NOT "European Hockey League")';
+
   const prompt = `You are a field hockey news editor. Read the article below and generate concise summaries in multiple languages.
 
+News source: ${article.source}
 Source language: ${article.original_lang}
 Title: ${article.original_title}
 Content: ${article.original_content || '(title only)'}
@@ -165,7 +170,7 @@ Rules:
 - Output ONLY valid JSON, no markdown, no explanation.
 
 Terminology (always use these exact translations):
-- EHL → in Japanese: ユーロホッケーリーグ / in English: Euro Hockey League (NOT "European Hockey League")
+${ehlTerm}
 - Kampong → in Japanese: カンポン / in other languages: Kampong (unchanged)
 - Old Georgians → in Japanese: オールドジョージアンズ
 
