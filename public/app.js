@@ -20,8 +20,7 @@ function offsetDate(dateStr, days) {
 }
 
 function formatDate(dateStr) {
-  const d = new Date(dateStr + 'T12:00:00Z');
-  return d.toLocaleDateString('ja-JP', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+  return dateStr.replace(/-/g, '/');
 }
 
 function timeAgo(isoStr) {
