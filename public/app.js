@@ -47,6 +47,7 @@ const CAT_DISPLAY = {
   en: { '試合結果': 'Match', '代表チーム': 'National Team', 'リーグ': 'League', '選手': 'Player', 'テクノロジー': 'Technology', 'ルール': 'Rules', 'その他': 'Other' },
   nl: { '試合結果': 'Wedstrijd', '代表チーム': 'Nationaal Team', 'リーグ': 'Competitie', '選手': 'Speler', 'テクノロジー': 'Technologie', 'ルール': 'Regels', 'その他': 'Overig' },
   es: { '試合結果': 'Partido', '代表チーム': 'Selección', 'リーグ': 'Liga', '選手': 'Jugador', 'テクノロジー': 'Tecnología', 'ルール': 'Reglamento', 'その他': 'Otros' },
+  hi: { '試合結果': 'मैच', '代表チーム': 'राष्ट्रीय टीम', 'リーグ': 'लीग', '選手': 'खिलाड़ी', 'テクノロジー': 'तकनीक', 'ルール': 'नियम', 'その他': 'अन्य' },
 };
 
 const FILTER_LABELS = {
@@ -54,6 +55,7 @@ const FILTER_LABELS = {
   en: { all: 'All', '試合結果': 'Match', '代表チーム': 'National Team', 'リーグ': 'League', '選手': 'Player', 'テクノロジー': 'Technology', 'ルール': 'Rules', 'その他': 'Other' },
   nl: { all: 'Alle', '試合結果': 'Wedstrijd', '代表チーム': 'Nationaal', 'リーグ': 'Competitie', '選手': 'Speler', 'テクノロジー': 'Technologie', 'ルール': 'Regels', 'その他': 'Overig' },
   es: { all: 'Todo', '試合結果': 'Partidos', '代表チーム': 'Selección', 'リーグ': 'Liga', '選手': 'Jugadores', 'テクノロジー': 'Tecnología', 'ルール': 'Reglas', 'その他': 'Otros' },
+  hi: { all: 'सभी', '試合結果': 'मैच', '代表チーム': 'राष्ट्रीय टीम', 'リーグ': 'लीग', '選手': 'खिलाड़ी', 'テクノロジー': 'तकनीक', 'ルール': 'नियम', 'その他': 'अन्य' },
 };
 
 const SORT_LABELS = {
@@ -61,6 +63,7 @@ const SORT_LABELS = {
   en: { newest: 'Newest', source: 'By Source' },
   nl: { newest: 'Nieuwste', source: 'Per bron' },
   es: { newest: 'Reciente', source: 'Por fuente' },
+  hi: { newest: 'नवीनतम', source: 'स्रोत से' },
 };
 
 const SITE_TITLE = {
@@ -68,15 +71,17 @@ const SITE_TITLE = {
   en: '🏑 Hockey-Deflect',
   nl: '🏑 Hockey-Deflect',
   es: '🏑 Hockey-Deflect',
+  hi: '🏑 Hockey-Deflect',
 };
 
 const LOADING_TEXT = {
-  ja: '読み込み中...', en: 'Loading...', nl: 'Laden...', es: 'Cargando...',
+  ja: '読み込み中...', en: 'Loading...', nl: 'Laden...', es: 'Cargando...', hi: 'लोड हो रहा है...',
 };
 
 const NO_ARTICLES_TEXT = {
   ja: 'この日のニュースはありません', en: 'No news for this day',
   nl: 'Geen nieuws voor deze dag', es: 'No hay noticias para este día',
+  hi: 'इस दिन कोई समाचार नहीं है',
 };
 
 // ─── データ取得 ───────────────────────────────────────────────
@@ -307,7 +312,7 @@ async function init() {
   // URLパラメータから言語・日付を取得
   const params = new URLSearchParams(window.location.search);
   const langParam = params.get('lang');
-  if (langParam && ['ja', 'en', 'nl', 'es'].includes(langParam)) {
+  if (langParam && ['ja', 'en', 'nl', 'es', 'hi'].includes(langParam)) {
     state.lang = langParam;
     document.querySelectorAll('.lang-btn').forEach(b => {
       b.classList.toggle('active', b.dataset.lang === langParam);

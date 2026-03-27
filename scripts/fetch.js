@@ -146,7 +146,7 @@ const LANG_NAMES = {
   hi: 'हिन्दी',
 };
 
-async function generateTranslations(article, targetLangs = ['ja', 'en', 'nl']) {
+async function generateTranslations(article, targetLangs = ['ja', 'en', 'nl', 'hi']) {
   const langList = targetLangs.map(l => `${l} (${LANG_NAMES[l]})`).join(', ');
 
   const ehlTerm = article.source === 'England Hockey'
@@ -178,12 +178,13 @@ Output format:
 {
   "ja": { "headline": "...", "summary": "...", "category": "..." },
   "en": { "headline": "...", "summary": "...", "category": "..." },
-  "nl": { "headline": "...", "summary": "...", "category": "..." }
+  "nl": { "headline": "...", "summary": "...", "category": "..." },
+  "hi": { "headline": "...", "summary": "...", "category": "..." }
 }`;
 
   const response = await anthropic.messages.create({
     model: 'claude-haiku-4-5-20251001',
-    max_tokens: 1024,
+    max_tokens: 1500,
     messages: [{ role: 'user', content: prompt }],
   });
 
