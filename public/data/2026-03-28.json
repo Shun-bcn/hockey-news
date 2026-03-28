@@ -1,1 +1,137 @@
-[]
+[
+  {
+    "id": "dd25e8087d01",
+    "source": "NOS Sport",
+    "source_url": "https://nos.nl/l/2608044",
+    "fetched_at": "2026-03-28T08:56:34.300Z",
+    "translations": {
+      "ja": {
+        "headline": "オランダが2029年欧州ホッケー選手権を開催",
+        "summary": "オランダは2029年の欧州ホッケー選手権（男女）の開催地に決定した。アムステルベルダムのワーゲナー・スタジアムで両大会が開催される。同スタジアムでの開催は6度目となり、施設は大規模改修を予定。アムステルダム森付近に高性能トレーニングセンターと2つの新しいフィールドが建設される。オランダはスペインとベルギーとの招致競争に勝利した。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Netherlands Hosts 2029 European Hockey Championships",
+        "summary": "The Netherlands has been selected to host the 2029 European Hockey Championships for both men and women at the Wagener Stadium in Amstelveen. This will be the sixth time the tournament is held at this venue. The facility will undergo significant renovation, including construction of a high-performance training center and two new fields in the Amsterdam Forest area, with work beginning after the World Cup in August. The Netherlands won the hosting bid against Spain and Belgium.",
+        "category": "その他"
+      },
+      "nl": {
+        "headline": "Nederland organiseert EK hockey 2029",
+        "summary": "Nederland organiseert de Europese kampioenschappen hockey van 2029. Zowel het mannen- als vrouwentoernooi vindt plaats in het Wagener Stadion in Amstelveen. Het is al de zesde keer dat het toernooi op deze locatie plaatsvindt. Het complex ondergaat een renovatie met de bouw van een high-performance trainingscentrum en twee nieuwe velden in het Amsterdamse Bos. De bouw begint direct na het WK in augustus. Nederland won de race tegen Spanje en België.",
+        "category": "その他"
+      },
+      "hi": {
+        "headline": "नीदरलैंड 2029 यूरोपीय हॉकी चैंपियनशिप की मेजबानी करेगा",
+        "summary": "नीदरलैंड को 2029 यूरोपीय हॉकी चैंपियनशिप की मेजबानी के लिए चुना गया है। पुरुष और महिला दोनों टूर्नामेंट एम्स्टेलवीन में वैगनर स्टेडियम में आयोजित होंगे। यह इस स्थान पर छठी बार टूर्नामेंट आयोजित किया जाएगा। सुविधा का महत्वपूर्ण नवीकरण किया जाएगा, जिसमें एम्स्टर्डम वन क्षेत्र में एक उच्च-प्रदर्शन प्रशिक्षण केंद्र और दो नए मैदान बनाए जाएंगे। निर्माण अगस्त में विश्व कप के बाद शुरू होगा। नीदरलैंड ने स्पेन और बेल्जियम के खिलाफ बोली जीती।",
+        "category": "その他"
+      }
+    }
+  },
+  {
+    "id": "8d18ba43256c",
+    "source": "EHL Hockey",
+    "source_url": "https://ehlhockey.tv/2026/03/27/iglesias-and-campos-fair-chance-at-ehl-pursuit/",
+    "fetched_at": "2026-03-28T08:56:37.659Z",
+    "translations": {
+      "ja": {
+        "headline": "イグレシアスとカンポ、ユーロホッケーリーグ進出へ公正な機会",
+        "summary": "イグレシアスとカンポの両選手がユーロホッケーリーグ(EHL)への参加機会を得ることになった。この決定は、両選手がリーグ競争において公正で平等な条件の下で自らの実力を発揮できる環境を提供するものである。EHLへの参加は、両選手のキャリア発展における重要なマイルストーンとなる見込みだ。",
+        "category": "選手"
+      },
+      "en": {
+        "headline": "Iglesias and Campo secure Euro Hockey League opportunity",
+        "summary": "Iglesias and Campo have been granted a fair opportunity to pursue participation in the Euro Hockey League (EHL). The decision ensures both players can compete on equal terms and demonstrate their capabilities in this competitive league environment. Their entry into the EHL represents a significant milestone in their playing careers and opens doors for further professional development.",
+        "category": "選手"
+      },
+      "nl": {
+        "headline": "Iglesias en Campo krijgen kans in Euro Hockey League",
+        "summary": "Iglesias en Campo hebben een eerlijke mogelijkheid gekregen om deel te nemen aan de Euro Hockey League (EHL). Deze beslissing zorgt ervoor dat beide spelers onder gelijke voorwaarden kunnen competeren en hun vaardigheden kunnen demonstreren in deze competitieve omgeving. Hun toelating tot de EHL markeert een belangrijk moment in hun sportcarrière.",
+        "category": "選手"
+      }
+    }
+  },
+  {
+    "id": "57c53b2ccf10",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/gold-cup-finales-bekend",
+    "fetched_at": "2026-03-28T08:56:38.737Z",
+    "translations": {
+      "ja": {
+        "headline": "ゴールドカップ決勝が決定、女子はワーゲニンゲン対ブルーメンダール",
+        "summary": "オランダ国内の主要大会「ゴールドカップ」の決勝カードが決定した。女子の部では先週ワーゲニンゲンとブルーメンダール ダムス1が決勝進出を決め、男子の部ではデン・ボッシュとオレンジ・レッドが昨日決勝進出を確定させた。女子決勝は2026年4月16日木曜日の20時30分にワーゲニンゲンの施設で開催され、男子決勝は2026年4月23日木曜日の19時30分にオレンジ・レッドの施設で行われる予定である。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Gold Cup Finals Set: Wageningen vs Bloemendaal Women, Den Bosch vs Oranje-Rood Men",
+        "summary": "The Gold Cup championship finals have been determined. Wageningen and Bloemendaal Dames 1 secured the women's final last week, while Den Bosch and Oranje-Rood qualified for the men's final yesterday. The women's final will be held on Thursday, April 16, 2026 at 20:30 at Wageningen's complex, and the men's final will take place on Thursday, April 23, 2026 at 19:30 at Oranje-Rood's complex. Both finals will be hosted at the respective finalist facilities.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Gold Cup finales bekend: Wageningen-Bloemendaal dames en Den Bosch-Oranje-Rood heren",
+        "summary": "De finales van de Gold Cup zijn bepaald. Vorige week plaatsten Wageningen en Bloemendaal Dames 1 zich voor de damesfinale, en gisteren hebben Den Bosch en Oranje-Rood zich geplaatst voor de herenfinale. De damesfinale wordt op donderdag 16 april 2026 om 20:30 uur gespeeld op het complex van Wageningen. De herenfinale vindt plaats op donderdag 23 april 2026 om 19:30 uur bij Oranje-Rood.",
+        "category": "リーグ"
+      },
+      "hi": {
+        "headline": "गोल्ड कप के फाइनल निर्धारित हुए",
+        "summary": "डच हॉकी के प्रमुख टूर्नामेंट गोल्ड कप के फाइनल निर्धारित हो गए हैं। महिलाओं के विभाग में वैगेनिंगन और ब्लूमेंडाल डेम्स 1 ने अपनी जगह पक्की कर ली है, जबकि पुरुषों के विभाग में डेन बॉश और ऑरेंज-रेड ने कल अपना स्थान सुनिश्चित किया। महिलाओं का फाइनल 16 अप्रैल 2026 को शाम 8:30 बजे वैगेनिंगन के मैदान में खेला जाएगा, और पुरुषों का फाइनल 23 अप्रैल 2026 को शाम 7:30 बजे ऑरेंज-रेड के स्टेडियम में होगा।",
+        "category": "リーグ"
+      }
+    }
+  },
+  {
+    "id": "cddcd9c9a458",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/ek-hockey-2029-dames-en-heren-komt-naar-nederland",
+    "fetched_at": "2026-03-28T08:56:38.737Z",
+    "translations": {
+      "ja": {
+        "headline": "2029年ホッケーEK、オランダで開催決定",
+        "summary": "国際ホッケー連盟（KNHB）は、2029年のヨーロッパホッケー選手権（EK）の男女大会をオランダで開催することを発表した。この重要な国際大会がオランダに誘致されたことで、同国のホッケー界にとって大きな栄誉となる。大会は男女両部門で実施される予定で、オランダホッケーの実力を世界に示す絶好の機会となる。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Netherlands to Host 2029 Hockey EK",
+        "summary": "The Royal Netherlands Hockey Association (KNHB) has announced that the Netherlands will host the 2029 European Hockey Championship (EK) for both men and women. This prestigious international competition will take place in the Netherlands, representing a significant honor for Dutch hockey. The tournament will feature both men's and women's divisions, providing an excellent opportunity to showcase the strength of Dutch hockey on the world stage.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "EK hockey 2029 komt naar Nederland",
+        "summary": "De KNHB heeft aangekondigd dat Nederland het Europees Kampioenschap hockey 2029 voor zowel de heren als de dames zal organiseren. Deze prestigieuze internationale competitie komt naar Nederland, wat een grote eer voor het Nederlandse hockey is. Het toernooi zal uit beide divisies bestaan en biedt een uitstekende gelegenheid om de kracht van het Nederlandse hockey op het wereldtoneel te tonen.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "नीदरलैंड को 2029 हॉकी EK की मेजबानी",
+        "summary": "रॉयल नीदरलैंड्स हॉकी एसोसिएशन (KNHB) ने घोषणा की है कि नीदरलैंड 2029 यूरोपीय हॉकी चैंपियनशिप (EK) की मेजबानी पुरुष और महिला दोनों के लिए करेगा। यह प्रतिष्ठित अंतर्राष्ट्रीय प्रतियोगिता नीदरलैंड में होगी, जो डच हॉकी के लिए एक बड़ा सम्मान है। टूर्नामेंट दोनों डिवीजन को दिखाएगा और विश्व स्तर पर डच हॉकी की ताकत प्रदर्शित करने का शानदार अवसर है।",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "1f33c5cb9785",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/ehl-premier-division-preview-week-fourteen",
+    "fetched_at": "2026-03-28T08:56:39.943Z",
+    "translations": {
+      "ja": {
+        "headline": "イングランドホッケーリーグ プレミアディビジョン 第14週プレビュー",
+        "summary": "イングランドホッケーリーグのプレミアディビジョン第14週が開催予定です。このプレビュー記事では、今週の主要マッチアップ、チームの最新フォーム、選手の状態、そして優勝争いの最新動向を詳しく解説します。リーグ上位チームの対戦やシーズン後半に向けた重要な試合情報を提供し、ファンが試合結果を予測する際の参考情報となります。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "England Hockey League Premier Division Week 14 Preview",
+        "summary": "The England Hockey League's Premier Division enters Week 14 with significant matchups on the horizon. This preview covers the top fixtures, team form, player conditions, and the latest developments in the title race. Key insights into league leaders' upcoming challenges and crucial matches for mid-table contenders provide fans with essential context for the week ahead.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "England Hockey League Premier Division Week 14 Vooruitblik",
+        "summary": "De Premier Division van de England Hockey League gaat deze week verder met belangrijke wedstrijden. Dit overzicht behandelt de topwedstrijden, huidige vorm van de teams, spelersprestaties en de laatste ontwikkelingen in de titelstrijd. Inzichten in uitdagingen voor topteams en cruciale wedstrijden voor middenfeld-kanshebbers geven fans essentiële informatie voor komende week.",
+        "category": "リーグ"
+      },
+      "hi": {
+        "headline": "इंग्लैंड हॉकी लीग प्रीमियर डिवीजन सप्ताह 14 पूर्वावलोकन",
+        "summary": "इंग्लैंड हॉकी लीग की प्रीमियर डिवीजन सप्ताह 14 में महत्वपूर्ण मैचों के साथ आगे बढ़ रही है। यह पूर्वावलोकन शीर्ष मैचअप, टीम के फॉर्म, खिलाड़ी की स्थिति और चैंपियनशिप दौड़ में नवीनतम विकास को कवर करता है। शीर्ष टीमों के आने वाले चुनौतियों और मध्य-सारणी प्रतिद्वंद्वियों के लिए महत्वपूर्ण मैचों में अंतर्दृष्टि प्रशंसकों को आने वाले सप्ताह के लिए आवश्यक जानकारी प्रदान करता है।",
+        "category": "リーグ"
+      }
+    }
+  }
+]
