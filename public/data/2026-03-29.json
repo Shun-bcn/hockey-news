@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "id": "0b0d1b8657b4",
+    "source": "NOS Sport",
+    "source_url": "https://nos.nl/l/2608283",
+    "fetched_at": "2026-03-29T18:14:44.672Z",
+    "translations": {
+      "ja": {
+        "headline": "ブルーメンダール、プレーオフ争いで痛手",
+        "summary": "オランダホッケー男子でチャンピオンのブルーメンダールがホームでデン・ボッシュに2-3で敗北し、プレーオフ争いで痛手を被った。デン・ボッシュはコエン・ビジェンとマックス・クレフトのゴールで序盤から優位に立った。ブルーメンダールはティウン・バインスのペナルティコーナーで1点返したが同点に追いつけず。オランヘ・ロートとロッテルダムがプレーオフ進出を確保する一方で、アムステルダム（34点）、デン・ボッシュ（33点）、ピノケ（32点）、ブルーメンダール（30点）が激しく争っている。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Bloemendaal Suffer Playoff Blow Against Den Bosch",
+        "summary": "Record champions Bloemendaal suffered a painful 2-3 home defeat to rivals Den Bosch in the battle for playoff qualification. Den Bosch dominated early through goals from Koen Bijen and Max Kreft, establishing a comfortable lead within eleven minutes. Bloemendaal pulled one back through a penalty corner from Teun Beins with ten minutes remaining, but could not force an equalizer. Oranje-Rood and Rotterdam have secured playoff spots, while the fight for remaining places remains extremely tight with Amsterdam (34 points), Den Bosch (33), Pinoké (32), and Bloemendaal (30) closely competing.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Bloemendaal verliest thuis van Den Bosch",
+        "summary": "Recordkampioen Bloemendaal heeft thuis tegen Den Bosch verloren met 2-3 in de strijd om een plek in de play-offs om de landstitel. Den Bosch bouwde een comfortabele voorsprong op door doelpunten van Koen Bijen en Max Kreft in de eerste elf minuten. Pas tien minuten voor tijd wist Bloemendaal via een strafcorner van Teun Beins wat terug te doen, maar een comeback lukte niet. Oranje-Rood en Rotterdam lijken zeker van de play-offs, terwijl Amsterdam (34 punten), Den Bosch (33), Pinoké (32) en Bloemendaal (30) nog sterk om de overige plekken strijden.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "ब्लोमेंडाल को डेन बॉश से पीड़ादायक हार",
+        "summary": "रिकॉर्ड चैंपियन ब्लोमेंडाल को प्लेऑफ़ के लिए स्पॉट की लड़ाई में प्रतिद्वंद्वी डेन बॉश के खिलाफ घर पर 2-3 की पीड़ादायक हार का सामना करना पड़ा। डेन बॉश ने कोएन बिजेन और मैक्स क्रेफ्ट के गोल के माध्यम से पहले ग्यारह मिनट में एक आरामदायक लीड बना लिया। ब्लोमेंडाल को टेउन बेइंस के पेनल्टी कॉर्नर से दस मिनट पहले एक गोल मिला, लेकिन बराबरी नहीं हो सके। ओरांजे-रूड और रॉटरडैम प्लेऑफ़ को सुरक्षित करते दिख रहे हैं, जबकि एम्सटर्डम (34 अंक), डेन बॉश (33), पिनोके (32) और ब्लोमेंडाल (30) बाकी जगहों के लिए कड़ी प्रतिस्पर्धा कर रहे हैं।",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "4c88aa21a68b",
+    "source": "NOS Sport",
+    "source_url": "https://nos.nl/l/2608225",
+    "fetched_at": "2026-03-29T18:14:44.673Z",
+    "translations": {
+      "ja": {
+        "headline": "オランジェ・ロート、ピノケに6-1で圧勝",
+        "summary": "オランダ・トゥルプ・ハウプトクラッセのリーダー、オランジェ・ロート（アイントホーフェン）がピノケ（アムステルダム）をアムステルダムの森で6-1と大差で破った。ピノケは11月24日以来の初めてのホーム敗北を喫し、3位の座が危機的状況に。アムステルダム、デン・ボッシュ、ブルーメンダール等が迫っている。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Leaders Oranje-Rood thrash Pinoké 6-1",
+        "summary": "Oranje-Rood, the leader from Eindhoven, dominated third-placed Pinoké in the Tulp Hoofdklasse with a commanding 6-1 victory at Amsterdam's Bos. This marks Pinoké's first home loss since November 24, 2024. The defeat threatens Pinoké's third-place standing with Amsterdam, Den Bosch, and Bloemendaal closing in. The top four teams qualify for the playoffs. Tomorrow features matches including Amsterdam-HDM and Bloemendaal-Den Bosch.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Oranje-Rood geeft Pinoké forse pak slaag",
+        "summary": "Oranje-Rood uit Eindhoven, de koploper in de Tulp Hoofdklasse, heeft Pinoké met 6-1 zwaar verslagen in het Amsterdamse Bos. Voor Pinoké (nummer drie) was dit de eerste thuisnederlaag sinds 24 november 2024. De club dreigt de derde plaats te verliezen, met Amsterdam, Den Bosch en Bloemendaal dicht op de hielen. De beste vier teams plaatsen zich voor de play-offs.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "ओरेंज-रूड ने पिनोके को 6-1 से हराया",
+        "summary": "टुल्प हौप्टक्लेस में अग्रणी ओरेंज-रूड (आइंडहोवन) ने तीसरे स्थान के पिनोके को एम्स्टर्डम के बोस में 6-1 से भारी हार दी। यह पिनोके की 24 नवंबर 2024 के बाद से पहली घरेलू हार है। हार के बाद पिनोके के तीसरे स्थान पर खतरा मंडरा रहा है, जहां एम्स्टर्डम, डेन बोश और ब्लूमेंडाल करीब आ गई हैं। शीर्ष चार टीमें प्लेऑफ में प्रवेश करती हैं।",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "6cc386c9ae3b",
+    "source": "EHL Hockey",
+    "source_url": "https://ehlhockey.tv/2026/03/28/blanca-double-excited-after-year-out-with-campo/",
+    "fetched_at": "2026-03-29T18:14:47.328Z",
+    "translations": {
+      "ja": {
+        "headline": "ブランカ選手、カンポン復帰で「二重に興奮」",
+        "summary": "ユーロホッケーリーグの選手ブランカがカンポンとの契約を通じて1年のブランクを経て復帰。選手は「二重に興奮している」とコメントし、新シーズンへの意気込みを示した。この復帰はチームと選手の双方にとって重要な局面となる。",
+        "category": "選手"
+      },
+      "en": {
+        "headline": "Blanca Returns to Kampong After Year Away",
+        "summary": "Player Blanca expresses excitement about her return to Kampong following a year away from competition. The Euro Hockey League athlete describes feeling \"double-excited\" about rejoining the squad. Her comeback marks an important moment for both the player and the team as they prepare for the upcoming season.",
+        "category": "選手"
+      },
+      "nl": {
+        "headline": "Blanca \"dubbel enthousiast\" na terugkeer bij Kampong",
+        "summary": "Speelster Blanca keert terug bij Kampong na een jaar afwezigheid. De atlete uit de Euro Hockey League spreekt van \"dubbel enthousiasme\" over haar rentree. De terugkeer van Blanca is een belangrijk moment voor zowel de speelster als het team voor het komende seizoen.",
+        "category": "選手"
+      },
+      "hi": {
+        "headline": "ब्लांका कैंपोंग में साल भर बाद \"दोगुनी उत्सुक\"",
+        "summary": "यूरो हॉकी लीग की खिलाड़ी ब्लांका एक साल की अनुपस्थिति के बाद कैंपोंग में अपनी वापसी पर उत्सुकता व्यक्त कर रही हैं। खिलाड़ी ने अपनी टीम में वापसी के बारे में \"दोगुनी उत्सुक\" होने की बात कही। यह वापसी आने वाले सीजन के लिए खिलाड़ी और टीम दोनों के लिए महत्वपूर्ण है।",
+        "category": "選手"
+      }
+    }
+  }
+]
