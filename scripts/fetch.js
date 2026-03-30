@@ -255,7 +255,7 @@ async function main() {
     const article = batch[i];
     try {
       process.stdout.write(`  [${i + 1}/${batch.length}] ${article.original_title.slice(0, 50)}... `);
-      const translations = await generateTranslations(article, ['ja', 'en', 'nl']);
+      const translations = await generateTranslations(article, ['ja', 'en', 'nl', 'hi']);
       processed.push({
         id: article.id,
         source: article.source,
@@ -271,7 +271,9 @@ async function main() {
 
   // 今日のファイルに保存（既存分 + 新規分）
   const allToday = [...todayArticles, ...processed];
-  fs.writeFileSync(getTodayFile(), JSON.stringify(allToday, null, 2), 'utf-8');
+  if (allToday.length > 0) {
+    fs.writeFileSync(getTodayFile(), JSON.stringify(allToday, null, 2), 'utf-8');
+  }
   console.log(`\nDone. Added: ${processed.length}, Total today (${getToday()}): ${allToday.length}`);
 }
 
