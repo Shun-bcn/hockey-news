@@ -82,5 +82,89 @@
         "category": "リーグ"
       }
     }
+  },
+  {
+    "id": "0d2b51dfc3e0",
+    "source": "EHL Hockey",
+    "source_url": "https://ehlhockey.tv/2026/03/30/a-long-time-coming-reading-captain-lucie-daman-ready-for-next-big-challenge/",
+    "fetched_at": "2026-03-30T21:23:02.839Z",
+    "translations": {
+      "ja": {
+        "headline": "リーディング主将ルシー・ダマン、次の大きな挑戦に向け準備完了",
+        "summary": "EHL Hockey報道によると、リーディングの主将ルシー・ダマンが次の大きな挑戦に向けて準備を整えている。長く待ち望まれていた機会が到来し、ダマンはチームをリードしながら新たなステップへ進む。彼女のリーダーシップと経験がチームの成功の鍵となると期待されている。",
+        "category": "選手"
+      },
+      "en": {
+        "headline": "Reading Captain Lucie Daman Ready for Next Big Challenge",
+        "summary": "Reading captain Lucie Daman is prepared for her next major challenge, according to EHL Hockey. The long-awaited opportunity has finally arrived, and Daman is poised to lead her team into this new phase. Her leadership experience and determination are expected to be crucial as she takes on this significant role moving forward.",
+        "category": "選手"
+      },
+      "nl": {
+        "headline": "Reading-aanvoerder Lucie Daman klaar voor volgende grote uitdaging",
+        "summary": "Volgens EHL Hockey is Reading-aanvoerder Lucie Daman voorbereid op haar volgende grote uitdaging. De lang verwachte gelegenheid is eindelijk aangebroken, en Daman staat klaar om haar team in deze nieuwe fase aan te voeren. Haar leiderschapservaring en vastberadenheid zullen cruciaal zijn terwijl zij deze belangrijke rol op zich neemt.",
+        "category": "選手"
+      },
+      "hi": {
+        "summary": "EHL Hockey की रिपोर्ट के अनुसार, रीडिंग की कप्तान लुसी डामन अपनी अगली बड़ी चुनौती के लिए तैयार हैं। लंबे समय से प्रतीक्षित अवसर अंततः आ गया है, और डामन अपनी टीम को इस नए चरण में नेतृत्व देने के लिए तैयार हैं। उनका नेतृत्व अनुभव और दृढ़ संकल्प इस महत्वपूर्ण भूमिका में सफलता के लिए महत्वपूर्ण माने जाते हैं।",
+        "headline": "रीडिंग कप्तान लुसी डामन अगली बड़ी चुनौती के लिए तैयार",
+        "category": "選手"
+      }
+    }
+  },
+  {
+    "id": "ac52672a4f03",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/loting-ronde-8-silver-cup-dames",
+    "fetched_at": "2026-03-30T21:23:05.148Z",
+    "translations": {
+      "ja": {
+        "headline": "シルバーカップ女子準々決勝の組み合わせ抽選実施",
+        "summary": "オランダフィールドホッケー連盟（KNHB）はユトレヒトの本部で2026年3月30日月曜日、シルバーカップ女子8回戦（準々決勝）の抽選を実施した。準々決勝では地域制限が廃止され、すべてのチームが対戦相手として抽選される可能性がある。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Silver Cup Women's Quarter-Finals Draw Held",
+        "summary": "The KNHB held the draw for round 8 (quarter-finals) of the Silver Cup Women on Monday, March 30, 2026, at their headquarters in Utrecht. In the quarter-finals, regional divisions are removed, allowing all teams to potentially face each other in the draw.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "Loting kwartfinales Silver Cup Dames afgerond",
+        "summary": "Op het bondsbureau in Utrecht vond maandag 30 maart 2026 de loting plaats voor ronde 8 (kwartfinales) van de Silver Cup Dames. Bij de kwartfinales worden de regio's losgelaten en kunnen alle teams tegen elkaar worden geloot.",
+        "category": "リーグ"
+      },
+      "hi": {
+        "headline": "सिल्वर कप महिला क्वार्टर फाइनल ड्रॉ आयोजित",
+        "summary": "नीदरलैंड की हॉकी संघ (KNHB) ने यूट्रेख्ट में अपने मुख्यालय में सोमवार, 30 मार्च 2026 को सिल्वर कप महिला के राउंड 8 (क्वार्टर-फाइनल) का ड्रॉ आयोजित किया। क्वार्टर-फाइनल में क्षेत्रीय विभाजन को हटा दिया गया है, जिससे सभी टीमें ड्रॉ में एक-दूसरे का सामना कर सकती हैं।",
+        "category": "リーグ"
+      }
+    }
+  },
+  {
+    "id": "4e9eaf27f53e",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/ehl-premier-division-review-week-fourteen",
+    "fetched_at": "2026-03-30T21:23:06.604Z",
+    "translations": {
+      "ja": {
+        "headline": "イングランドホッケーリーグ プレミアムディビジョン 第14週レビュー",
+        "summary": "イングランドホッケーリーグのプレミアムディビジョンが第14週を迎えました。各チームが激しい競争を繰り広げ、リーグ順位の変動が見られました。注目試合ではカンポンとオールドジョージアンズが対戦し、両チームの実力が遺憾なく発揮されました。各チームの攻撃的なプレーとディフェンスの工夫が試合を盛り上げ、ファンを魅了しました。今週の結果はリーグの上位争いに大きな影響を与えることになりました。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "England Hockey League Premier Division Week 14 Review",
+        "summary": "The England Hockey League Premier Division completed Week 14 with exciting matches across the competition. Key teams including Kampong and Old Georgians demonstrated strong performances on the pitch. Attacking plays and defensive strategies were showcased throughout the round, delivering compelling hockey action for spectators. The results of this week significantly impact the ongoing battle for top positions in the league standings, with teams continuing to compete intensely for points.",
+        "category": "リーグ"
+      },
+      "nl": {
+        "headline": "England Hockey League Premier Division Week 14 Samenvatting",
+        "summary": "De England Hockey League Premier Division heeft week 14 afgerond met spannende wedstrijden. Kampong en Old Georgians leverden opvallende prestaties op het veld. Beide aanvallende acties en verdedigende strategieën werden gedemonstreerd in de ronde, wat boeiend hockey aan de toeschouwers opleverde. De resultaten van deze week hebben aanzienlijke gevolgen voor de strijd om de topposities in de competitierangschikking.",
+        "category": "リーグ"
+      },
+      "hi": {
+        "headline": "इंग्लैंड हॉकी लीग प्रीमियर डिवीजन सप्ताह 14 समीक्षा",
+        "summary": "इंग्लैंड हॉकी लीग की प्रीमियर डिवीजन ने सप्ताह 14 को रोमांचक मैचों के साथ पूरा किया। कैम्पॉन्ग और ओल्ड जॉर्जियन्स जैसी मुख्य टीमों ने मैदान पर शक्तिशाली प्रदर्शन किया। आक्रामक खेल और रक्षात्मक रणनीतियां दिखाई गईं जिससे दर्शकों को रोचक हॉकी मिली। इस सप्ताह के परिणामों का लीग रैंकिंग में शीर्ष स्थान के लिए संघर्ष पर महत्वपूर्ण प्रभाव पड़ा।",
+        "category": "リーグ"
+      }
+    }
   }
 ]
