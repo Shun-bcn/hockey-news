@@ -8,14 +8,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1TEB39TPRY"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-1TEB39TPRY');
-  </script>
+  <!-- Google Analytics は Cookie 同意後に app.js から動的ロード -->
 </head>
 <body>
   <header>
@@ -83,7 +76,17 @@
   <footer>
     <p>Hockey Deflect — フィールドホッケー専用グローバルニュース / Global Field Hockey News</p>
     <p class="footer-note">記事の要約はAIにより自動生成されています。元記事は各リンク先でご確認ください。<br>Article summaries are AI-generated. Please visit each link for the original article.</p>
+    <p><a href="/privacy.html">Privacy Policy</a></p>
   </footer>
+
+  <!-- クッキー同意バナー -->
+  <div id="cookie-banner" class="cookie-banner" style="display:none">
+    <p class="cookie-text"></p>
+    <div class="cookie-actions">
+      <button id="cookie-accept" class="cookie-btn cookie-btn-accept"></button>
+      <button id="cookie-decline" class="cookie-btn cookie-btn-decline"></button>
+    </div>
+  </div>
 
   <script src="app.js"></script>
 </body>

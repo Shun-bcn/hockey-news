@@ -377,6 +377,62 @@ footer {
   line-height: 2;
 }
 
+/* ─── Cookieバナー ───────────────────────────────────────── */
+.cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: var(--bg-card);
+  border-top: 2px solid var(--accent);
+  box-shadow: 0 -2px 12px rgba(0,0,0,0.12);
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  z-index: 500;
+  flex-wrap: wrap;
+}
+
+.cookie-text {
+  font-size: 0.82rem;
+  color: var(--text);
+  line-height: 1.5;
+  flex: 1;
+  min-width: 200px;
+}
+
+.cookie-text a { color: var(--accent); }
+
+.cookie-actions {
+  display: flex;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.cookie-btn {
+  padding: 6px 16px;
+  border-radius: 16px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  transition: opacity 0.15s;
+}
+.cookie-btn:hover { opacity: 0.85; }
+
+.cookie-btn-accept {
+  background: var(--accent);
+  color: #fff;
+}
+
+.cookie-btn-decline {
+  background: var(--btn-bg);
+  color: var(--text-muted);
+}
+
 /* ─── レスポンシブ ───────────────────────────────────────── */
 @media (max-width: 600px) {
   .site-title { font-size: 1.1rem; }

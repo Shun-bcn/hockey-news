@@ -358,6 +358,7 @@ async function init() {
   updateFilterLabels();
   updateSortLabels();
   updateDateNav();
+  initCookieBanner();
 
   // データを読み込む
   state.articles = await loadArticles(state.date);
@@ -379,6 +380,71 @@ async function init() {
 }
 
 document.addEventListener('DOMContentLoaded', init);
+
+// ─── Google Analytics（Cookie同意後に動的ロード） ─────────────
+
+function loadGA() {
+  if (window._gaLoaded) return;
+  window._gaLoaded = true;
+  const s = document.createElement('script');
+  s.async = true;
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=G-1TEB39TPRY';
+  document.head.appendChild(s);
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = function(){ window.dataLayer.push(arguments); };
+  window.gtag('js', new Date());
+  window.gtag('config', 'G-1TEB39TPRY');
+}
+
+// ─── クッキー同意バナー ────────────────────────────────────────
+
+const COOKIE_I18N = {
+  text: {
+    ja: 'このサイトはアクセス解析のためCookieを使用します（Google Analytics）。',
+    en: 'This site uses cookies for analytics (Google Analytics).',
+    nl: 'Deze site gebruikt cookies voor analyse (Google Analytics).',
+    es: 'Este sitio usa cookies para análisis (Google Analytics).',
+    hi: 'यह साइट विश्लेषण के लिए कुकीज़ का उपयोग करती है (Google Analytics)।',
+  },
+  policy: {
+    ja: 'プライバシーポリシー', en: 'Privacy Policy', nl: 'Privacybeleid',
+    es: 'Política de privacidad', hi: 'गोपनीयता नीति',
+  },
+  accept: {
+    ja: '同意する', en: 'Accept', nl: 'Accepteren', es: 'Aceptar', hi: 'स्वीकार करें',
+  },
+  decline: {
+    ja: '拒否する', en: 'Decline', nl: 'Weigeren', es: 'Rechazar', hi: 'अस्वीकार करें',
+  },
+};
+
+function initCookieBanner() {
+  const consent = localStorage.getItem('cookie-consent');
+  if (consent === 'accepted') { loadGA(); return; }
+  if (consent === 'declined') return;
+
+  const banner = document.getElementById('cookie-banner');
+  if (!banner) return;
+
+  const l = state.lang;
+  const text = COOKIE_I18N.text[l] || COOKIE_I18N.text.en;
+  const policyLabel = COOKIE_I18N.policy[l] || COOKIE_I18N.policy.en;
+  banner.querySelector('.cookie-text').innerHTML =
+    `${text} <a href="/privacy.html">${policyLabel}</a>`;
+  banner.querySelector('#cookie-accept').textContent = COOKIE_I18N.accept[l] || COOKIE_I18N.accept.en;
+  banner.querySelector('#cookie-decline').textContent = COOKIE_I18N.decline[l] || COOKIE_I18N.decline.en;
+  banner.style.display = 'flex';
+
+  document.getElementById('cookie-accept').addEventListener('click', () => {
+    localStorage.setItem('cookie-consent', 'accepted');
+    banner.style.display = 'none';
+    loadGA();
+  });
+  document.getElementById('cookie-decline').addEventListener('click', () => {
+    localStorage.setItem('cookie-consent', 'declined');
+    banner.style.display = 'none';
+  });
+}
 
 // キーワード検索（HTMLのonclick/onkeydownから直接呼び出し）
 function executeSearch() {
