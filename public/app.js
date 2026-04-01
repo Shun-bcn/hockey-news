@@ -302,19 +302,7 @@ function setupEventListeners() {
     if (state.date < today()) changeDate(offsetDate(state.date, 1));
   });
 
-  // キーワード検索
-  const searchInput = document.getElementById('search-input');
-  const searchBtn = document.getElementById('search-btn');
-
-  function executeSearch() {
-    state.search = searchInput.value.trim();
-    renderArticles();
-  }
-
-  searchBtn.addEventListener('click', executeSearch);
-  searchInput.addEventListener('keydown', e => {
-    if (e.key === 'Enter') executeSearch();
-  });
+  // キーワード検索はグローバル関数 executeSearch() で処理
 
   // 共有ボタン（イベント委任）
   document.getElementById('articles-container').addEventListener('click', e => {
@@ -387,3 +375,10 @@ async function init() {
 }
 
 document.addEventListener('DOMContentLoaded', init);
+
+// キーワード検索（HTMLのonclick/onkeydownから直接呼び出し）
+function executeSearch() {
+  const input = document.getElementById('search-input');
+  state.search = input ? input.value.trim() : '';
+  renderArticles();
+}

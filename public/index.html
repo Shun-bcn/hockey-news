@@ -52,8 +52,8 @@
 
       <!-- キーワード検索 -->
       <div class="search-bar">
-        <input type="text" id="search-input" class="search-input" placeholder="キーワード検索..." autocomplete="off">
-        <button id="search-btn" class="search-btn">Search</button>
+        <input type="text" id="search-input" class="search-input" placeholder="キーワード検索..." autocomplete="off" onkeydown="if(event.key==='Enter')executeSearch()">
+        <button class="search-btn" onclick="executeSearch()">Search</button>
       </div>
 
       <!-- ソート + 日付ナビ -->
