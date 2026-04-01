@@ -237,6 +237,12 @@ main {
   margin-left: auto;
 }
 
+.search-result-header {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  padding: 6px 4px 10px;
+}
+
 .article-date-badge {
   background: var(--accent-light);
   color: var(--accent);

@@ -419,7 +419,14 @@ async function runGlobalSearch(q) {
       return;
     }
 
-    container.innerHTML = results.map(a => renderCard(a, true)).join('');
+    const header = `<div class="search-result-header">${
+      { ja: `全${allArticles.length}件から検索 → ${results.length}件ヒット`,
+        en: `${results.length} results from ${allArticles.length} articles`,
+        nl: `${results.length} resultaten uit ${allArticles.length} artikelen`,
+        es: `${results.length} resultados de ${allArticles.length} artículos`,
+        hi: `${allArticles.length} लेखों में से ${results.length} परिणाम` }[state.lang] || `${results.length} / ${allArticles.length}`
+    }</div>`;
+    container.innerHTML = header + results.map(a => renderCard(a, true)).join('');
   } catch (e) {
     container.innerHTML = `<div class="loading">検索エラー。しばらくしてから再度お試しください。</div>`;
   }
