@@ -278,6 +278,21 @@ async function main() {
     fs.writeFileSync(getTodayFile(), JSON.stringify(allToday, null, 2), 'utf-8');
   }
   console.log(`\nDone. Added: ${processed.length}, Total today (${getToday()}): ${allToday.length}`);
+
+  // 全記事インデックスを再生成（横断検索用）
+  const index = [];
+  fs.readdirSync(dataDir)
+    .filter(f => f.match(/^\d{4}-\d{2}-\d{2}\.json$/))
+    .sort()
+    .forEach(f => {
+      const date = f.replace('.json', '');
+      try {
+        const articles = JSON.parse(fs.readFileSync(path.join(dataDir, f), 'utf-8'));
+        articles.forEach(a => index.push({ ...a, date }));
+      } catch (_) {}
+    });
+  fs.writeFileSync(path.join(dataDir, 'index.json'), JSON.stringify(index), 'utf-8');
+  console.log(`Index rebuilt: ${index.length} total articles`);
 }
 
 main().catch(e => {

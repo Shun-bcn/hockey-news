@@ -145,7 +145,7 @@ function renderArticles() {
   container.innerHTML = articles.map(a => renderCard(a)).join('');
 }
 
-function renderCard(article) {
+function renderCard(article, showDate = false) {
   const t = article.translations?.[state.lang];
   if (!t) return '';
 
@@ -154,7 +154,10 @@ function renderCard(article) {
   const cat = t.category || 'その他';
   const catLabel = (CAT_DISPLAY[state.lang] || CAT_DISPLAY.ja)[cat] || cat;
   const time = timeAgo(article.fetched_at);
-  const shareUrl = `${location.origin}${location.pathname}?date=${state.date}&lang=${state.lang}#article-${article.id}`;
+  const articleDate = article.date || state.date;
+  const shareUrl = `${location.origin}${location.pathname}?date=${articleDate}&lang=${state.lang}#article-${article.id}`;
+  const dateBadge = showDate && article.date
+    ? `<span class="article-date-badge">${formatDate(article.date)}</span>` : '';
 
   return `
 <article id="article-${article.id}" class="article-card ${catClass(cat)}">
@@ -163,6 +166,7 @@ function renderCard(article) {
   </div>
   <p class="article-summary">${summary}</p>
   <div class="article-meta">
+    ${dateBadge}
     <span class="article-source">${escHtml(article.source)}</span>
     <span class="article-category">${escHtml(catLabel)}</span>
     <span class="article-time">${time}</span>
@@ -380,5 +384,43 @@ document.addEventListener('DOMContentLoaded', init);
 function executeSearch() {
   const input = document.getElementById('search-input');
   state.search = input ? input.value.trim() : '';
-  renderArticles();
+  if (state.search) {
+    runGlobalSearch(state.search);
+  } else {
+    renderArticles();
+  }
+}
+
+async function runGlobalSearch(q) {
+  const container = document.getElementById('articles-container');
+  const noArticles = document.getElementById('no-articles');
+  container.innerHTML = `<div class="loading">${LOADING_TEXT[state.lang]}</div>`;
+  noArticles.style.display = 'none';
+
+  try {
+    const res = await fetch('/data/index.json');
+    if (!res.ok) throw new Error('index not found');
+    const allArticles = await res.json();
+
+    const lq = q.toLowerCase();
+    const results = allArticles.filter(a => {
+      const t = a.translations?.[state.lang];
+      if (!t) return false;
+      return (t.headline || '').toLowerCase().includes(lq) ||
+             (t.summary || '').toLowerCase().includes(lq) ||
+             (a.source || '').toLowerCase().includes(lq);
+    }).reverse(); // 新しい順
+
+    if (results.length === 0) {
+      container.innerHTML = '';
+      noArticles.style.display = 'block';
+      noArticles.querySelector('p').textContent =
+        { ja: `「${q}」に一致する記事はありません`, en: `No results for "${q}"`, nl: `Geen resultaten voor "${q}"`, es: `Sin resultados para "${q}"`, hi: `"${q}" के लिए कोई परिणाम नहीं` }[state.lang] || `No results for "${q}"`;
+      return;
+    }
+
+    container.innerHTML = results.map(a => renderCard(a, true)).join('');
+  } catch (e) {
+    container.innerHTML = `<div class="loading">検索エラー。しばらくしてから再度お試しください。</div>`;
+  }
 }

@@ -237,6 +237,15 @@ main {
   margin-left: auto;
 }
 
+.article-date-badge {
+  background: var(--accent-light);
+  color: var(--accent);
+  padding: 2px 7px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.72rem;
+}
+
 .share-btn {
   background: none;
   color: var(--text-muted);
