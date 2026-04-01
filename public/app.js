@@ -5,6 +5,7 @@ const state = {
   sort: 'newest',
   date: today(),
   articles: [],
+  search: '',
 };
 
 // ─── ユーティリティ ───────────────────────────────────────────
@@ -35,26 +36,27 @@ function timeAgo(isoStr) {
 function catClass(cat) {
   const map = {
     '試合結果': 'cat-試合結果', '代表チーム': 'cat-代表チーム', 'リーグ': 'cat-リーグ',
-    '選手': 'cat-選手', 'テクノロジー': 'cat-テクノロジー', 'ルール': 'cat-ルール', 'その他': 'cat-その他'
+    '選手': 'cat-選手', 'テクノロジー': 'cat-テクノロジー', 'ルール': 'cat-ルール',
+    'スポンサー・パートナー': 'cat-スポンサー', 'その他': 'cat-その他'
   };
   return map[cat] || 'cat-その他';
 }
 
 // 言語別カテゴリ表示名
 const CAT_DISPLAY = {
-  ja: { '試合結果': '試合結果', '代表チーム': '代表チーム', 'リーグ': 'リーグ', '選手': '選手', 'テクノロジー': 'テクノロジー', 'ルール': 'ルール', 'その他': 'その他' },
-  en: { '試合結果': 'Match', '代表チーム': 'National Team', 'リーグ': 'League', '選手': 'Player', 'テクノロジー': 'Technology', 'ルール': 'Rules', 'その他': 'Other' },
-  nl: { '試合結果': 'Wedstrijd', '代表チーム': 'Nationaal Team', 'リーグ': 'Competitie', '選手': 'Speler', 'テクノロジー': 'Technologie', 'ルール': 'Regels', 'その他': 'Overig' },
-  es: { '試合結果': 'Partido', '代表チーム': 'Selección', 'リーグ': 'Liga', '選手': 'Jugador', 'テクノロジー': 'Tecnología', 'ルール': 'Reglamento', 'その他': 'Otros' },
-  hi: { '試合結果': 'मैच', '代表チーム': 'राष्ट्रीय टीम', 'リーグ': 'लीग', '選手': 'खिलाड़ी', 'テクノロジー': 'तकनीक', 'ルール': 'नियम', 'その他': 'अन्य' },
+  ja: { '試合結果': '試合結果', '代表チーム': '代表チーム', 'リーグ': 'リーグ', '選手': '選手', 'テクノロジー': 'テクノロジー', 'ルール': 'ルール', 'スポンサー・パートナー': 'スポンサー', 'その他': 'その他' },
+  en: { '試合結果': 'Match', '代表チーム': 'National Team', 'リーグ': 'League', '選手': 'Player', 'テクノロジー': 'Technology', 'ルール': 'Rules', 'スポンサー・パートナー': 'Sponsor', 'その他': 'Other' },
+  nl: { '試合結果': 'Wedstrijd', '代表チーム': 'Nationaal Team', 'リーグ': 'Competitie', '選手': 'Speler', 'テクノロジー': 'Technologie', 'ルール': 'Regels', 'スポンサー・パートナー': 'Sponsor', 'その他': 'Overig' },
+  es: { '試合結果': 'Partido', '代表チーム': 'Selección', 'リーグ': 'Liga', '選手': 'Jugador', 'テクノロジー': 'Tecnología', 'ルール': 'Reglamento', 'スポンサー・パートナー': 'Patrocinador', 'その他': 'Otros' },
+  hi: { '試合結果': 'मैच', '代表チーム': 'राष्ट्रीय टीम', 'リーグ': 'लीग', '選手': 'खिलाड़ी', 'テクノロジー': 'तकनीक', 'ルール': 'नियम', 'スポンサー・パートナー': 'प्रायोजक', 'その他': 'अन्य' },
 };
 
 const FILTER_LABELS = {
-  ja: { all: 'すべて', '試合結果': '試合結果', '代表チーム': '代表チーム', 'リーグ': 'リーグ', '選手': '選手', 'テクノロジー': 'テクノロジー', 'ルール': 'ルール', 'その他': 'その他' },
-  en: { all: 'All', '試合結果': 'Match', '代表チーム': 'National Team', 'リーグ': 'League', '選手': 'Player', 'テクノロジー': 'Technology', 'ルール': 'Rules', 'その他': 'Other' },
-  nl: { all: 'Alle', '試合結果': 'Wedstrijd', '代表チーム': 'Nationaal', 'リーグ': 'Competitie', '選手': 'Speler', 'テクノロジー': 'Technologie', 'ルール': 'Regels', 'その他': 'Overig' },
-  es: { all: 'Todo', '試合結果': 'Partidos', '代表チーム': 'Selección', 'リーグ': 'Liga', '選手': 'Jugadores', 'テクノロジー': 'Tecnología', 'ルール': 'Reglas', 'その他': 'Otros' },
-  hi: { all: 'सभी', '試合結果': 'मैच', '代表チーム': 'राष्ट्रीय टीम', 'リーグ': 'लीग', '選手': 'खिलाड़ी', 'テクノロジー': 'तकनीक', 'ルール': 'नियम', 'その他': 'अन्य' },
+  ja: { all: 'すべて', '試合結果': '試合結果', '代表チーム': '代表チーム', 'リーグ': 'リーグ', '選手': '選手', 'テクノロジー': 'テクノロジー', 'ルール': 'ルール', 'スポンサー・パートナー': 'スポンサー', 'その他': 'その他' },
+  en: { all: 'All', '試合結果': 'Match', '代表チーム': 'National Team', 'リーグ': 'League', '選手': 'Player', 'テクノロジー': 'Technology', 'ルール': 'Rules', 'スポンサー・パートナー': 'Sponsor', 'その他': 'Other' },
+  nl: { all: 'Alle', '試合結果': 'Wedstrijd', '代表チーム': 'Nationaal', 'リーグ': 'Competitie', '選手': 'Speler', 'テクノロジー': 'Technologie', 'ルール': 'Regels', 'スポンサー・パートナー': 'Sponsor', 'その他': 'Overig' },
+  es: { all: 'Todo', '試合結果': 'Partidos', '代表チーム': 'Selección', 'リーグ': 'Liga', '選手': 'Jugadores', 'テクノロジー': 'Tecnología', 'ルール': 'Reglas', 'スポンサー・パートナー': 'Patrocinador', 'その他': 'Otros' },
+  hi: { all: 'सभी', '試合結果': 'मैच', '代表チーム': 'राष्ट्रीय टीम', 'リーグ': 'लीग', '選手': 'खिलाड़ी', 'テクノロジー': 'तकनीक', 'ルール': 'नियम', 'スポンサー・パートナー': 'प्रायोजक', 'その他': 'अन्य' },
 };
 
 const SORT_LABELS = {
@@ -108,6 +110,18 @@ function renderArticles() {
     articles = articles.filter(a => {
       const t = a.translations?.[state.lang];
       return t && t.category === state.category;
+    });
+  }
+
+  // キーワード検索
+  if (state.search) {
+    const q = state.search.toLowerCase();
+    articles = articles.filter(a => {
+      const t = a.translations?.[state.lang];
+      if (!t) return false;
+      return (t.headline || '').toLowerCase().includes(q) ||
+             (t.summary || '').toLowerCase().includes(q) ||
+             (a.source || '').toLowerCase().includes(q);
     });
   }
 
@@ -234,6 +248,9 @@ function updateDateNav() {
 async function changeDate(date) {
   state.date = date;
   state.articles = [];
+  state.search = '';
+  const searchInput = document.getElementById('search-input');
+  if (searchInput) searchInput.value = '';
   document.getElementById('articles-container').innerHTML =
     `<div class="loading">${LOADING_TEXT[state.lang]}</div>`;
   state.articles = await loadArticles(date);
@@ -281,6 +298,12 @@ function setupEventListeners() {
   });
   document.getElementById('next-day').addEventListener('click', () => {
     if (state.date < today()) changeDate(offsetDate(state.date, 1));
+  });
+
+  // キーワード検索
+  document.getElementById('search-input').addEventListener('input', e => {
+    state.search = e.target.value.trim();
+    renderArticles();
   });
 
   // 共有ボタン（イベント委任）

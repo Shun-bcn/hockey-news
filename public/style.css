@@ -296,7 +296,31 @@ main {
 .cat-選手      { --cat-color: #f57c00; }
 .cat-テクノロジー { --cat-color: #00838f; }
 .cat-ルール    { --cat-color: #558b2f; }
+.cat-スポンサー { --cat-color: #c8960c; }
 .cat-その他    { --cat-color: #757575; }
+
+/* ─── 検索バー ───────────────────────────────────────────── */
+.search-bar {
+  margin-bottom: 8px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  font-size: 0.85rem;
+  background: var(--bg);
+  color: var(--text);
+  font-family: inherit;
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+.search-input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-light);
+}
+.search-input::placeholder { color: var(--text-muted); }
 
 /* ─── ローディング・空状態 ───────────────────────────────── */
 .loading {

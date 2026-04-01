@@ -17,7 +17,7 @@ function hashUrl(url) {
 }
 
 function getToday() {
-  return new Date().toISOString().slice(0, 10);
+  return process.env.FETCH_DATE || new Date().toISOString().slice(0, 10);
 }
 
 function getDataDir() {
@@ -136,7 +136,7 @@ async function fetchScrape(source) {
 
 // ─── Claude Haiku による多言語要約生成 ────────────────────────
 
-const CATEGORY_LIST = '試合結果 / 代表チーム / リーグ / 選手 / テクノロジー / ルール / その他';
+const CATEGORY_LIST = '試合結果 / 代表チーム / リーグ / 選手 / テクノロジー / ルール / スポンサー・パートナー / その他';
 
 const LANG_NAMES = {
   ja: '日本語',
@@ -168,6 +168,9 @@ Rules:
 - category: exactly one of [${CATEGORY_LIST}] — ALWAYS use the Japanese category name
 - If original language matches the target, keep the meaning accurate. For other languages, re-express the facts naturally.
 - Output ONLY valid JSON, no markdown, no explanation.
+
+Category translations (use these exact translations for スポンサー・パートナー):
+- スポンサー・パートナー → in English: Sponsor / Partner, in Dutch: Sponsor / Partner, in Hindi: प्रायोजक / साझेदार, in Spanish: Patrocinador
 
 Terminology (always use these exact translations):
 ${ehlTerm}
