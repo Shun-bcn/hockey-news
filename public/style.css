@@ -301,11 +301,13 @@ main {
 
 /* ─── 検索バー ───────────────────────────────────────────── */
 .search-bar {
+  display: flex;
+  gap: 6px;
   margin-bottom: 8px;
 }
 
 .search-input {
-  width: 100%;
+  flex: 1;
   padding: 6px 12px;
   border: 1px solid var(--border);
   border-radius: 20px;
@@ -321,6 +323,18 @@ main {
   box-shadow: 0 0 0 2px var(--accent-light);
 }
 .search-input::placeholder { color: var(--text-muted); }
+
+.search-btn {
+  padding: 6px 14px;
+  border-radius: 20px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  font-family: inherit;
+  transition: opacity 0.15s;
+}
+.search-btn:hover { opacity: 0.85; }
 
 /* ─── ローディング・空状態 ───────────────────────────────── */
 .loading {

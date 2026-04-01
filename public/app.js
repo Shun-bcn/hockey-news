@@ -304,11 +304,16 @@ function setupEventListeners() {
 
   // キーワード検索
   const searchInput = document.getElementById('search-input');
-  ['input', 'search'].forEach(ev => {
-    searchInput.addEventListener(ev, e => {
-      state.search = e.target.value.trim();
-      renderArticles();
-    });
+  const searchBtn = document.getElementById('search-btn');
+
+  function executeSearch() {
+    state.search = searchInput.value.trim();
+    renderArticles();
+  }
+
+  searchBtn.addEventListener('click', executeSearch);
+  searchInput.addEventListener('keydown', e => {
+    if (e.key === 'Enter') executeSearch();
   });
 
   // 共有ボタン（イベント委任）
