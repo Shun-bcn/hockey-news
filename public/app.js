@@ -135,7 +135,9 @@ function renderArticles() {
   if (articles.length === 0) {
     container.innerHTML = '';
     noArticles.style.display = 'block';
-    noArticles.querySelector('p').textContent = NO_ARTICLES_TEXT[state.lang] || NO_ARTICLES_TEXT.ja;
+    noArticles.querySelector('p').textContent = state.search
+      ? ({ ja: `「${state.search}」に一致する記事はありません`, en: `No results for "${state.search}"`, nl: `Geen resultaten voor "${state.search}"`, es: `Sin resultados para "${state.search}"`, hi: `"${state.search}" के लिए कोई परिणाम नहीं` }[state.lang] || `No results for "${state.search}"`)
+      : (NO_ARTICLES_TEXT[state.lang] || NO_ARTICLES_TEXT.ja);
     return;
   }
 
@@ -301,9 +303,12 @@ function setupEventListeners() {
   });
 
   // キーワード検索
-  document.getElementById('search-input').addEventListener('input', e => {
-    state.search = e.target.value.trim();
-    renderArticles();
+  const searchInput = document.getElementById('search-input');
+  ['input', 'search'].forEach(ev => {
+    searchInput.addEventListener(ev, e => {
+      state.search = e.target.value.trim();
+      renderArticles();
+    });
   });
 
   // 共有ボタン（イベント委任）
