@@ -34,7 +34,7 @@
   "scrape": [
     {
       "name": "FIH",
-      "url": "https://www.fih.hockey/news/",
+      "url": "https://www.fih.hockey/news",
       "lang": "en",
       "priority": 1,
       "selector": {
