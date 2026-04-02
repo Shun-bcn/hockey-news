@@ -146,7 +146,7 @@ const LANG_NAMES = {
   hi: 'हिन्दी',
 };
 
-async function generateTranslations(article, targetLangs = ['ja', 'en', 'nl', 'hi']) {
+async function generateTranslations(article, targetLangs = ['ja', 'en', 'nl', 'hi', 'es']) {
   const langList = targetLangs.map(l => `${l} (${LANG_NAMES[l]})`).join(', ');
 
   const ehlTerm = article.source === 'England Hockey'
@@ -183,7 +183,8 @@ Output format:
   "ja": { "headline": "...", "summary": "...", "category": "..." },
   "en": { "headline": "...", "summary": "...", "category": "..." },
   "nl": { "headline": "...", "summary": "...", "category": "..." },
-  "hi": { "headline": "...", "summary": "...", "category": "..." }
+  "hi": { "headline": "...", "summary": "...", "category": "..." },
+  "es": { "headline": "...", "summary": "...", "category": "..." }
 }`;
 
   const response = await anthropic.messages.create({
@@ -258,7 +259,7 @@ async function main() {
     const article = batch[i];
     try {
       process.stdout.write(`  [${i + 1}/${batch.length}] ${article.original_title.slice(0, 50)}... `);
-      const translations = await generateTranslations(article, ['ja', 'en', 'nl', 'hi']);
+      const translations = await generateTranslations(article, ['ja', 'en', 'nl', 'hi', 'es']);
       processed.push({
         id: article.id,
         source: article.source,

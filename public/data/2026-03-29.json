@@ -24,6 +24,11 @@
         "headline": "ब्लोमेंडाल को डेन बॉश से पीड़ादायक हार",
         "summary": "रिकॉर्ड चैंपियन ब्लोमेंडाल को प्लेऑफ़ के लिए स्पॉट की लड़ाई में प्रतिद्वंद्वी डेन बॉश के खिलाफ घर पर 2-3 की पीड़ादायक हार का सामना करना पड़ा। डेन बॉश ने कोएन बिजेन और मैक्स क्रेफ्ट के गोल के माध्यम से पहले ग्यारह मिनट में एक आरामदायक लीड बना लिया। ब्लोमेंडाल को टेउन बेइंस के पेनल्टी कॉर्नर से दस मिनट पहले एक गोल मिला, लेकिन बराबरी नहीं हो सके। ओरांजे-रूड और रॉटरडैम प्लेऑफ़ को सुरक्षित करते दिख रहे हैं, जबकि एम्सटर्डम (34 अंक), डेन बॉश (33), पिनोके (32) और ब्लोमेंडाल (30) बाकी जगहों के लिए कड़ी प्रतिस्पर्धा कर रहे हैं।",
         "category": "試合結果"
+      },
+      "es": {
+        "headline": "Bloemendaal sufre derrota en casa ante Den Bosch",
+        "summary": "Los campeones récord Bloemendaal sufrieron una dolorosa derrota 2-3 en casa ante sus rivales Den Bosch en la lucha por la clasificación a los playoffs. Den Bosch dominó el inicio con goles de Koen Bijen y Max Kreft, estableciendo una cómoda ventaja en once minutos. Bloemendaal descontó mediante un córner de penalti de Teun Beins faltando diez minutos, pero no logró forzar el empate. Oranje-Rood y Rotterdam aseguraron lugares en playoffs, mientras la lucha por los puestos restantes sigue muy cerrada con Ámsterdam (34 puntos), Den Bosch (33), Pinoké (32) y Bloemendaal (30).",
+        "category": "Resultado"
       }
     }
   },
@@ -52,6 +57,11 @@
         "headline": "ओरेंज-रूड ने पिनोके को 6-1 से हराया",
         "summary": "टुल्प हौप्टक्लेस में अग्रणी ओरेंज-रूड (आइंडहोवन) ने तीसरे स्थान के पिनोके को एम्स्टर्डम के बोस में 6-1 से भारी हार दी। यह पिनोके की 24 नवंबर 2024 के बाद से पहली घरेलू हार है। हार के बाद पिनोके के तीसरे स्थान पर खतरा मंडरा रहा है, जहां एम्स्टर्डम, डेन बोश और ब्लूमेंडाल करीब आ गई हैं। शीर्ष चार टीमें प्लेऑफ में प्रवेश करती हैं।",
         "category": "試合結果"
+      },
+      "es": {
+        "headline": "Oranje-Rood arrolla a Pinoké 6-1 en la Tulp Hoofdklasse",
+        "summary": "Oranje-Rood, líder de Eindhoven, dominó al tercero clasificado Pinoké con una contundente victoria de 6-1 en la Tulp Hoofdklasse en Ámsterdam. Esta es la primera derrota en casa de Pinoké desde el 24 de noviembre de 2024. La derrota amenaza el tercer puesto de Pinoké con Ámsterdam, Den Bosch y Bloemendaal acercándose. Los cuatro primeros equipos clasifican para los playoff.",
+        "category": "Resultado"
       }
     }
   },
@@ -80,6 +90,11 @@
         "headline": "ब्लांका कैंपोंग में साल भर बाद \"दोगुनी उत्सुक\"",
         "summary": "यूरो हॉकी लीग की खिलाड़ी ब्लांका एक साल की अनुपस्थिति के बाद कैंपोंग में अपनी वापसी पर उत्सुकता व्यक्त कर रही हैं। खिलाड़ी ने अपनी टीम में वापसी के बारे में \"दोगुनी उत्सुक\" होने की बात कही। यह वापसी आने वाले सीजन के लिए खिलाड़ी और टीम दोनों के लिए महत्वपूर्ण है।",
         "category": "選手"
+      },
+      "es": {
+        "headline": "Blanca regresa a Kampong tras un año fuera",
+        "summary": "La jugadora Blanca expresó su entusiasmo por su regreso a Kampong después de un año alejada de la competición. La atleta de la Euro Hockey League describe sentirse \"doblemente emocionada\" al reincorporarse al equipo. Su regreso marca un momento importante tanto para la jugadora como para el equipo mientras se preparan para la próxima temporada.",
+        "category": "Jugador"
       }
     }
   }

@@ -24,6 +24,11 @@
         "headline": "वेल्स हॉकी विश्व कप में जीत की सोच के साथ",
         "summary": "वेल्स के फॉरवर्ड जॉनी फ्लेक ने कहा है कि उनकी टीम पुरुष FIH हॉकी विश्व कप में सिर्फ भाग लेने के बजाय 'जीत हासिल करने' के लिए तैयार है, भले ही वेल्स टूर्नामेंट की सबसे कम रैंक वाली टीम है। इंग्लैंड, भारत और पाकिस्तान के साथ पूल D में शामिल वेल्स को कठिन चुनौतियों का सामना करना पड़ेगा।",
         "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Gales decidido a dejar huella en la Copa Mundial",
+        "summary": "El delantero galés Jonny Fleck ha declarado que su equipo abordará la Copa Mundial de Hockey FIH para hombres con ambiciones de 'conseguir victorias sorprendentes' en lugar de simplemente participar, a pesar de ser el equipo mejor clasificado del torneo. Ubicados en el desafiante Grupo D junto a Inglaterra, India y Pakistán, Gales enfrenta un camino difícil pero permanece decidido a lograr resultados competitivos.",
+        "category": "Selección Nacional"
       }
     }
   },
@@ -52,6 +57,11 @@
         "headline": "यूरो हॉकी लीग डेन बॉश में छह दिवसीय टूर्नामेंट",
         "summary": "यूरो हॉकी लीग (EHL) नीदरलैंड के डेन बॉश में एक शानदार छह दिवसीय टूर्नामेंट का आयोजन कर रही है। इस प्रमुख इवेंट में यूरोप के शीर्ष हॉकी क्लब सर्वोच्च स्तर पर प्रतिस्पर्धा के लिए एकत्रित होंगे। यह टूर्नामेंट EHL कैलेंडर में एक महत्वपूर्ण क्षण है और पूरे सप्ताह उच्च स्तरीय हॉकी प्रदर्शित करेगा।",
         "category": "リーグ"
+      },
+      "es": {
+        "headline": "Euro Hockey League organiza torneo de seis días en Den Bosch",
+        "summary": "La Euro Hockey League (EHL) organiza un emocionante torneo de seis días en Den Bosch, Países Bajos. Este importante evento reunirá a los principales clubes de hockey europeos compitiendo al más alto nivel. El torneo representa un hito significativo en el calendario de la EHL, mostrando partidos competitivos y hockey de clase mundial durante toda la semana.",
+        "category": "Liga"
       }
     }
   },
@@ -80,6 +90,11 @@
         "headline": "EHL और ABN AMRO ने दीर्घकालीन भागीदारी बढ़ाई",
         "summary": "यूरो हॉकी लीग (EHL) और ABN AMRO ने अपनी लंबे समय की भागीदारी को बढ़ाने की घोषणा की है। डच वित्तीय संस्थान ABN AMRO यूरोप की शीर्ष फील्ड हॉकी प्रतियोगिता के मुख्य प्रायोजक के रूप में अपनी भूमिका जारी रखेगा। इस समझौते का विस्तार दोनों संगठनों की खेल को उच्चतम स्तर पर बढ़ावा देने और यूरोप में हॉकी के विकास के प्रति प्रतिबद्धता को दर्शाता है।",
         "category": "その他"
+      },
+      "es": {
+        "headline": "EHL y ABN AMRO renuevan su acuerdo de asociación",
+        "summary": "La Euro Hockey League (EHL) y ABN AMRO han anunciado la extensión de su asociación de larga trayectoria. Como patrocinador principal, ABN AMRO continuará apoyando la competición de hockey sobre césped más importante de Europa. La renovación del acuerdo subraya el compromiso de ambas organizaciones en avanzar el deporte al más alto nivel y promover el hockey sobre césped en Europa.",
+        "category": "Patrocinador"
       }
     }
   },
@@ -108,6 +123,11 @@
         "headline": "अंग्रेजी क्लब यूरोप में ईस्टर के दौरान सक्रिय",
         "summary": "अंग्रेजी हॉकी क्लब ईस्टर अवधि के दौरान यूरोपीय प्रतियोगिताओं में भाग लेने की तैयारी कर रहे हैं। कई क्लब इस महत्वपूर्ण समय में अंतर्राष्ट्रीय मैचों का सामना करेंगे, जो यूरोपीय हॉकी में इंग्लैंड की प्रतिस्पर्धी क्षमता को प्रदर्शित करेगा। ये मैच टीमों के अनुभव के लिए मूल्यवान होंगे और इंग्लैंड हॉकी लीग में उनकी स्थिति को प्रभावित कर सकते हैं।",
         "category": "リーグ"
+      },
+      "es": {
+        "headline": "Clubes ingleses se preparan para intenso calendario de Pascua",
+        "summary": "Los clubes de hockey ingleses se alistan para un activo período de Pascua con múltiples equipos compitiendo en competiciones europeas. Los clubes participarán en encuentros internacionales durante este período significativo, mostrando el nivel competitivo de Inglaterra en el hockey europeo. Estos partidos proporcionan experiencia valiosa y podrían impactar sus posiciones en la Liga de Hockey de Inglaterra al enfrentar oposición desafiante en todo el continente.",
+        "category": "Liga"
       }
     }
   }
