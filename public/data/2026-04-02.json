@@ -1021,5 +1021,797 @@
         "category": "試合結果"
       }
     }
+  },
+  {
+    "id": "c563665cc335",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/how-hockey-is-transforming-lives-in-toowoomba",
+    "fetched_at": "2026-04-02T16:21:24.100Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケーがトゥーンバの人生を変える",
+        "summary": "オーストラリアのトゥーンバでは、ホッケーが地域社会に大きな影響を与えている。初めてホッケーに触れた人々が、このスポーツを通じて所属感と人生の変化を経験している。ホッケー・オーストラリアが推進するこのプログラムは、若年層の発展と地域活性化に貢献し、多くの参加者がホッケー・コミュニティの一員として生まれ変わっている。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Hockey transforms lives in Toowoomba community",
+        "summary": "Hockey Australia reports on how the sport is creating meaningful change in Toowoomba. From their first introduction to the game, participants are discovering a sense of belonging through hockey. The program demonstrates how sport can foster community connection and personal development, with players experiencing life-changing engagement within the hockey community.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "Hockey verandert levens in Toowoomba",
+        "summary": "Hockey Australië beschrijft hoe hockey de gemeenschap in Toowoomba transformeert. Deelnemers ervaren vanaf hun eerste kennismaking met de sport een sterk gevoel van verbondenheid. Het programma toont aan hoe sport gemeenschapsvorming en persoonlijke ontwikkeling kan bevorderen, waarbij spelers leven veranderende ervaringen opdoen binnen de hockeygemeenschap.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "हॉकी तूम्बा में जीवन बदल रही है",
+        "summary": "हॉकी ऑस्ट्रेलिया की रिपोर्ट के अनुसार, टूम्बा समुदाय में हॉकी महत्वपूर्ण परिवर्तन ला रही है। प्रतिभागियों को अपने पहले संपर्क से ही खेल के माध्यम से संबंधिता की भावना मिल रही है। यह कार्यक्रम दिखाता है कि खेल समुदाय निर्माण और व्यक्तिगत विकास को कैसे बढ़ावा दे सकता है।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "El hockey transforma vidas en Toowoomba",
+        "summary": "Hockey Australia reporta cómo el deporte está generando cambio significativo en Toowoomba. Desde su primer contacto con el juego, los participantes descubren un sentido de pertenencia. El programa demuestra cómo el deporte puede fomentar conexión comunitaria y desarrollo personal, con jugadores experimentando transformaciones profundas dentro de la comunidad de hockey.",
+        "category": "Patrocinador"
+      }
+    }
+  },
+  {
+    "id": "956cc6500b59",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/wollongong-to-host-the-2026-indoor-masters-invitational-",
+    "fetched_at": "2026-04-02T16:21:24.101Z",
+    "translations": {
+      "ja": {
+        "headline": "ウーロンゴンが2026年ホッケー・オーストラリア室内マスターズ招待試合を開催",
+        "summary": "ホッケー・オーストラリアは、2026年の室内マスターズ招待試合をニューサウスウェールズ州ウーロンゴンで開催することを発表した。この大会は、オーストラリアの屋内フィールドホッケーの主要なマスターズ競技会であり、国内外の経験豊富な選手たちが参加予定。ウーロンゴンでの開催により、同地域のホッケー発展と競技の普及が期待されている。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Wollongong to Host 2026 Hockey Australia Indoor Masters Invitational",
+        "summary": "Hockey Australia has announced that Wollongong, New South Wales, will host the 2026 Hockey Australia Indoor Masters Invitational. The tournament is a premier masters-level indoor field hockey competition in Australia, attracting experienced domestic and international players. The event in Wollongong is expected to promote hockey development in the region and boost participation in the sport.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Wollongong organiseert 2026 Hockey Australia Indoor Masters Invitational",
+        "summary": "Hockey Australia heeft aangekondigd dat Wollongong in New South Wales gastheer zal zijn van de 2026 Hockey Australia Indoor Masters Invitational. Dit toernooi is een toonaangevende masters-niveau competitie in binnenlandse veldhockey in Australië, met deelname van ervaren binnenlandse en internationale spelers. Het evenement in Wollongong zal de hockeytoenemende in de regio bevorderen en sportontwikkeling stimuleren.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "वोलॉन्गॉन्ग 2026 हॉकी ऑस्ट्रेलिया इनडोर मास्टर्स आमंत्रण की मेजबानी करेगा",
+        "summary": "हॉकी ऑस्ट्रेलिया ने घोषणा की है कि न्यू साउथ वेल्स के वोलॉन्गॉन्ग में 2026 हॉकी ऑस्ट्रेलिया इनडोर मास्टर्स इनविटेशनल का आयोजन किया जाएगा। यह टूर्नामेंट ऑस्ट्रेलिया में इनडोर फील्ड हॉकी की एक प्रमुख मास्टर्स-स्तरीय प्रतियोगिता है, जिसमें घरेलू और अंतर्राष्ट्रीय अनुभवी खिलाड़ी भाग लेंगे। वोलॉन्गॉन्ग में यह आयोजन क्षेत्र में हॉकी विकास और खेल प्रचार को बढ़ावा देगा।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Wollongong será sede del Invitacional Indoor Masters de Hockey Australia 2026",
+        "summary": "Hockey Australia ha anunciado que Wollongong, Nueva Gales del Sur, albergará el Invitacional Indoor Masters de Hockey Australia 2026. El torneo es una competencia de hockey sobre césped en pista cubierta de nivel máster de primer nivel en Australia, atrayendo a jugadores experimentados nacionales e internacionales. El evento en Wollongong promoverá el desarrollo del hockey en la región y estimulará la participación en el deporte.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "045f3a6b1f1c",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/australia-names-under-18-squads-for-2026-india-series",
+    "fetched_at": "2026-04-02T16:21:24.101Z",
+    "translations": {
+      "ja": {
+        "headline": "オーストラリア、2026年インド大会のU-18代表チームを発表",
+        "summary": "ホッケーオーストラリアは2026年インドで開催されるU-18シリーズに向けた代表チームを発表した。若き才能あふれる選手たちが国を代表して国際大会に参加する。このシリーズはアジア太平洋地域の次世代選手たちの育成と国際競争力の向上を目的としている。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Australia Announces U-18 Squads for 2026 India Series",
+        "summary": "Hockey Australia has named its Under-18 representative squads for the 2026 India Series. The selection brings together talented young athletes to compete at the international level in India. This series provides valuable competitive experience for the next generation of Australian field hockey players in the Asia-Pacific region.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Australië selecteert U-18 ploegen voor India-serie 2026",
+        "summary": "Hockey Australia heeft de selectie van zijn U-18 ploegen voor de India-serie 2026 bekendgemaakt. De jonge talenten zullen Australië vertegenwoordigen in de internationale competitie in India. Deze serie biedt waardevolle wedstrijdervaring voor de volgende generatie van Australische hockeyspelers in de Aziatisch-Pacifische regio.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "ऑस्ट्रेलिया ने 2026 भारत सीरीज के लिए U-18 टीमें घोषित कीं",
+        "summary": "हॉकी ऑस्ट्रेलिया ने 2026 भारत सीरीज के लिए अपनी अंडर-18 प्रतिनिधि टीमों की घोषणा की है। यह चयन प्रतिभाशाली युवा खिलाड़ियों को भारत में अंतर्राष्ट्रीय स्तर पर प्रतिस्पर्धा करने के लिए लाता है। यह सीरीज एशिया-प्रशांत क्षेत्र में ऑस्ट्रेलियाई हॉकी के अगली पीढ़ी के खिलाड़ियों के लिए मूल्यवान प्रतিस्पर्धी अनुभव प्रदान करता है।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Australia anuncia equipos Sub-18 para la serie India 2026",
+        "summary": "Hockey Australia ha anunciado sus equipos representativos Sub-18 para la serie India 2026. La selección reúne a jóvenes talentos para competir a nivel internacional en India. Esta serie proporciona valiosa experiencia competitiva para la próxima generación de jugadores de hockey australianos en la región de Asia-Pacífico.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "7b4a899632d5",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/hockey-australia-and-revolutionisesport-announce-extension",
+    "fetched_at": "2026-04-02T16:21:24.101Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケーオーストラリアとrevolutioniseSPORTが複数年パートナーシップを延長",
+        "summary": "ホッケーオーストラリアはrevolutioniseSPORTとの複数年パートナーシップの延長を発表した。このパートナーシップ拡大により、オーストラリアンホッケー代表チームの発展とスポーツ技術の革新が加速する。両機関の協力により、選手育成とパフォーマンス向上に向けた取り組みが継続される。",
+        "category": "スポンサー・パートナー"
+      },
+      "en": {
+        "headline": "Hockey Australia extends multi-year partnership with revolutioniseSPORT",
+        "summary": "Hockey Australia has announced an extension of its multi-year partnership with revolutioniseSPORT. This partnership expansion will accelerate the development of Australia's national hockey teams and drive innovation in sports technology. The continued collaboration between both organisations will enhance player development and performance improvement initiatives across the sport.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "Hockey Australia verlengt samenwerking met revolutioniseSPORT",
+        "summary": "Hockey Australia heeft de verlenging van haar meerjarige samenwerking met revolutioniseSPORT aangekondigd. Deze partnerschapsuitbreiding zal de ontwikkeling van Australische hockeyteams versnellen en innovatie in sporttechnologie stimuleren. De voortdurende samenwerking tussen beide organisaties zal de speelersontwikkeling en prestatieverbeteringsprogramma's in de sport verbeteren.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "हॉकी ऑस्ट्रेलिया ने revolutioniseSPORT के साथ समझौते को बढ़ाया",
+        "summary": "हॉकी ऑस्ट्रेलिया ने revolutioniseSPORT के साथ अपने बहु-वर्षीय समझौते के विस्तार की घोषणा की है। इस साझेदारी विस्तार से ऑस्ट्रेलियाई राष्ट्रीय हॉकी टीमों के विकास में तेजी आएगी और खेल तकनीक में नवाचार बढ़ेगा। दोनों संगठनों का निरंतर सहयोग खिलाड़ियों के विकास और खेल में प्रदर्शन सुधार पहल को मजबूत करेगा।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "Hockey Australia amplía asociación con revolutioniseSPORT",
+        "summary": "Hockey Australia ha anunciado la extensión de su asociación multianual con revolutioniseSPORT. Esta ampliación de la asociación acelerará el desarrollo de los equipos nacionales de hockey australianos e impulsará la innovación en tecnología deportiva. La colaboración continua entre ambas organizaciones mejorará la formación de jugadores y las iniciativas de mejora del desempeño en el deporte.",
+        "category": "Patrocinador / Socio"
+      }
+    }
+  },
+  {
+    "id": "0a00dd0de1d6",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/hockeyroos-learn-world-cup-pool-competition",
+    "fetched_at": "2026-04-02T16:21:24.101Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケールーズ、チリ予選突破後のワールドカップ組み合わせ決定",
+        "summary": "オーストラリア女子ホッケーチーム「ホッケールーズ」がチリで行われた予選を突破し、ワールドカップの本大会プール組み合わせが決定した。チリでの激戦を制した同チームは、世界大会でのプール配置が確定し、次なる目標に向けた準備を本格化させる。国際ホッケー連盟の公式発表により、各国の対戦組み合わせが明らかになり、大会本番に向けた戦略立案が進められている。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Hockeyroos Learn World Cup Pool Following Chile Qualification",
+        "summary": "The Australian women's hockey team, the Hockeyroos, have secured their World Cup spot after qualifying through competition in Chile. The team has now learned their pool placement for the upcoming World Cup tournament. With their qualification confirmed, the Hockeyroos can now focus on preparation for the main tournament with their group assignments finalized. The pool draw determines which nations the team will face in the preliminary round of the international championship.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Hockeyroos kennen pouleindeling WK na kwalificatie Chili",
+        "summary": "Het Australische vrouwen hockeyteam, de Hockeyroos, hebben zich gekwalificeerd voor het Wereldkampioenschap na competitie in Chili. Het team heeft nu hun groepsineling voor het aanstaande WK-toernooi geleerd. Met hun plaatsing bevestigd, kunnen de Hockeyroos zich nu volledig richten op voorbereiding voor het hoofdtoernooi. De pouleindeling bepaalt tegen welke landen het team in de voorrondes zal uitkomen.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "चिली क्वालीफिकेशन के बाद हॉकीरूज को वर्ल्डकप पूल का ज्ञान",
+        "summary": "ऑस्ट्रेलियाई महिला हॉकी टीम हॉकीरूज ने चिली में प्रतियोगिता के माध्यम से विश्व कप के लिए अपनी जगह सुरक्षित की है। टीम को अब आने वाली विश्व कप टूर्नामेंट में अपना पूल प्लेसमेंट पता चल गया है। उनकी योग्यता की पुष्टि के साथ, हॉकीरूज मुख्य टूर्नामेंट की तैयारी पर ध्यान केंद्रित कर सकते हैं। पूल ड्रा तय करता है कि टीम प्रारंभिक राउंड में किन देशों का सामना करेगी।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Hockeyroos conocen su grupo tras clasificarse en Chile",
+        "summary": "El equipo de hockey femenino australiano, las Hockeyroos, se han clasificado para la Copa Mundial tras competir en Chile. El equipo ya conoce su distribución de grupos para el próximo torneo de la Copa Mundial. Con su clasificación confirmada, las Hockeyroos pueden ahora enfocarse en la preparación para el torneo principal. El sorteo de grupos determina contra qué naciones se enfrentará el equipo en la ronda preliminar del campeonato internacional.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "a5029bb7a227",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/kookaburras-learn-world-cup-pool-mark-hager-reaction",
+    "fetched_at": "2026-04-02T16:21:24.101Z",
+    "translations": {
+      "ja": {
+        "headline": "ワールドカップ準備、コッカバラズがプール組分け決定",
+        "summary": "ホッケーオーストラリアが発表した通り、オーストラリア代表チームのコッカバラズは、来たるフィールドホッケーワールドカップに向けた準備を強化するため、大会のプール組分けを把握した。この情報は、世界最高峰のホッケー大会での出場準備において重要な要素となり、チームは対戦相手と大会日程を考慮した戦略立案を開始している。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Kookaburras Learn World Cup Pool Ahead of Intensive Prep",
+        "summary": "Hockey Australia has announced that the Australian national field hockey team, the Kookaburras, have learned their World Cup pool assignment as preparations intensify for the global showpiece tournament. This crucial information allows the team to strategize their approach based on their assigned opponents and tournament schedule. The Kookaburras are now ramping up their preparation efforts in advance of competing at one of field hockey's premier international events.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Kookaburras Leren Wereldbeker Poule Terwijl Voorbereiding Intensiveert",
+        "summary": "Hockey Australia heeft aangekondigd dat het Australische veldhockey-team, de Kookaburras, hun Wereldbeker-pouleindeling hebben vernomen nu de voorbereidingen op het wereldwijd spectakel intensiveren. Deze vitale informatie stelt het team in staat om hun strategie af te stemmen op hun toegewezen tegenstanders en het toernooischema. De Kookaburras versnellen nu hun voorbereiding met het oog op deelname aan een van de meest prestigieuze internationale veldhocker-toernooien.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "कुक्काबर्राज विश्व कप पूल जानते हैं, तैयारी तीव्र",
+        "summary": "हॉकी ऑस्ट्रेलिया ने घोषणा की है कि ऑस्ट्रेलियाई राष्ट्रीय फील्ड हॉकी टीम, कुक्काबर्राज, ने विश्व कप पूल असाइनमेंट जान लिया है क्योंकि वैश्विक शोकेस टूर्नामेंट की तैयारी तीव्र हो गई है। यह महत्वपूर्ण जानकारी टीम को अपने निर्दिष्ट प्रतिद्वंद्वियों और टूर्नामेंट शेड्यूल के आधार पर रणनीति बनाने में सक्षम बनाती है। कुक्काबर्राज अब फील्ड हॉकी के सबसे प्रतिष्ठित अंतर्राष्ट्रीय टूर्नामेंट में भाग लेने के लिए अपनी तैयारी को तेज कर रहे हैं।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Los Kookaburras Conocen su Grupo en Copa Mundial",
+        "summary": "Hockey Australia ha anunciado que el equipo nacional australiano de hockey sobre césped, los Kookaburras, ha conocido su asignación de grupo para la Copa Mundial mientras intensifican los preparativos para este evento mundial. Esta información crucial permite al equipo diseñar su estrategia considerando sus rivales asignados y el calendario del torneo. Los Kookaburras están acelerando sus preparativos de cara a competir en uno de los torneos internacionales más prestigiosos del hockey sobre césped.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "749cc7adac6a",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/2026-fih-hockey-world-cup-schedule-announced-",
+    "fetched_at": "2026-04-02T16:21:24.101Z",
+    "translations": {
+      "ja": {
+        "headline": "2026年FIHホッケーワールドカップの日程が発表",
+        "summary": "国際ホッケー連盟（FIH）は2026年のFIHホッケーワールドカップの試合日程を公式に発表しました。本大会は世界中のトップレベルの男女ホッケーチームが参加する主要な国際競技大会です。詳細なスケジュールにより、各国代表チームは準備と調整の計画を立てることができるようになります。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "2026 FIH Hockey World Cup Schedule Announced",
+        "summary": "The International Hockey Federation (FIH) has officially announced the schedule for the 2026 FIH Hockey World Cup. This prestigious tournament will bring together the world's top field hockey nations in both men's and women's competitions. The release of the detailed schedule allows national teams to plan their preparations and strategic approaches in advance of the major international event.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Schema 2026 FIH Hockey Wereldbeker bekendgemaakt",
+        "summary": "De Internationale Hockey Federatie (FIH) heeft officieel het speelschema voor de 2026 FIH Hockey Wereldbeker aangekondigd. Dit prestigieuze toernooi zal de beste hockeylanden ter wereld samenbrengen in zowel mannen- als vrouwencompetities. De bekendmaking van het gedetailleerde schema stelt nationale teams in staat om hun voorbereiding op dit grote internationale evenement van tevoren in te plannen.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "2026 FIH हॉकी विश्व कप का शेड्यूल घोषित",
+        "summary": "अंतर्राष्ट्रीय हॉकी महासंघ (FIH) ने 2026 FIH हॉकी विश्व कप के लिए आधिकारिक रूप से खेल का शेड्यूल घोषित किया है। यह प्रतिष्ठित टूर्नामेंट पुरुष और महिला दोनों प्रतियोगिताओं में दुनिया की शीर्ष हॉकी टीमों को एक साथ लाएगा। विस्तृत शेड्यूल की घोषणा से राष्ट्रीय टीमें इस बड़ी अंतर्राष्ट्रीय घटना की तैयारी पहले से ही कर सकती हैं।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Se anuncia el calendario de la Copa Mundial FIH 2026",
+        "summary": "La Federación Internacional de Hockey (FIH) ha anunciado oficialmente el calendario de competencias para la Copa Mundial FIH de Hockey 2026. Este prestigioso torneo reunirá a las mejores naciones de hockey del mundo en competencias tanto masculinas como femeninas. El anuncio del cronograma detallado permite que los equipos nacionales planifiquen y preparen sus estrategias con anticipación para este importante evento internacional.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "c1eeb33d6c38",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/vale-shirley-tonkin-nee-haines",
+    "fetched_at": "2026-04-02T16:21:24.101Z",
+    "translations": {
+      "ja": {
+        "headline": "シャーリー・トンキン選手の訃報",
+        "summary": "ホッケー・オーストラリアは、オーストラリアフィールドホッケーの伝説的な選手シャーリー・トンキン（旧姓ヘインズ）の訃報を発表しました。同選手は国家代表チームで活躍し、オーストラリアンホッケー界に多大な貢献をもたらしました。ホッケー・オーストラリアは彼女の功績と遺産を称えています。",
+        "category": "選手"
+      },
+      "en": {
+        "headline": "Vale Shirley Tonkin (née Haines)",
+        "summary": "Hockey Australia announces the passing of Shirley Tonkin (née Haines), a legendary figure in Australian field hockey. Tonkin represented her country at the highest levels of competition and made significant contributions to the sport. Hockey Australia honours her distinguished career and lasting legacy in Australian hockey.",
+        "category": "選手"
+      },
+      "nl": {
+        "headline": "In memoriam Shirley Tonkin (née Haines)",
+        "summary": "Hockey Australia deelt het overlijden mee van Shirley Tonkin (née Haines), een legendarische speelster in het Australische hockey. Tonkin vertegenwoordigde haar land op het hoogste niveau en leverde aanzienlijke bijdragen aan de sport. Hockey Australia eert haar indrukwekkende carrière en blijvend erfgoed.",
+        "category": "選手"
+      },
+      "hi": {
+        "headline": "शर्ली टोनकिन का निधन",
+        "summary": "हॉकी ऑस्ट्रेलिया ने ऑस्ट्रेलियन फील्ड हॉकी की एक महान खिलाड़ी शर्ली टोनकिन (पूर्व नाम हेन्स) के निधन की घोषणा की है। टोनकिन ने अपने देश का प्रतिनिधित्व किया और खेल में महत्वपूर्ण योगदान दिया। हॉकी ऑस्ट्रेलिया उनके शानदार करियर और स्थायी विरासत को सम्मानित करता है।",
+        "category": "選手"
+      },
+      "es": {
+        "headline": "En memoria de Shirley Tonkin (née Haines)",
+        "summary": "Hockey Australia anuncia el fallecimiento de Shirley Tonkin (née Haines), una figura legendaria del hockey sobre hierba australiano. Tonkin representó a su país en el más alto nivel de competencia y realizó contribuciones significativas al deporte. Hockey Australia honra su distinguida carrera y legado duradero en el hockey australiano.",
+        "category": "選手"
+      }
+    }
+  },
+  {
+    "id": "e7567c16ce40",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/hockey-australia-welcomes-melbourne-cobras",
+    "fetched_at": "2026-04-02T16:21:24.101Z",
+    "translations": {
+      "ja": {
+        "headline": "メルボルンコブラスが参入、ビクトリア州の成長を加速",
+        "summary": "ホッケーオーストラリアはメルボルンコブラスの新規参入を発表し、ビクトリア州におけるフィールドホッケーの参加拡大とインフラ整備の成長を促進する。この拡大により、地域のホッケー発展が加速し、より多くの選手がスポーツに参加できる環境が整備される。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Melbourne Cobras Join League, Boosting Victorian Growth",
+        "summary": "Hockey Australia welcomes Melbourne Cobras as a new expansion team, driving increased participation and infrastructure development across Victoria. The addition strengthens the regional hockey landscape and creates enhanced opportunities for athletes to engage with the sport at all levels.",
+        "category": "League"
+      },
+      "nl": {
+        "headline": "Melbourne Cobras toegevoegd, groei in Victoria versterkt",
+        "summary": "Hockey Australia verwelkomt Melbourne Cobras als nieuw expansieteam, wat de deelname en infrastructuurontwikkeling in Victoria stimuleert. Deze toevoeging versterkt het regionale hockeyland en biedt meer kansen voor atleten om op alle niveaus aan de sport deel te nemen.",
+        "category": "League"
+      },
+      "hi": {
+        "headline": "मेलबर्न कोबरा शामिल, विक्टोरिया में वृद्धि",
+        "summary": "हॉकी ऑस्ट्रेलिया मेलबर्न कोबरा को नई विस्तार टीम के रूप में स्वागत करता है, जो विक्टोरिया में भागीदारी और बुनियादी ढांचे के विकास को बढ़ाता है। यह संवर्धन क्षेत्रीय हॉकी परिदृश्य को मजबूत करता है और सभी स्तरों पर खिलाड़ियों को खेल में भाग लेने के अधिक अवसर प्रदान करता है।",
+        "category": "लीग"
+      },
+      "es": {
+        "headline": "Cobras de Melbourne se unen, impulsa crecimiento en Victoria",
+        "summary": "Hockey Australia recibe a los Cobras de Melbourne como nuevo equipo de expansión, impulsando una mayor participación y desarrollo de infraestructura en Victoria. Esta adición fortalece el panorama del hockey regional y crea mejores oportunidades para que los atletas participen en el deporte en todos los niveles.",
+        "category": "Liga"
+      }
+    }
+  },
+  {
+    "id": "6cc7646f4f2b",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/hockeyroos-depart-chile-with-world-cup-qualification-in-hand",
+    "fetched_at": "2026-04-02T16:21:24.102Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケールーズがチリでワールドカップ出場権獲得",
+        "summary": "オーストラリア女子ホッケーチーム「ホッケールーズ」がチリで行われた大会を終了し、ワールドカップの出場権を確保して帰国した。同チームは重要な国際大会での成功を達成し、次のワールドカップへの出場を確定させた。この成果はオーストラリアホッケーの重要なマイルストーンとなる。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Hockeyroos secure World Cup qualification in Chile",
+        "summary": "Australia's women's hockey team, the Hockeyroos, have departed Chile with World Cup qualification secured. The team successfully achieved their objective at the international competition, cementing their place at the upcoming FIFA World Cup. This significant milestone represents an important achievement for Australian hockey as the team advances to the next stage of international competition.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Hockeyroos keren terug met WK-kwalificatie",
+        "summary": "Het Australische vrouwenhockeyteam Hockeyroos vertrekt uit Chili met de kwalificatie voor het Wereldkampioenschap. Het team heeft hun objectief bereikt bij de internationale competitie en hebben hun plaats veiliggesteld voor het volgende Wereldkampioenschap. Deze prestatie vormt een belangrijk mijlpaal voor Australisch hockey.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "हॉकीरूज़ चिली से विश्व कप योग्यता के साथ लौटी",
+        "summary": "ऑस्ट्रेलिया की महिला हॉकी टीम हॉकीरूज़ ने चिली से विश्व कप की योग्यता हासिल करके प्रस्थान किया है। टीम ने अंतर्राष्ट्रीय प्रतियोगिता में अपने उद्देश्य को सफलतापूर्वक प्राप्त किया और आने वाली विश्व कप के लिए अपनी जगह सुनिश्चित की है। यह उपलब्धि ऑस्ट्रेलियाई हॉकी के लिए एक महत्वपूर्ण मील का पत्थर है।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Hockeyroos aseguran clasificación a Copa Mundial",
+        "summary": "El equipo femenino de hockey de Australia, las Hockeyroos, partió de Chile con la clasificación para la Copa Mundial asegurada. El equipo logró exitosamente su objetivo en la competencia internacional, consolidando su lugar en el próximo Campeonato Mundial. Este importante logro representa un hito significativo para el hockey australiano.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "01201e5dd74a",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/hockeyroos-qualify-for-2026-fih-world-cup",
+    "fetched_at": "2026-04-02T16:21:24.103Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケールーズが2026年FIHワールドカップ出場権を獲得",
+        "summary": "オーストラリア女子ホッケーチーム・ホッケールーズが2026年FIHホッケーワールドカップへの出場権を獲得しました。この資格獲得は同チームにとって大きな成果であり、世界最高レベルの大会へ向けた準備が本格化します。ホッケールーズは国際舞台での競争力を示し、今後のトーナメント出場に向けて弾みがつきました。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Hockeyroos qualify for 2026 FIH World Cup",
+        "summary": "The Australian women's hockey team, the Hockeyroos, has secured qualification for the 2026 FIH Hockey World Cup. This qualification represents a significant achievement for the team, marking their place among the world's elite hockey nations competing at the highest level. The Hockeyroos have demonstrated their competitive strength on the international stage and are now preparing for the prestigious tournament.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Hockeyroos plaatsen zich voor WK 2026",
+        "summary": "Het Australische vrouwen hockeyteam, de Hockeyroos, heeft zich gekwalificeerd voor het FIH Hockey World Cup 2026. Deze kwalificatie is een belangrijk moment voor het team en bevestigt hun plaats onder de wereldtop van het dameshokey. De Hockeyroos hebben hun competitieve kracht aangetoond en bereiden zich nu voor op het prestigieuze toernooi.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "होकीरूज़ 2026 FIH विश्व कप के लिए योग्य",
+        "summary": "ऑस्ट्रेलियाई महिला हॉकी टीम होकीरूज़ ने 2026 FIH हॉकी विश्व कप के लिए अर्हता प्राप्त की है। यह योग्यता टीम के लिए एक महत्वपूर्ण उपलब्धि है और विश्व की शीर्ष महिला हॉकी टीमों के बीच उनका स्थान सुनिश्चित करती है। होकीरूज़ ने अंतर्राष्ट्रीय स्तर पर अपनी प्रतिस्पर्धात्मक शक्ति का प्रदर्शन किया है।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Hockeyroos se clasifican para la Copa Mundial FIH 2026",
+        "summary": "El equipo femenino de hockey australiano, las Hockeyroos, se ha clasificado para la Copa Mundial de Hockey FIH 2026. Esta clasificación representa un logro significativo para el equipo, confirmando su lugar entre los mejores equipos de hockey femenino del mundo. Las Hockeyroos han demostrado su fortaleza competitiva en el escenario internacional y se preparan para el torneo de prestigio.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "647dbc8703d3",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/hockeyroos-deliver-strong-3-0-win-over-switzerland-",
+    "fetched_at": "2026-04-02T16:21:24.103Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケールーズがスイスに3-0で快勝",
+        "summary": "オーストラリア女子フィールドホッケー代表チーム「ホッケールーズ」がスイスとの試合で3-0の完勝を収めた。この勝利により、同チームは国際大会での強さを改めて証明し、今後の試合に向けて勢いをつけた。攻撃的なプレーと堅い守備で、スイスを圧倒する試合内容となった。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Hockeyroos Dominate Switzerland 3-0",
+        "summary": "The Australian women's field hockey team, the Hockeyroos, secured a commanding 3-0 victory over Switzerland. The decisive win demonstrates the team's strength on the international stage and builds momentum for upcoming competitions. The Hockeyroos displayed strong attacking play and solid defensive performance throughout the match, completely outplaying their Swiss opponents.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Hockeyroos winnen met 3-0 van Zwitserland",
+        "summary": "Het Australische vrouwen veldhokey team, de Hockeyroos, behaalde een overtuigende 3-0 overwinning tegen Zwitserland. Deze dominante prestatie toont de kracht van het team op internationaal niveau en geeft momentum voor toekomstige wedstrijden. De Hockeyroos lieten sterk aanvallend spel en solide verdediging zien, waardoor Zwitserland volledig werd overheerst.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "हॉकीरूज़ ने स्विट्जरलैंड को 3-0 से हराया",
+        "summary": "ऑस्ट्रेलियाई महिला फील्ड हॉकी टीम हॉकीरूज़ ने स्विट्जरलैंड के खिलाफ शानदार 3-0 की जीत दर्ज की। यह निर्णायक विजय अंतर्राष्ट्रीय स्तर पर टीम की शक्ति को प्रदर्शित करता है और आने वाली प्रतियोगिताओं के लिए गति प्रदान करता है। हॉकीरूज़ ने मजबूत आक्रामक खेल और ठोस रक्षा प्रदर्शन के साथ स्विट्जरलैंड को पूरी तरह दबा दिया।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Las Hockeyroos vencen a Suiza 3-0",
+        "summary": "El equipo femenino de hockey sobre césped de Australia, las Hockeyroos, aseguró una victoria contundente de 3-0 contra Suiza. Esta victoria decisiva demuestra la fortaleza del equipo en el escenario internacional y genera impulso para futuras competiciones. Las Hockeyroos mostraron un fuerte juego ofensivo y un sólido desempeño defensivo durante todo el partido, superando completamente a sus rivales suizos.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "63b27838223e",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/hockeyroos-deliver-mixed-results-in-chile",
+    "fetched_at": "2026-04-02T16:21:24.104Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケールーズがワールドカップ予選で混合結果",
+        "summary": "ホッケー・オーストラリアが報じた。オーストラリア女子ホッケーチーム「ホッケールーズ」がチリで開催されたFIH女子ホッケーワールドカップ予選に参加し、初戦で混合的な成績を収めた。同チームは複数の試合に臨み、勝利と敗北の両方を経験し、大会での今後の課題が明らかになった。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Hockeyroos Post Mixed Results in World Cup Qualifiers",
+        "summary": "Australia's women's hockey team, the Hockeyroos, delivered mixed results during their opening matches at the FIH Women's Hockey World Cup Qualifiers held in Chile. The team competed in multiple fixtures, experiencing both victories and defeats as they navigate the tournament. The early performances have highlighted areas for improvement as the Hockeyroos continue their quest for World Cup qualification.",
+        "category": "Match Results"
+      },
+      "nl": {
+        "headline": "Hockeyroos behalen wisselende resultaten in WK-kwalificatie",
+        "summary": "Het Australische vrouwen hockeyteam, de Hockeyroos, heeft wisselende resultaten geboekt tijdens hun openingswedstrijden in de FIH Vrouwen Hockey Wereldkampioenschap-kwalificatie in Chili. Het team speelde meerdere wedstrijden met zowel overwinningen als nederlagen. De vroege prestaties hebben aandachtspunten blootgelegd voor het team terwijl zij hun weg voortzetten naar wereldkampioenschap-kwalificatie.",
+        "category": "Match Results"
+      },
+      "hi": {
+        "headline": "होकीरूज़ विश्व कप योग्यता में मिश्रित परिणाम",
+        "summary": "ऑस्ट्रेलिया की महिला हॉकी टीम, होकीरूज़, चिली में आयोजित FIH महिला हॉकी विश्व कप योग्यता में अपने प्रारंभिक मैचों में मिश्रित परिणाम प्राप्त किए। टीम ने कई मैचों में भाग लिया, जिसमें जीत और हार दोनों का अनुभव किया। शुरुआती प्रदर्शन ने विश्व कप योग्यता के लिए टीम की यात्रा जारी रखते हुए सुधार के क्षेत्रों को उजागर किया।",
+        "category": "मैच परिणाम"
+      },
+      "es": {
+        "headline": "Hockeyroos registran resultados mixtos en clasificación",
+        "summary": "El equipo femenino de hockey de Australia, las Hockeyroos, obtuvieron resultados mixtos durante sus primeros encuentros en la clasificación de la Copa Mundial Femenina de la FIH celebrada en Chile. El equipo compitió en múltiples partidos experimentando victorias y derrotas. El desempeño inicial ha revelado áreas de mejora mientras continúan su camino hacia la clasificación para la Copa Mundial.",
+        "category": "Resultados de Partidos"
+      }
+    }
+  },
+  {
+    "id": "01377b66907d",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/2026-hobart-fih-pro-league-wrap",
+    "fetched_at": "2026-04-02T16:21:24.104Z",
+    "translations": {
+      "ja": {
+        "headline": "2026ホバート FIHプロリーグ総括",
+        "summary": "2026年にオーストラリアのホバートで開催されたFIHプロリーグの大会が閉幕した。本大会は国際フィールドホッケーの最高峰リーグとして、複数国の代表チームが参加し、激しい競技を繰り広げた。大会を通じて各国の選手たちが卓越した技術とチームワークを披露し、ホバートはフィールドホッケーの国際的な舞台として注目を集めた。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "2026 Hobart FIH Pro League Wrap",
+        "summary": "The FIH Pro League event held in Hobart, Australia in 2026 has concluded. As one of international field hockey's premier competitions, the tournament featured national teams competing at the highest level, showcasing exceptional skill and teamwork. The event established Hobart as a significant venue for elite international field hockey competition, with athletes demonstrating outstanding performance throughout the tournament.",
+        "category": "League"
+      },
+      "nl": {
+        "headline": "2026 Hobart FIH Pro League Samenvatting",
+        "summary": "Het FIH Pro League-evenement in Hobart, Australië in 2026 is afgerond. Als een van de meest prestigieuze internationale hockeywedstrijden namen nationale teams deel aan de competitie op het hoogste niveau. Deelnemers toonden uitzonderlijke technische vaardigheden en teamwerk. Het evenement vestigde Hobart als belangrijke locatie voor elite-hockey, met indrukwekkende prestaties van atleten gedurende het hele toernooi.",
+        "category": "Liga"
+      },
+      "hi": {
+        "headline": "2026 होबार्ट FIH प्रो लीग समीक्षा",
+        "summary": "ऑस्ट्रेलिया के होबार्ट में 2026 में आयोजित FIH प्रो लीग इवेंट समाप्त हुआ। अंतर्राष्ट्रीय फील्ड हॉकी की शीर्ष प्रतियोगिता के रूप में, इस टूर्नामेंट में राष्ट्रीय टीमें सर्वोच्च स्तर पर भाग लीं। खिलाड़ियों ने असाधारण कौशल और टीमवर्क का प्रदर्शन किया। होबार्ट अंतर्राष्ट्रीय हॉकी के लिए एक महत्वपूर्ण केंद्र के रूप में स्थापित हुआ।",
+        "category": "लीग"
+      },
+      "es": {
+        "headline": "Resumen de la Liga Pro FIH de Hobart 2026",
+        "summary": "El evento de la Liga Pro FIH celebrado en Hobart, Australia en 2026 ha concluido. Como una de las principales competiciones de hockey internacional, el torneo contó con equipos nacionales compitiendo al más alto nivel. Los atletas demostraron habilidades técnicas excepcionales y trabajo en equipo. El evento consolidó a Hobart como una sede importante para competiciones de hockey internacional de élite.",
+        "category": "Liga"
+      }
+    }
+  },
+  {
+    "id": "dcee945e46b7",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/hockey-australia-and-rolld-unite-in-new-three-year-partnership",
+    "fetched_at": "2026-04-02T16:21:24.105Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケーオーストラリアがロール'd と3年間のパートナーシップ契約を締結",
+        "summary": "ホッケーオーストラリアはロール'dとの新たな3年間のパートナーシップ契約を発表した。本契約により、ロール'dはオーストラリアのホッケー競技の発展を支援し、代表チームおよび国内リーグの強化に貢献することが期待される。両組織は協力関係を通じて、競技の振興と選手育成を推進していく。",
+        "category": "スポンサー・パートナー"
+      },
+      "en": {
+        "headline": "Hockey Australia Partners with Roll'd for Three-Year Deal",
+        "summary": "Hockey Australia has announced a new three-year partnership with Roll'd. The partnership will provide significant support for the development of hockey in Australia, benefiting the national teams and domestic competition. Through this collaboration, both organizations aim to enhance the sport's growth and strengthen Australia's competitive presence in field hockey.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "Hockey Australia sluit driejarig partnerschap met Roll'd",
+        "summary": "Hockey Australia heeft een nieuw driejarig partnerschap met Roll'd aangekondigd. Deze samenwerking zal aanzienlijke steun bieden voor de ontwikkeling van hockey in Australië, ten bate van de nationale teams en binnenlandse competitie. Door deze collaboratie streven beide organisaties ernaar de sport verder uit te bouwen en Australië's positie in het internationaal hockey te versterken.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "हॉकी ऑस्ट्रेलिया ने रोल'd के साथ तीन साल की साझेदारी की",
+        "summary": "हॉकी ऑस्ट्रेलिया ने रोल'd के साथ एक नई तीन साल की साझेदारी की घोषणा की है। यह साझेदारी ऑस्ट्रेलिया में हॉकी के विकास के लिए महत्वपूर्ण समर्थन प्रदान करेगी और राष्ट्रीय टीमों तथा घरेलू प्रतियोगिता को लाभान्वित करेगी। इस सहयोग के माध्यम से, दोनों संगठन खेल के विकास को बढ़ावा देने का लक्ष्य रखते हैं।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "Hockey Australia se asocia con Roll'd por tres años",
+        "summary": "Hockey Australia ha anunciado una nueva asociación de tres años con Roll'd. Esta asociación proporcionará apoyo significativo para el desarrollo del hockey en Australia, beneficiando a los equipos nacionales y la competencia doméstica. A través de esta colaboración, ambas organizaciones buscan fortalecer el crecimiento del deporte y mejorar la posición competitiva de Australia en el hockey internacional.",
+        "category": "Patrocinador / Socio"
+      }
+    }
+  },
+  {
+    "id": "d2730a9e7cbb",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/hockey-aus-welcomes-beginning-of-works-high-performance-centre",
+    "fetched_at": "2026-04-02T16:21:24.105Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケーオーストラリア、高性能センター建設開始を発表",
+        "summary": "ホッケーオーストラリアは、高性能センター・オブ・エクセレンス（High Performance Centre of Excellence）の建設工事の開始を歓迎すると発表しました。この施設は、オーストラリアのホッケー選手の育成と競技力向上を目的とした最先端のトレーニング拠点となります。この投資により、国家代表チームおよびジュニア選手の育成環境が大幅に強化されることが期待されています。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Hockey Australia Welcomes High Performance Centre Construction Start",
+        "summary": "Hockey Australia has announced the commencement of construction works on the High Performance Centre of Excellence. This state-of-the-art facility is designed to serve as a premier training hub for Australian hockey players, enhancing athlete development and competitive performance. The investment is expected to significantly strengthen the training environment for the national representative teams and junior players, supporting Australia's hockey excellence.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "Hockey Australia start bouw High Performance Centre",
+        "summary": "Hockey Australia heeft het begin van de bouwwerkzaamheden aan het High Performance Centre of Excellence aangekondigd. Deze geavanceerde faciliteit zal dienen als een toonaangevend trainingscentrum voor Australische hockeyers, gericht op verbetering van atletische ontwikkeling en competitieve prestaties. De investering zal naar verwachting de trainingsomgeving voor nationale vertegenwoordigende teams en juniorspelers aanzienlijk versterken.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "हॉकी ऑस्ट्रेलिया ने उच्च प्रदर्शन केंद्र निर्माण का स्वागत किया",
+        "summary": "हॉकी ऑस्ट्रेलिया ने हाई परफॉर्मेंस सेंटर ऑफ एक्सीलेंस के निर्माण कार्य की शुरुआत की घोषणा की है। यह अत्याधुनिक सुविधा ऑस्ट्रेलियाई हॉकी खिलाड़ियों के लिए एक प्रमुख प्रशिक्षण केंद्र के रूप में काम करेगी, जो खिलाड़ी विकास और प्रतिस्पर्धी प्रदर्शन को बढ़ाने के लिए डिज़ाइन की गई है। यह निवेश राष्ट्रीय प्रतिनिधि टीमों और जूनियर खिलाड़ियों के प्रशिक्षण वातावरण को काफी हद तक मजबूत करने की उम्मीद है।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "Hockey Australia da la bienvenida al inicio de construcción del Centro de Excelencia",
+        "summary": "Hockey Australia ha anunciado el comienzo de los trabajos de construcción del Centro de Excelencia de Alto Rendimiento. Esta instalación de última generación servirá como un centro de entrenamiento de primer nivel para los jugadores de hockey australianos, mejorando el desarrollo atlético y el desempeño competitivo. Se espera que esta inversión fortalezca significativamente el ambiente de entrenamiento para los equipos representativos nacionales y jugadores junior de Australia.",
+        "category": "Patrocinador / Socio"
+      }
+    }
+  },
+  {
+    "id": "0a614bc0abc8",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/kookaburras-fight-back-hockeyroos-fall-in-a-gritty-performance",
+    "fetched_at": "2026-04-02T16:21:24.105Z",
+    "translations": {
+      "ja": {
+        "headline": "クッカバラズがシューアウトで逆転勝利、ホッケールーズは中国に敗北",
+        "summary": "オーストラリア代表チームのクッカバラズは激しい試合でシューアウトを制し、見事な逆転勝利を収めた。一方、女子代表のホッケールーズは中国との対戦で苦しい試合運びを強いられ、最終的に敗北を喫した。両チームともに全力を尽くした白熱した試合となった。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Kookaburras edge thrilling shootout; Hockeyroos lose to China",
+        "summary": "Australia's Kookaburras demonstrated resilience in a dramatic match, securing victory through a shootout after an intense battle. Meanwhile, the Hockeyroos faced a challenging encounter against China, ultimately falling to defeat in a gritty performance. Both teams showcased their competitive spirit in closely contested matches that highlighted the demands of international field hockey.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Kookaburras winnen spannende shootout; Hockeyroos verliezen van China",
+        "summary": "Australiës Kookaburras toonden veerkracht in een dramatische wedstrijd en verzekerde zich van een overwinning via een shootout na een intens duel. De Hockeyroos daarentegen stonden voor een uitdagende ontmoeting tegen China en leden uiteindelijk een nederlaag in een pittige prestatie. Beide teams toonden hun competitieve geest in nauw bevochten wedstrijden.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "कुक्काबुर्रा शूटआउट में जीते, हॉकीरूज चीन से हारे",
+        "summary": "ऑस्ट्रेलिया की कुक्काबुर्रा टीम एक नाटकीय मैच में लचीलापन दिखाते हुए शूटआउट के जरिए जीत हासिल की। वहीं हॉकीरूज को चीन के खिलाफ एक चुनौतीपूर्ण मुकाबला का सामना करना पड़ा और अंत में वह कठिन प्रदर्शन में हार गईं। दोनों टीमों ने अंतर्राष्ट्रीय फील्ड हॉकी की प्रतिस्पर्धात्मक भावना का प्रदर्शन किया।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Kookaburras ganan tensa definición; Hockeyroos pierden ante China",
+        "summary": "Los Kookaburras australianos demostraron resiliencia en un partido dramático, asegurando la victoria mediante una tanda de penales tras un enfrentamiento intenso. Mientras tanto, las Hockeyroos se enfrentaron a un encuentro desafiante contra China, sucumbiendo finalmente a la derrota en una actuación tenaz. Ambos equipos mostraron su espíritu competitivo en partidos reñidos que destacan las exigencias del hockey sobre hierba internacional.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "d30aeff32d77",
+    "source": "Hockey Australia",
+    "source_url": "https://www.hockey.org.au/news/kookaburras-make-it-five-on-the-trot-in-haywards-250",
+    "fetched_at": "2026-04-02T16:21:24.105Z",
+    "translations": {
+      "ja": {
+        "headline": "クッカバラズが5連勝達成、ヘイワード選手250試合出場",
+        "summary": "オーストラリア男子ホッケー代表チーム・クッカバラズがホバートで5試合連続勝利を達成。ヘイワード選手は代表通算250試合目の出場を記念する試合となった。同時にスペイン代表は新体制のホッキールーズ（女子代表）との対戦で好パフォーマンスを見せた。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Kookaburras secure five-win streak in Hayward's 250th",
+        "summary": "Australia's Kookaburras extended their winning streak to five consecutive victories in Hobart, with the match marking a milestone appearance for player Hayward. Meanwhile, Spain delivered an impressive performance against a revamped Hockeyroos side, showcasing strong competitive form in the encounter.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Kookaburras halen vijf op rij, Hayward bereikt 250ste wedstrijd",
+        "summary": "Australië's Kookaburras hebben in Hobart hun vijfde opeenvolgende overwinning geboekt. De wedstrijd was bijzonder omdat speler Hayward zijn 250ste interland speelde. Spanje maakte indruk met een sterke prestatie tegen het vernieuwde Hockeyroos-team.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "कुक्कबुरस ने पाँच जीत की श्रंखला बनाई",
+        "summary": "ऑस्ट्रेलिया की कुक्कबुरस पुरुष हॉकी टीम होबार्ट में पाँचवीं लगातार जीत हासिल करने में सफल रही। हेवर्ड खिलाड़ी ने इस मैच में अपने राष्ट्रीय टीम के लिए 250वां मैच खेला। स्पेन की टीम ने नई होक्कीरूज महिला टीम के विरुद्ध प्रभावशाली प्रदर्शन किया।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Kookaburras logran cinco victorias consecutivas",
+        "summary": "Los Kookaburras de Australia consiguieron su quinta victoria consecutiva en Hobart. El partido fue especial al marcar la aparición número 250 del jugador Hayward en su carrera internacional. España mostró un desempeño impresionante contra el equipo renovado de las Hockeyroos femenino.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "acdb6ac4a2ad",
+    "source": "Hockey India",
+    "source_url": "https://www.hockeyindia.org/news/hockey-india-begins-celebration-of-100-years-of-indian-hockey",
+    "fetched_at": "2026-04-02T16:21:25.001Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケーインディア、インド・ホッケー100周年祝典を開始",
+        "summary": "ホッケーインディアは、インドのホッケー競技100周年の記念祝典を開始しました。この節目は、インドのホッケーの発展と歴史的な功績を祝うもので、競技の過去と未来への継続的な支援を示しています。この祝典を通じ、ホッケーインディアは競技の重要性と国家的意義を強調し、次世代の選手育成に向けた取り組みを推進していく予定です。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Hockey India Begins Celebration of 100 Years",
+        "summary": "Hockey India has launched a celebration marking the 100-year anniversary of Indian hockey. This milestone event honors the sport's rich heritage and significant achievements throughout its history. The celebration underscores Hockey India's commitment to preserving the legacy of the sport while fostering the development of future generations of players and promoting hockey's continued growth and importance at the national level.",
+        "category": "その他"
+      },
+      "nl": {
+        "headline": "Hockey India start viering van 100 jaar",
+        "summary": "Hockey India is gestart met de viering van 100 jaar Indisch hockey. Deze mijlpaal eert het rijke erfgoed en de significante prestaties van de sport door de geschiedenis heen. De viering onderstreept het commitment van Hockey India om het erfgoed van de sport te bewaren terwijl de ontwikkeling van toekomstige generaties spelers wordt bevorderd en de voortdurende groei en betekenis van hockey op nationaal niveau wordt gepromoot.",
+        "category": "その他"
+      },
+      "hi": {
+        "headline": "हॉकी इंडिया भारतीय हॉकी की 100 वर्षगांठ मना रहा है",
+        "summary": "हॉकी इंडिया ने भारतीय हॉकी की 100 वर्षगांठ के उपलक्ष्य में समारोह की शुरुआत की है। यह महत्वपूर्ण घटना पूरे इतिहास में खेल की समृद्ध विरासत और महत्वपूर्ण उपलब्धियों को सम्मानित करती है। यह समारोह हॉकी इंडिया की खेल की विरासत को संरक्षित करने तथा भविष्य की पीढ़ियों के खिलाड़ियों के विकास को बढ़ावा देने और राष्ट्रीय स्तर पर हॉकी की निरंतर वृद्धि को बढ़ावा देने की प्रतिबद्धता को दर्शाता है।",
+        "category": "その他"
+      },
+      "es": {
+        "headline": "Hockey India Celebra los 100 Años del Hockey",
+        "summary": "Hockey India ha iniciado una celebración marcando el centenario del hockey indio. Este hito honra el rico patrimonio y los logros significativos del deporte a lo largo de su historia. La celebración subraya el compromiso de Hockey India de preservar el legado del deporte mientras se promueve el desarrollo de futuras generaciones de jugadores y el crecimiento continuo e importancia del hockey a nivel nacional.",
+        "category": "その他"
+      }
+    }
+  },
+  {
+    "id": "acdb6ac4a2ad",
+    "source": "Hockey India",
+    "source_url": "https://www.hockeyindia.org/news/hockey-india-begins-celebration-of-100-years-of-indian-hockey",
+    "fetched_at": "2026-04-02T16:21:25.001Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケーインディアがインド・ホッケー100周年を祝う",
+        "summary": "ホッケーインディアはインド・ホッケー100周年の祝賀を開始しました。この記念すべき節目は、インドにおけるホッケーの豊かな歴史と発展を示すものです。この祝賀を通じて、インドホッケーの過去の成果と将来への展望が強調されます。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Hockey India Begins Celebration of Indian Hockey's 100 Years",
+        "summary": "Hockey India has initiated celebrations marking 100 years of Indian hockey. This significant milestone commemorates the rich history and development of the sport in India. The celebration highlights the achievements of Indian hockey over the past century and looks toward the future of the sport in the country.",
+        "category": "その他"
+      },
+      "nl": {
+        "headline": "Hockey India start viering van 100 jaar Indisch hockey",
+        "summary": "Hockey India is begonnen met de viering van 100 jaar Indisch hockey. Deze belangrijke mijlpaal markeert de rijke geschiedenis en ontwikkeling van de sport in India. De viering benadrukt de prestaties van Indisch hockey over de afgelopen eeuw en kijkt uit naar de toekomst van de sport in het land.",
+        "category": "その他"
+      },
+      "hi": {
+        "headline": "हॉकी इंडिया ने भारतीय हॉकी के 100 साल का जश्न शुरू किया",
+        "summary": "हॉकी इंडिया ने भारतीय हॉकी के 100 साल का जश्न शुरू किया है। यह महत्वपूर्ण मील का पत्थर भारत में खेल के समृद्ध इतिहास और विकास को दर्शाता है। इस समारोह के माध्यम से पिछली शताब्दी में भारतीय हॉकी की उपलब्धियों और भविष्य की दिशा पर प्रकाश डाला जाता है।",
+        "category": "その他"
+      },
+      "es": {
+        "headline": "Hockey India inicia celebración de 100 años del hockey indio",
+        "summary": "Hockey India ha iniciado las celebraciones que marcan 100 años del hockey indio. Este importante hito conmemora la rica historia y desarrollo del deporte en India. La celebración destaca los logros del hockey indio durante el siglo pasado y mira hacia el futuro del deporte en el país.",
+        "category": "その他"
+      }
+    }
+  },
+  {
+    "id": "bc3aaf1aa7e6",
+    "source": "CAH Argentina",
+    "source_url": "https://www.cahockey.org.ar/noticia/los-leones-concentrar�n-en-europa/3882",
+    "fetched_at": "2026-04-02T16:21:26.632Z",
+    "translations": {
+      "ja": {
+        "headline": "アルゼンチン代表がヨーロッパで合宿",
+        "summary": "アルゼンチンの男子フィールドホッケー代表チーム「レオネス」がヨーロッパでの集中合宿を実施する。この合宿は国際試合への準備と選手育成を目的とした重要な練習期間となる。代表チームの強化活動の一環として、ヨーロッパの高いレベルの環境での実戦的な訓練が予定されている。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Argentina's Lions to Train in Europe",
+        "summary": "Argentina's men's field hockey national team, Los Leones, will conduct a concentrated training camp in Europe. This camp is designed to prepare the team for international competitions and develop player capabilities. As part of the national team's strengthening program, players will engage in competitive training in Europe's high-level hockey environment.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Argentijnse Leeuwen trainen in Europa",
+        "summary": "Het Argentijnse herenshockeyteam Los Leones zal een geconcentreerde trainingsperiode in Europa houden. Dit kamp is ontworpen ter voorbereiding op internationale wedstrijden en om de speelerskwaliteiten verder te ontwikkelen. Als onderdeel van het versterkingsprogramma van het nationale team zullen spelers intensief trainen in Europese omgeving met hoog competitieniveau.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "अर्जेंटीना की टीम यूरोप में प्रशिक्षण लेगी",
+        "summary": "अर्जेंटीना की पुरुष फील्ड हॉकी राष्ट्रीय टीम लॉस लिओनेस यूरोप में एकाग्र प्रशिक्षण शिविर का आयोजन करेगी। यह शिविर अंतर्राष्ट्रीय प्रतियोगिताओं की तैयारी और खिलाड़ियों के कौशल विकास के लिए डिज़ाइन किया गया है। राष्ट्रीय टीम की शक्तिशाली प्रोग्राम के हिस्से के रूप में, खिलाड़ी यूरोप के उच्च स्तरीय माहौल में प्रशिक्षण लेंगे।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Los Leones concentrarán en Europa",
+        "summary": "El equipo nacional de hockey sobre césped masculino de Argentina, Los Leones, realizará una concentración intensiva en Europa. Este campamento está diseñado para preparar al equipo para competiciones internacionales y desarrollar las capacidades de los jugadores. Como parte del programa de fortalecimiento del equipo nacional, los jugadores participarán en entrenamiento competitivo en el ambiente de alto nivel del hockey europeo.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "f730ff5505ff",
+    "source": "CAH Argentina",
+    "source_url": "https://www.cahockey.org.ar/noticia/mundial-2026-d�as-y-horarios-confirmados-para-las-leonas-y-los-leones-/3881",
+    "fetched_at": "2026-04-02T16:21:26.633Z",
+    "translations": {
+      "ja": {
+        "headline": "ワールドカップ2026：アルゼンチン代表の日程確定",
+        "summary": "アルゼンチンホッケー連盟（CAH）は、2026年ワールドカップにおけるアルゼンチン女子代表（レオナス）と男子代表（レオネス）の試合日程と時間を正式に発表しました。この重要な国際大会に向けて、両代表チームの参加予定が確認され、今後の準備活動が本格化します。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "World Cup 2026: Match Dates Confirmed for Argentina",
+        "summary": "The Argentine Hockey Confederation (CAH) has officially confirmed the match dates and times for Argentina's women's team (Leonas) and men's team (Leones) at the 2026 World Cup. The announcement solidifies both national teams' participation in this major international tournament and marks the beginning of focused preparation for the competition.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "WK 2026: Wedstrijdschema Argentina Bevestigd",
+        "summary": "De Argentijnse Hockeybond (CAH) heeft officieel de wedstrijddagen en -tijden voor Argentijnse vrouwen- en mannenteams (Leonas en Leones) op het WK 2026 bekendgemaakt. Met de bevestigde deelname aan dit internationale toptoernooi kunnen beide nationale teams hun voorbereiding verder intensiveren.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "विश्व कप 2026: अर्जेंटीना की शेड्यूल की घोषणा",
+        "summary": "अर्जेंटीना हॉकी महासंघ (CAH) ने 2026 विश्व कप में अर्जेंटीना की महिला टीम (लिओनास) और पुरुष टीम (लिओनेस) के मैच की तारीखें और समय की आधिकारिक घोषणा की है। इस प्रमुख अंतर्राष्ट्रीय टूर्नामेंट में दोनों राष्ट्रीय टीमों की भागीदारी की पुष्टि से टीमें अपनी तैयारी तेज कर सकेंगी।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Mundial 2026: Días y Horarios Confirmados para Argentina",
+        "summary": "La Confederación Argentina de Hockey (CAH) ha confirmado oficialmente los días y horarios de los partidos para las Leonas y los Leones en el Mundial 2026. Con el anuncio de la participación de ambas selecciones en este torneo internacional de importancia, comienza la etapa de preparación intensiva para este evento deportivo de jerarquía.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "e76e200eee03",
+    "source": "CAH Argentina",
+    "source_url": "https://www.cahockey.org.ar/noticia/mundial-de-hockey-2026-qui�nes-son-los-rivales-de-las-leonas-y-los-leones/3880",
+    "fetched_at": "2026-04-02T16:21:26.633Z",
+    "translations": {
+      "ja": {
+        "headline": "2026年ホッケー世界選手権：アルゼンチン代表の対戦相手が決定",
+        "summary": "2026年のホッケー世界選手権でアルゼンチンの女子代表「レオナス」と男子代表「レオネス」の対戦相手が決定した。CAHアルゼンチンが発表した情報により、両チームの世界選手権での競争相手が明確になった。この重要な国際大会に向けて、アルゼンチン代表チームは準備を進める。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "2026 Hockey World Championship: Argentina's Opponents Confirmed",
+        "summary": "The Argentine Hockey Confederation (CAH) has announced the opponents for both the Leonas (women's team) and Leones (men's team) at the 2026 Hockey World Championship. With the draw finalized, Argentina's national teams now know their group stage matchups for the upcoming international competition. Both squads will begin their preparations for this prestigious global tournament.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Hockeywereldkampioenschap 2026: Tegenstanders Argentinië Bekend",
+        "summary": "Het Argentijnse Hockey Confederation (CAH) heeft de tegenstanders voor zowel de Leonas (vrouwen) als de Leones (mannen) op het Hockeywereldkampioenschap 2026 aangekondigd. Met de loting voltooid, kennen beide nationale teams nu hun tegenstanders in de groepsfase. Beide teams zullen zich voorbereiden op dit prestigieuze internationale toernooi.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "2026 हॉकी विश्व चैंपियनशिप: अर्जेंटीना के प्रतिद्वंद्वी निर्धारित",
+        "summary": "अर्जेंटीना हॉकी महासंघ (CAH) ने 2026 हॉकी विश्व चैंपियनशिप में लियोनास (महिला टीम) और लियोनेस (पुरुष टीम) दोनों के प्रतिद्वंद्वी घोषित किए हैं। ड्रा पूर्ण होने के साथ, अर्जेंटीना की दोनों राष्ट्रीय टीमें अब अपने ग्रुप स्टेज प्रतिद्वंद्वियों को जानती हैं। दोनों टीमें इस प्रतिष्ठित अंतर्राष्ट्रीय टूर्नामेंट की तैयारी शुरू करेंगी।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Mundial de Hockey 2026: Rivales Confirmados para Argentina",
+        "summary": "La Confederación Argentina de Hockey (CAH) ha anunciado los rivales para las Leonas y los Leones en el Mundial de Hockey 2026. Con el sorteo realizado, ambos equipos nacionales conocen ahora sus rivales en la fase de grupos. Los seleccionados argentinos iniciarán sus preparativos para este importante torneo internacional.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "9eb608b4cd0b",
+    "source": "CAH Argentina",
+    "source_url": "https://www.cahockey.org.ar/noticia/sorteo-de-grupos-del-mundial-2026-c�mo-clasificaron-los-leones-y-las-leonas/3879",
+    "fetched_at": "2026-04-02T16:21:26.634Z",
+    "translations": {
+      "ja": {
+        "headline": "2026年ワールドカップ組み合わせ抽選",
+        "summary": "アルゼンチンフィールドホッケー連盟は2026年ワールドカップの組み合わせ抽選結果を発表しました。アルゼンチン男子代表「レオネス」と女子代表「レオナス」の両チームの出場資格取得方法と抽選での位置付けが明らかになりました。この結果により、両チームは本大会での対戦相手と日程が確定し、大会に向けた準備をさらに進めることができます。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "2026 World Cup Draw: Lions Qualify",
+        "summary": "The Argentine Hockey Association announced the group stage draw for the 2026 Field Hockey World Cup. Both the Argentine men's team (Los Leones) and women's team (Las Leonas) secured their qualification for the tournament. The draw determines their group assignments and opponents for the upcoming World Cup, allowing both teams to prepare their strategies for the competition ahead.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "2026 WK-groepsindeling: Argentijnse teams gekwalificeerd",
+        "summary": "De Argentijnse Hockeybond maakte de groepsindeling van het Veldhokey Wereldkampioenschap 2026 bekend. Zowel het Argentijnse mannenteam (Los Leones) als vrouwenteam (Las Leonas) hebben zich gekwalificeerd voor het toernooi. De loting bepaalt hun groepsverdeling en tegenstanders, waardoor beide teams hun voorbereiding op het wereldkampioenschap kunnen intensiveren.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "2026 विश्व कप ड्रा: शेर योग्य",
+        "summary": "अर्जेंटीना हॉकी एसोसिएशन ने 2026 फील्ड हॉकी विश्व कप के लिए समूह चरण का ड्रा घोषित किया। अर्जेंटीना की पुरुष टीम (लॉस लिओनेस) और महिला टीम (लास लिओनास) दोनों ने टूर्नामेंट के लिए अपनी योग्यता सुनिश्चित की है। ड्रा उनके समूह असाइनमेंट और विरोधियों को निर्धारित करता है, जिससे दोनों टीमें विश्व कप की तैयारी कर सकें।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Sorteo Mundial 2026: Leones Clasificados",
+        "summary": "La Confederación Argentina de Hockey anunció el sorteo de grupos del Campeonato Mundial de Hockey sobre Césped 2026. Tanto la selección masculina argentina (Los Leones) como la femenina (Las Leonas) aseguraron su clasificación para el torneo. El sorteo determina sus grupos y rivales, permitiendo que ambos equipos preparen sus estrategias para la próxima competencia mundial.",
+        "category": "代表チーム"
+      }
+    }
   }
 ]

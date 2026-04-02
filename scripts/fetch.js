@@ -106,7 +106,10 @@ async function fetchScrape(source) {
 
   $(source.selector.list).each((_, el) => {
     const titleEl = $(el).find(source.selector.title).first();
-    let title = titleEl.text().trim();
+    // titleAttr が指定されていれば属性値（例: alt）を使う
+    let title = source.selector.titleAttr
+      ? (titleEl.attr(source.selector.titleAttr) || '').trim()
+      : titleEl.text().trim();
     const href = source.selector.link === 'self'
       ? $(el).attr('href') || ''
       : $(el).find(source.selector.link).first().attr('href') || '';
@@ -130,6 +133,12 @@ async function fetchScrape(source) {
       fetched_at: new Date().toISOString(),
     });
   });
+
+  // hrefFilter: URL正規表現でフィルタ（カテゴリページ等を除外）
+  if (source.hrefFilter) {
+    const re = new RegExp(source.hrefFilter);
+    return items.filter(a => re.test(a.source_url));
+  }
 
   return items;
 }

@@ -94,6 +94,46 @@
       }
     },
     {
+      "name": "Hockey Australia",
+      "url": "https://hockey.org.au/news/",
+      "lang": "en",
+      "priority": 2,
+      "browserHeaders": true,
+      "selector": {
+        "list": "article",
+        "title": "h2",
+        "link": "a",
+        "base": "https://hockey.org.au"
+      }
+    },
+    {
+      "name": "Hockey India",
+      "url": "https://hockeyindia.org/news",
+      "lang": "en",
+      "priority": 2,
+      "selector": {
+        "list": "a[href*='/news/']",
+        "title": "img",
+        "titleAttr": "alt",
+        "link": "self",
+        "base": "https://hockeyindia.org"
+      },
+      "hrefFilter": "/news/[^/]+$"
+    },
+    {
+      "name": "CAH Argentina",
+      "url": "https://www.cahockey.org.ar/noticias/",
+      "lang": "es",
+      "priority": 2,
+      "selector": {
+        "list": ".nota",
+        "title": "img",
+        "titleAttr": "alt",
+        "link": "a.link",
+        "base": ""
+      }
+    },
+    {
       "name": "England Hockey",
       "url": "https://www.englandhockey.co.uk/media/news",
       "lang": "en",
