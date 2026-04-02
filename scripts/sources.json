@@ -87,8 +87,8 @@
       "lang": "es",
       "priority": 2,
       "selector": {
-        "list": "article, .noticia",
-        "title": "h2, h3",
+        "list": "article",
+        "title": ".elementor-post__title",
         "link": "a",
         "base": "https://www.eshockey.es"
       }
