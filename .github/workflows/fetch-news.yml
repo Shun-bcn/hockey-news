@@ -27,7 +27,7 @@ jobs:
       - name: Fetch and process news
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: node scripts/fetch.js
+        run: FETCH_DATE=$(date -u -d '+1 day' +%Y-%m-%d) node scripts/fetch.js
 
       - name: Commit updated data
         run: |
