@@ -28,11 +28,11 @@ function getTodayFile() {
   return path.join(getDataDir(), `${getToday()}.json`);
 }
 
-/** 過去全データのIDセットを返す（重複スキップ用） */
+/** 過去全データのIDセットを返す（重複スキップ用）。ブロックリストも含む。 */
 function loadAllIds() {
   const dataDir = getDataDir();
-  if (!fs.existsSync(dataDir)) return new Set();
-  const ids = new Set();
+  const ids = new Set(sources.blocklist || []);
+  if (!fs.existsSync(dataDir)) return ids;
   fs.readdirSync(dataDir)
     .filter(f => f.endsWith('.json'))
     .forEach(f => {

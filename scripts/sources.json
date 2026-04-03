@@ -1,4 +1,7 @@
 {
+  "blocklist": [
+    "acdb6ac4a2ad"
+  ],
   "rss": [
     {
       "name": "The Hockey Paper",
