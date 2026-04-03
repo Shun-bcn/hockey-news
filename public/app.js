@@ -24,6 +24,20 @@ function formatDate(dateStr) {
   return dateStr.replace(/-/g, '/');
 }
 
+function formatPublishedDate(dateStr, lang) {
+  if (!dateStr) return null;
+  const [, m, d] = dateStr.split('-').map(Number);
+  const months = {
+    ja: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+    en: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+    nl: ['jan','feb','mrt','apr','mei','jun','jul','aug','sep','okt','nov','dec'],
+    es: ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'],
+    hi: ['जन','फ़र','मार','अप्र','मई','जून','जुल','अग','सित','अक्','नव','दिस'],
+  };
+  const mo = (months[lang] || months.en)[m - 1];
+  return lang === 'ja' ? `${m}月${d}日` : `${d} ${mo}`;
+}
+
 function timeAgo(isoStr) {
   const diff = Date.now() - new Date(isoStr).getTime();
   const mins = Math.floor(diff / 60000);
@@ -158,6 +172,8 @@ function renderCard(article, showDate = false) {
   const shareUrl = `${location.origin}${location.pathname}?date=${articleDate}&lang=${state.lang}#article-${article.id}`;
   const dateBadge = showDate && article.date
     ? `<span class="article-date-badge">${formatDate(article.date)}</span>` : '';
+  const pubDate = article.published_at
+    ? `<span class="article-pub-date">${formatPublishedDate(article.published_at, state.lang)}</span>` : '';
 
   return `
 <article id="article-${article.id}" class="article-card ${catClass(cat)}">
@@ -168,6 +184,7 @@ function renderCard(article, showDate = false) {
   <div class="article-meta">
     ${dateBadge}
     <span class="article-source">${escHtml(article.source)}</span>
+    ${pubDate}
     <span class="article-category">${escHtml(catLabel)}</span>
     <span class="article-time">${time}</span>
     <button class="share-btn" data-url="${escHtml(shareUrl)}" data-title="${headline}" aria-label="Share">

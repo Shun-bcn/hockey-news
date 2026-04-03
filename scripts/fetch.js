@@ -53,6 +53,27 @@ function loadTodayArticles() {
   return [];
 }
 
+// ─── 日付正規化 ───────────────────────────────────────────────
+
+function normalizeDate(raw) {
+  if (!raw) return null;
+  const s = raw.trim();
+  // ISO: 2026-04-03T06:52:00 or 2026-04-03T21:09:49+00:00
+  if (/^\d{4}-\d{2}-\d{2}/.test(s)) return s.slice(0, 10);
+  // DD/MM/YYYY: 02/04/2026
+  const dm = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+  if (dm) return `${dm[3]}-${dm[2].padStart(2, '0')}-${dm[1].padStart(2, '0')}`;
+  // Spanish text: "Viernes, 03 de Abril de 2026"
+  const es = s.match(/(\d{1,2}) de (\w+) de (\d{4})/i);
+  if (es) {
+    const months = { enero:1, febrero:2, marzo:3, abril:4, mayo:5, junio:6,
+                     julio:7, agosto:8, septiembre:9, octubre:10, noviembre:11, diciembre:12 };
+    const m = months[es[2].toLowerCase()];
+    if (m) return `${es[3]}-${String(m).padStart(2, '0')}-${es[1].padStart(2, '0')}`;
+  }
+  return null;
+}
+
 // ─── RSS取得 ──────────────────────────────────────────────────
 
 async function fetchRSS(source) {
@@ -66,6 +87,7 @@ async function fetchRSS(source) {
     original_title: (item.title || '').trim(),
     original_content: (item.contentSnippet || item.summary || item.content || '').slice(0, 800),
     original_lang: source.lang,
+    published_at: normalizeDate(item.isoDate || item.pubDate || null),
     fetched_at: new Date().toISOString(),
   }));
 
@@ -123,6 +145,19 @@ async function fetchScrape(source) {
     if (!title) return;
 
     const url = href.startsWith('http') ? href : source.selector.base + href;
+
+    // 公開日取得（dateSelector が設定されている場合）
+    let published_at = null;
+    if (source.selector.dateSelector) {
+      const dateEl = source.selector.dateSelector === 'self'
+        ? $(el)
+        : $(el).find(source.selector.dateSelector).first();
+      const raw = source.selector.dateAttr
+        ? (dateEl.attr(source.selector.dateAttr) || '')
+        : dateEl.text().trim();
+      published_at = normalizeDate(raw);
+    }
+
     items.push({
       id: hashUrl(url),
       source: source.name,
@@ -130,6 +165,7 @@ async function fetchScrape(source) {
       original_title: title,
       original_content: '',
       original_lang: source.lang,
+      published_at,
       fetched_at: new Date().toISOString(),
     });
   });
@@ -273,6 +309,7 @@ async function main() {
         id: article.id,
         source: article.source,
         source_url: article.source_url,
+        published_at: article.published_at || null,
         fetched_at: article.fetched_at,
         translations,
       });

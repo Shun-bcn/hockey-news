@@ -97,5 +97,38 @@
         "category": "試合結果"
       }
     }
+  },
+  {
+    "id": "ffc81db5943a",
+    "source": "FIH",
+    "source_url": "https://www.fih.hockey/news/building-peace-hope-and-opportunity-through-hockey",
+    "fetched_at": "2026-04-03T08:47:02.148Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケーを通じた平和、希望、機会の構築",
+        "summary": "国際ホッケー連盟（FIH）は、ホッケーがもたらす社会的価値に焦点を当てた取り組みを発表しました。このイニシアティブは、スポーツを通じて世界中のコミュニティに平和と希望をもたらし、若者に機会を創出することを目的としています。ホッケーの力を活用した包括的な社会貢献プログラムです。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Building Peace, Hope, and Opportunity Through Hockey",
+        "summary": "The International Hockey Federation (FIH) has announced a comprehensive initiative focused on leveraging hockey's social impact. The program aims to bring peace, hope, and opportunity to communities worldwide through the sport. By utilizing hockey as a vehicle for positive change, FIH seeks to create meaningful opportunities for youth and foster development across diverse populations globally.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "Vrede, hoop en kansen door hockey",
+        "summary": "De Internationale Hockey Federatie (FIH) heeft een nieuw programma aangekondigd dat gericht is op het gebruik van hockey als middel voor sociale verandering. Het initiatief streeft ernaar om vrede, hoop en mogelijkheden naar gemeenschappen over de hele wereld te brengen. Door hockey als instrument in te zetten, wil FIH betekenisvolle kansen voor jongeren creëren en duurzame ontwikkeling bevorderen.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "हॉकी के माध्यम से शांति, आशा और अवसर",
+        "summary": "अंतर्राष्ट्रीय हॉकी संघ (FIH) ने एक नई पहल की घोषणा की है जो हॉकी के माध्यम से सामाजिक प्रभाव पैदा करने पर केंद्रित है। यह कार्यक्रम विश्वभर के समुदायों में शांति, आशा और अवसर लाने का लक्ष्य रखता है। हॉकी को सकारात्मक परिवर्तन के एक साधन के रूप में उपयोग करके, FIH युवाओं के लिए अर्थपूर्ण अवसर सृजित करना चाहता है।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "Paz, esperanza y oportunidades a través del hockey",
+        "summary": "La Federación Internacional de Hockey (FIH) ha anunciado una nueva iniciativa enfocada en aprovechar el impacto social del hockey. El programa tiene como objetivo traer paz, esperanza y oportunidades a comunidades de todo el mundo. Utilizando el hockey como instrumento para el cambio positivo, la FIH busca crear oportunidades significativas para los jóvenes y promover el desarrollo sostenible a nivel global.",
+        "category": "Patrocinador"
+      }
+    }
   }
 ]

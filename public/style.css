@@ -237,6 +237,14 @@ main {
   margin-left: auto;
 }
 
+.article-pub-date {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  background: var(--bg-secondary);
+  padding: 1px 6px;
+  border-radius: 3px;
+}
+
 .search-result-header {
   font-size: 0.8rem;
   color: var(--text-muted);

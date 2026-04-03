@@ -44,6 +44,8 @@
         "list": "article, .news-item, .card",
         "title": "h2, h3, .title",
         "link": "a",
+        "dateSelector": "self",
+        "dateAttr": "data-publish-date",
         "base": "https://www.fih.hockey"
       }
     },
@@ -68,6 +70,8 @@
         "list": "article, .news-card",
         "title": "h2, h3",
         "link": "a",
+        "dateSelector": "time",
+        "dateAttr": "datetime",
         "base": "https://ehlhockey.tv"
       }
     },
@@ -93,6 +97,7 @@
         "list": "article",
         "title": ".elementor-post__title",
         "link": "a",
+        "dateSelector": ".elementor-post-date",
         "base": "https://www.eshockey.es"
       }
     },
@@ -133,6 +138,7 @@
         "title": "img",
         "titleAttr": "alt",
         "link": "a.link",
+        "dateSelector": "time, .fecha",
         "base": ""
       }
     },
