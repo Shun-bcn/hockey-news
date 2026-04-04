@@ -1,0 +1,42 @@
+name: Daily News Report
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # 毎日06:00 UTC（欧州時間08:00 CEST / 日本時間15:00 JST）に実行
+  workflow_dispatch:
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check today's articles and create report
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          FILE="public/data/${TODAY}.json"
+
+          if [ ! -f "$FILE" ]; then
+            echo "## ❌ Hockey Deflect Daily Report — ${TODAY}" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**データファイルが見つかりません。** 03:00 UTC のフェッチが失敗した可能性があります。" >> $GITHUB_STEP_SUMMARY
+            exit 0
+          fi
+
+          COUNT=$(python3 -c "import json; data=json.load(open('${FILE}')); print(len(data))")
+          SOURCES=$(python3 -c "
+          import json
+          data = json.load(open('${FILE}'))
+          from collections import Counter
+          counts = Counter(a['source'] for a in data)
+          for src, n in sorted(counts.items()):
+              print(f'- {src}: {n}件')
+          ")
+
+          echo "## ✅ Hockey Deflect Daily Report — ${TODAY}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**本日の記事数: ${COUNT}件**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### ソース別内訳" >> $GITHUB_STEP_SUMMARY
+          echo "${SOURCES}" >> $GITHUB_STEP_SUMMARY

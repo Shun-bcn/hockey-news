@@ -2,7 +2,7 @@ name: Fetch Hockey News
 
 on:
   schedule:
-    - cron: '0 21 * * *'  # 毎日21:00 UTC（欧州時間23:00 CEST / 日本時間翌06:00）に実行
+    - cron: '0 1 * * *'   # 毎日01:00 UTC（欧州時間03:00 CEST / 日本時間10:00 JST）に実行
   workflow_dispatch:       # 手動実行も可能
 
 permissions:
@@ -27,7 +27,7 @@ jobs:
       - name: Fetch and process news
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: FETCH_DATE=$(date -u -d '+1 day' +%Y-%m-%d) node scripts/fetch.js
+        run: node scripts/fetch.js
 
       - name: Commit updated data
         run: |
