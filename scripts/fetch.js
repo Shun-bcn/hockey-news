@@ -60,9 +60,30 @@ function normalizeDate(raw) {
   const s = raw.trim();
   // ISO: 2026-04-03T06:52:00 or 2026-04-03T21:09:49+00:00
   if (/^\d{4}-\d{2}-\d{2}/.test(s)) return s.slice(0, 10);
+  // YYYY.MM.DD: 2026.04.03 (Asia Hockey)
+  const yd = s.match(/^(\d{4})\.(\d{2})\.(\d{2})/);
+  if (yd) return `${yd[1]}-${yd[2]}-${yd[3]}`;
   // DD/MM/YYYY: 02/04/2026
   const dm = s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
   if (dm) return `${dm[3]}-${dm[2].padStart(2, '0')}-${dm[1].padStart(2, '0')}`;
+  // English: "Mar 11, 2026" or "March 11, 2026"
+  const enLong = s.match(/(\w+)\s+(\d{1,2}),?\s+(\d{4})/);
+  if (enLong) {
+    const months = { jan:1, feb:2, mar:3, apr:4, may:5, jun:6,
+                     jul:7, aug:8, sep:9, oct:10, nov:11, dec:12,
+                     january:1, february:2, march:3, april:4, june:6,
+                     july:7, august:8, september:9, october:10, november:11, december:12 };
+    const m = months[enLong[1].toLowerCase().slice(0, 9)];
+    if (m) return `${enLong[3]}-${String(m).padStart(2, '0')}-${enLong[2].padStart(2, '0')}`;
+  }
+  // English: "02 Jul 2025" or "1:30 pm  02 Jul 2025"
+  const enDay = s.match(/(\d{1,2})\s+(\w{3,})\s+(\d{4})/);
+  if (enDay) {
+    const months = { jan:1, feb:2, mar:3, apr:4, may:5, jun:6,
+                     jul:7, aug:8, sep:9, oct:10, nov:11, dec:12 };
+    const m = months[enDay[2].toLowerCase().slice(0, 3)];
+    if (m) return `${enDay[3]}-${String(m).padStart(2, '0')}-${enDay[1].padStart(2, '0')}`;
+  }
   // Spanish text: "Viernes, 03 de Abril de 2026"
   const es = s.match(/(\d{1,2}) de (\w+) de (\d{4})/i);
   if (es) {
@@ -156,6 +177,15 @@ async function fetchScrape(source) {
         ? (dateEl.attr(source.selector.dateAttr) || '')
         : dateEl.text().trim();
       published_at = normalizeDate(raw);
+    }
+    // titleDateRegex: タイトル先頭の日付プレフィックスを抽出しタイトルから除去
+    if (source.selector.titleDateRegex && title) {
+      const re = new RegExp(source.selector.titleDateRegex);
+      const m = title.match(re);
+      if (m) {
+        published_at = normalizeDate(m[1]);
+        title = title.slice(m[0].length).trim();
+      }
     }
 
     items.push({
@@ -293,6 +323,16 @@ async function main() {
   // 重複排除
   const seen = new Set(todayArticles.map(a => a.id));
   rawArticles = rawArticles.filter(a => !seen.has(a.id));
+
+  // minPublishedDate フィルタ: 日付が取得できていて minPublishedDate より古い記事を除外
+  const allSources = [...sources.rss, ...sources.scrape];
+  rawArticles = rawArticles.filter(a => {
+    const src = allSources.find(s => s.name === a.source);
+    if (!src || !src.minPublishedDate) return true;
+    if (!a.published_at) return true; // 日付不明は通過
+    return a.published_at >= src.minPublishedDate;
+  });
+
   console.log(`\nNew articles to process: ${rawArticles.length}`);
 
   // 1回の実行で処理する上限（APIコスト・時間制限対策）
