@@ -156,6 +156,21 @@
       }
     },
     {
+      "name": "Oceania Hockey",
+      "url": "https://oceaniahockey.com/news/",
+      "lang": "en",
+      "priority": 2,
+      "minPublishedDate": "2026-03-15",
+      "hrefFilter": "oceaniahockey\\.com\\/(?!event\\/|events\\/)",
+      "selector": {
+        "list": "article",
+        "title": "h2, h3, h4, .entry-title",
+        "link": "a",
+        "dateSelector": "span.published",
+        "base": "https://oceaniahockey.com"
+      }
+    },
+    {
       "name": "Africa Hockey",
       "url": "https://www.africahockey.org/general-news/",
       "lang": "en",
