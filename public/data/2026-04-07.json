@@ -1,0 +1,342 @@
+[
+  {
+    "id": "c8698c0eb7f4",
+    "source": "The Hockey Paper",
+    "source_url": "https://www.thehockeypaper.co.uk/articles/2026/04/07/75285",
+    "published_at": "2026-04-07",
+    "fetched_at": "2026-04-07T08:49:41.314Z",
+    "translations": {
+      "ja": {
+        "headline": "ドイツ、ホッケー国家訓練センター建設開始",
+        "summary": "ドイツホッケー連盟は、エリート及びユース選手育成の基盤強化を目指し、ミュンヘングラッドバッハのホッケーパークに国家ホッケー訓練センター（NHTZ）の建設を開始した。2028年の完成を予定しており、州首相ハンドリック・ヴュストは本プロジェクトがドイツホッケーの発展に大きく貢献すると述べた。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Germany launches national hockey training hub",
+        "summary": "Construction has commenced on Germany's National Hockey Training Center (NHTZ) at Hockey Park in Mönchengladbach, marking a significant investment in elite and youth development infrastructure. The facility is scheduled for completion by 2028. State Premier Hendrik Wüst confirmed the project will strengthen German hockey's competitive foundation and athlete development pathways.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "Duitsland bouwt nationaal hockeytrainingcentrum",
+        "summary": "De constructie van het National Hockey Training Center (NHTZ) is begonnen op Hockey Park in Mönchengladbach. Dit project is een belangrijke stap voor de versterking van de elite- en jeugdontwikkelinginfrastructuur van Duitsland. Naar verwachting wordt het centrum in 2028 voltooid. Staatssecretaris Hendrik Wüst benadrukte het belang van deze investering voor de toekomst van Duits hockey.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "जर्मनी राष्ट्रीय हॉकी प्रशिक्षण केंद्र बनाएगा",
+        "summary": "जर्मनी ने मॉन्चेंग्लैडबैच की हॉकी पार्क में एक नए राष्ट्रीय हॉकी प्रशिक्षण केंद्र (NHTZ) का निर्माण शुरू किया है। यह परियोजना अभिजात और युवा खिलाड़ी विकास बुनियादी ढांचे को मजबूत करने का एक महत्वपूर्ण कदम है। 2028 तक पूर्ण होने की उम्मीद है। राज्य प्रीमियर हेंड्रिक वुस्ट ने कहा कि यह परियोजना जर्मन हॉकी की प्रतिस्पर्धात्मक नींव को मजबूत करेगी।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "Alemania construye centro de entrenamiento nacional",
+        "summary": "Alemania ha iniciado la construcción del Centro Nacional de Entrenamiento de Hockey (NHTZ) en el Parque de Hockey de Mönchengladbach. Este proyecto representa un paso significativo para fortalecer la infraestructura de desarrollo de élite y jóvenes talentos. Se espera que esté completado en 2028. El premier estatal Hendrik Wüst afirmó que esta inversión reforzará los cimientos competitivos del hockey alemán.",
+        "category": "Patrocinador"
+      }
+    }
+  },
+  {
+    "id": "77641e08fff5",
+    "source": "The Hockey Paper",
+    "source_url": "https://www.thehockeypaper.co.uk/articles/2026/04/06/hampstead-westminster-claim-euro-hockey-league-club-trophy-double",
+    "published_at": "2026-04-06",
+    "fetched_at": "2026-04-07T08:49:41.314Z",
+    "translations": {
+      "ja": {
+        "headline": "ハムステッド・ウェストミンスター連覇達成",
+        "summary": "ハムステッド・ウェストミンスターが、ウィーンで開催されたユーロホッケーリーグクラブトロフィーの女子大会で連覇を達成した。同チームはウクライナのMSCスムチャンカを3-2で破り、オリビア・ハミルトン、タイラー・レンチ、ローレン・ハントがゴールを記録。レンチは前年のラコヴニク大会でもゴールを挙げており、連続での決勝得点者となった。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Hampstead & Westminster claim Euro Hockey League double",
+        "summary": "Hampstead & Westminster secured back-to-back Euro Hockey League Club Trophy titles, defeating Ukrainian side MSC Sumchanka 3-2 in Vienna. Goals came from Olivia Hamilton, Tyler Lench and Lauren Hunt. Lench scored in consecutive finals, having also netted in last year's triumph at Rakovnik where H&W beat Watsonians 3-2 in the final.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Hampstead & Westminster prolongeert titel EHL",
+        "summary": "Hampstead & Westminster heeft voor het tweede jaar op rij het Euro Hockey League Club Trophy gewonnen. Het Britse team versloeg de Oekraïense club MSC Sumchanka met 3-2 in Wenen. Doelpunten kwamen van Olivia Hamilton, Tyler Lench en Lauren Hunt. Lench scoorde in twee opeenvolgende finales, nadat H&W vorig jaar in Rakovnik Watsonians ook al 3-2 verslagen had.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "हैम्पस्टेड विजयी दल बना रहा",
+        "summary": "हैम्पस्टेड एंड वेस्टमिंस्टर ने यूरो हॉकी लीग क्लब ट्रॉफी में लगातार दूसरी जीत हासिल की है। वियना में यूक्रेनी टीम एमएससी सुमचांका को 3-2 से हराया गया। ओलिविया हैमिल्टन, टायलर लेंच और लॉरेन हंट ने गोल किए। लेंच ने लगातार दोनों फाइनल में गोल किया, जबकि पिछले साल राकोविनिक में वाटसोनियन्स को भी 3-2 से हराया था।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Hampstead & Westminster logra doblete europeo",
+        "summary": "Hampstead & Westminster conquistó su segundo título consecutivo en la Euro Hockey League Club Trophy al vencer a MSC Sumchanka de Ucrania 3-2 en Viena. Los goles fueron anotados por Olivia Hamilton, Tyler Lench y Lauren Hunt. Lench anotó en finales consecutivas, tras lograr también marcar en la victoria del año anterior contra Watsonians en Rakovnik con el mismo marcador de 3-2.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "7855b1126b38",
+    "source": "The Hockey Paper",
+    "source_url": "https://www.thehockeypaper.co.uk/articles/2026/04/06/euro-hockey-league-kampong-and-schc-make-it-dutch-double",
+    "published_at": "2026-04-06",
+    "fetched_at": "2026-04-07T08:49:41.314Z",
+    "translations": {
+      "ja": {
+        "headline": "カンポン、10年ぶりのユーロホッケーリーグ優勝",
+        "summary": "オランダのカンポンがユーロホッケーリーグで10年ぶりの優勝を達成した。カンポンは過去3シーズン連続で準決勝進出を果たしていたが、今回ついに栄冠を手にした。決勝ではベルギーの守王者ガントワーズを3-1で破り、初のヨーロッパクラブチャンピオンシップを獲得した。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Kampong claims first EHL title in a decade",
+        "summary": "Dutch side Kampong won the Euro Hockey League for the first time in ten years, defeating defending champions Gantoise 3-1 in the final. After reaching the final four in the last three consecutive campaigns, Kampong finally secured their first European club championship. The victory marks a significant achievement for the Dutch outfit in continental competition.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Kampong wint eerste EHL-titel in tien jaar",
+        "summary": "Kampong heeft de Euro Hockey League voor het eerst in tien jaar gewonnen. In de finale versloegen zij verdediger Gantoise met 3-1. Kampong had de afgelopen drie seizoenen telkens de halve finales bereikt, maar wist nu eindelijk over de streep te gaan met hun eerste Europese clubtitel sinds lang.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "कैम्पोंग को दस साल का पहला यूरो हॉकी लीग खिताब",
+        "summary": "डच पक्ष कैम्पोंग ने यूरो हॉकी लीग में दस साल का पहला खिताब जीता है। उन्होंने रक्षा चैंपियन गैंटोइज़ को फाइनल में 3-1 से हराया। कैम्पोंग पिछले तीन सत्रों में लगातार अंतिम चार में पहुंचा था, लेकिन इस बार अंततः अपना पहला यूरोपीय क्लब शोपीस जीतने में सफल रहा।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Kampong gana su primer título de EHL en una década",
+        "summary": "El equipo holandés Kampong ganó la Euro Hockey League por primera vez en diez años al derrotar a los defensores del título Gantoise 3-1 en la final. Kampong había llegado a las semifinales en las últimas tres temporadas consecutivas, pero finalmente lograron asegurar su primer campeonato europeo de clubes. Esta victoria representa un logro significativo para el equipo en la competición continental.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "ea1ba1338263",
+    "source": "NOS Sport",
+    "source_url": "https://nos.nl/l/2609322",
+    "published_at": "2026-04-06",
+    "fetched_at": "2026-04-07T08:49:41.834Z",
+    "translations": {
+      "ja": {
+        "headline": "カンポン、ユーロホッケーリーグで劇的勝利",
+        "summary": "オランダのカンポンがユーロホッケーリーグ（EHL）決勝でベルギーの現王者ガントワーズを3-2で破り、2016年以来2度目のEHL優勝を達成した。デン・ボッシュで行われた試合では、前半終盤に3-0とリードしたカンポンが後半に相手の猛追を受け3-2まで詰められたが、逆転を許さず優勝。今季の国内リーグで低迷するカンポンにとって、国際大会での栄冠は大きな成果となった。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Kampong secures thrilling EHL final victory",
+        "summary": "Kampong claimed its second Euro Hockey League title in club history, defeating Belgian defending champions Gantoise 3-2 in the final held in Den Bosch. The Dutch side built a comfortable 3-0 lead through three quarters but faced a dramatic comeback as Gantoise narrowed the gap to 3-2 in the closing stages. Despite the late pressure, Kampong held firm to secure the victory, providing a significant boost to a season that has seen the club struggle in the domestic Hoofdklasse league.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Kampong pakt tweede EHL-titel na spannend duel",
+        "summary": "Kampong heeft de EHL-finale tegen titelverdediger Gantoise gewonnen met 3-2 in Den Bosch. Dit is de tweede Europese titel in de clubgeschiedenis, na 2016. De Utrechtse club had een comfortabele voorsprong van 3-0 opgebouwd, maar Gantoise maakte het in het slotgedeelte nog spannend en bracht de stand terug tot 3-2. Voor Kampong, dat zich nu in de achtste plaats van de Hoofdklasse bevindt, is dit Europese succes op een cruciaal moment in het seizoen.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "कैम्पोंग ने रोमांचक EHL फाइनल जीता",
+        "summary": "नीदरलैंड की कैम्पोंग ने यूरो हॉकी लीग (EHL) फाइनल में बेल्जियम के रक्षक चैंपियन गांतोइज़ को 3-2 से हराया। डेन बॉश में खेले गए इस मैच में कैम्पोंग ने तीन-चौथाई समय तक 3-0 की आरामदायक बढ़त बना ली थी, लेकिन गांतोइज़ ने अंतिम समय में शानदार वापसी करते हुए स्कोर को 3-2 तक पहुंचा दिया। हालांकि, कैम्पोंग ने इस जीत को संभाल लिया और अपना दूसरा EHL खिताब हासिल किया। यह जीत क्लब के लिए एक महत्वपूर्ण पल पर आई है।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Kampong gana emocionante final de la EHL",
+        "summary": "Kampong aseguró su segundo título de la Euro Hockey League al vencer a Gantoise, campeón defensor de Bélgica, por 3-2 en la final disputada en Den Bosch. El equipo holandés construyó una ventaja cómoda de 3-0 tras tres cuartos del partido, pero enfrentó un dramático regreso cuando Gantoise redujo la diferencia a 3-2 en los momentos finales. A pesar de la presión tardía del rival, Kampong logró mantener su ventaja y asegurar la victoria. Este triunfo europeo llega en un momento crucial para un equipo que ha tenido dificultades en la Hoofdklasse doméstica.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "068e565dbf9a",
+    "source": "NOS Sport",
+    "source_url": "https://nos.nl/l/2609312",
+    "published_at": "2026-04-06",
+    "fetched_at": "2026-04-07T08:49:41.834Z",
+    "translations": {
+      "ja": {
+        "headline": "SCHC、ユーロホッケーリーグで初優勝",
+        "summary": "オランダのホッケーチーム・SCHCは、ユーロホッケーリーグの決勝でデン・ボッシュを1-0で破り、初の欧州タイトルを獲得した。SCHCは2015年のユーロホッケークラブチャンピオンズカップに続く2度目の欧州主要大会優勝。決勝はスペクタキュラーさに欠けた試合となり、両オランダの強豪チームはペナルティコーナーからのゴールが主な得点源となった。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "SCHC wins Euro Hockey League title",
+        "summary": "SCHC won their first Euro Hockey League title, defeating home team Den Bosch 1-0 in the final. This marks the second major European trophy for SCHC, following their victory in the Euro Hockey Club Champions Cup in 2015. The final between the two Dutch rivals lacked spectacle, with both teams relying on penalty corners as the primary scoring opportunity. SCHC's dominance was evident, having defeated Den Bosch 4-0 in the league two weeks earlier.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "SCHC wint Europese titel in finale",
+        "summary": "SCHC heeft voor het eerst de Euro Hockey League op hun naam gebracht. In de finale versloeg het Nederlands topteam de thuisspelende rivaal Den Bosch met 1-0. Dit is de tweede Europese hoofdprijs voor SCHC, na hun zege in de Euro Hockey Club Champions Cup in 2015. De finale tussen de beide Nederlandse toppers verliep zonder veel spektakel, met strafcorners als voornaamste mogelijkheden. SCHC toonde dominantie, na eerder Den Bosch 4-0 in de competitie te hebben verslagen.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "SCHC यूरो हॉकी लीग जीतता है",
+        "summary": "SCHC ने अपना पहला यूरो हॉकी लीग खिताब जीता है, घरेलू टीम डेन बॉश को फाइनल में 1-0 से हराया है। यह SCHC के लिए दूसरा प्रमुख यूरोपीय ट्रॉफी है, जो 2015 में यूरो हॉकी क्लब चैंपियंस कप में उनकी जीत के बाद आई है। दोनों डच दलों के बीच फाइनल में शानदारी की कमी रही, पेनल्टी कॉर्नर प्राथमिक स्कोरिंग के अवसर रहे। SCHC का वर्चस्व स्पष्ट था, जिन्होंने दो सप्ताह पहले लीग में डेन बॉश को 4-0 से हराया था।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "SCHC gana la Euro Hockey League",
+        "summary": "SCHC conquistó su primer título de la Euro Hockey League al derrotar al local Den Bosch 1-0 en la final. Este es el segundo trofeo europeo importante para SCHC, tras su victoria en la Euro Hockey Club Champions Cup en 2015. La final entre los dos rivales holandeses careció de espectáculo, siendo los córneres de penalti la principal fuente de oportunidades de gol. La dominancia de SCHC fue evidente, habiendo derrotado a Den Bosch 4-0 en la liga hace dos semanas.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "273b3ab08eda",
+    "source": "FIH",
+    "source_url": "https://www.fih.hockey/news/celebrating-hockeys-power-to-unite-on-international-day-of-sport-for-development-and-peace-2026",
+    "published_at": "2026-04-06",
+    "fetched_at": "2026-04-07T08:49:44.477Z",
+    "translations": {
+      "ja": {
+        "headline": "ホッケーの統一力を祝う2026年国際スポーツ開発平和の日",
+        "summary": "国際ホッケー連盟（FIH）は、2026年の国際スポーツ開発平和の日を記念して、ホッケーがいかに世界中のコミュニティを統一し、発展に貢献するかを祝う。このイベントは、スポーツを通じた平和構築と社会開発の重要性を強調し、ホッケーの力を全世界に発信する機会となっている。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "FIH Celebrates Hockey's Power to Unite on Sports Day 2026",
+        "summary": "The International Hockey Federation (FIH) celebrates International Day of Sport for Development and Peace 2026, highlighting how hockey unites communities worldwide and contributes to development. The event emphasizes the importance of peacebuilding and social development through sport, showcasing hockey's global impact and its ability to bring people together across borders and cultures.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "Hockey's kracht om samen te brengen in 2026",
+        "summary": "De Internationale Hockey Federatie (FIH) viert de Internationale Dag van Sport voor Ontwikkeling en Vrede in 2026 en benadrukt hoe hockey wereldwijd gemeenschappen verenigt en bijdraagt aan ontwikkeling. Het evenement onderstreept het belang van vredesopbouw en maatschappelijke ontwikkeling door sport, en toont aan hoe hockey mensen over grenzen en culturen heen samen kan brengen.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "2026 में खेल के माध्यम से शांति और एकता",
+        "summary": "अंतर्राष्ट्रीय हॉकी महासंघ (FIH) 2026 में खेल विकास और शांति के अंतर्राष्ट्रीय दिवस को मनाता है, जो हॉकी द्वारा विश्वव्यापी समुदायों को एकजुट करने और विकास में योगदान देने के तरीके को उजागर करता है। यह आयोजन खेल के माध्यम से शांति निर्माण और सामाजिक विकास के महत्व पर जोर देता है।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "FIH Celebra el Poder Unificador del Hockey en 2026",
+        "summary": "La Federación Internacional de Hockey (FIH) celebra el Día Internacional del Deporte para el Desarrollo y la Paz 2026, destacando cómo el hockey une a comunidades en todo el mundo y contribuye al desarrollo. El evento enfatiza la importancia de la construcción de la paz y el desarrollo social a través del deporte, mostrando el impacto global del hockey y su capacidad para reunir a personas más allá de fronteras y culturas.",
+        "category": "Patrocinador"
+      }
+    }
+  },
+  {
+    "id": "4ebd1b214bf9",
+    "source": "Real Federacion Española de Hockey",
+    "source_url": "https://eshockey.es/cuarto-puesto-para-real-club-de-campo-m-y-f-en-la-ehl-2026/",
+    "published_at": "2026-04-06",
+    "fetched_at": "2026-04-07T08:49:49.505Z",
+    "translations": {
+      "ja": {
+        "headline": "レアル・クラブ・デ・カンポがユーロホッケーリーグ2026で4位入賞",
+        "summary": "スペインのレアル・クラブ・デ・カンポの男女チームがユーロホッケーリーグ2026で4位を獲得しました。この成績はスペイン国内ホッケーの競技レベルの高さを示すもので、スペイン連盟による強化事業の成果を反映しています。両チームともユーロホッケーリーグの上位大会での入賞を果たし、国際舞台での競争力を証明しました。",
+        "category": "リーグ"
+      },
+      "en": {
+        "headline": "Real Club de Campo Secures Fourth Place at Euro Hockey League 2026",
+        "summary": "Real Club de Campo's men's and women's teams achieved fourth place finishes at the Euro Hockey League 2026. This strong performance demonstrates the competitive level of Spanish field hockey and reflects the success of the Spanish Federation's development programs. Both squads secured top-four finishes in Europe's premier club competition, establishing their credentials on the international stage.",
+        "category": "League"
+      },
+      "nl": {
+        "headline": "Real Club de Campo behaalt vierde plaats in Euro Hockey League 2026",
+        "summary": "De mannen- en vrouwenploegen van Real Club de Campo hebben zich een vierde plaats veroverd in de Euro Hockey League 2026. Deze sterke prestatie onderstreept het hoog competitieniveau van Spaans hockey en toont de vruchten van de ontwikkelingsprogramma's van de Spaanse federatie. Beide teams hebben hun positie in Europas voornaamste clubcompetitie bevestigd.",
+        "category": "League"
+      },
+      "hi": {
+        "headline": "रियल क्लब डे कैम्पो को यूरो हॉकी लीग 2026 में चौथा स्थान",
+        "summary": "रियल क्लब डे कैम्पो की पुरुष और महिला टीमों ने यूरो हॉकी लीग 2026 में चौथा स्थान हासिल किया है। यह उत्कृष्ट प्रदर्शन स्पेनिश हॉकी की प्रतिस्पर्धी क्षमता को दर्शाता है और स्पेन संघ के विकास कार्यक्रमों की सफलता को प्रतिबिंबित करता है। दोनों टीमें यूरोप की सर्वोच्च क्लब प्रतियोगिता में शीर्ष-चार स्थान हासिल करके अपनी अंतर्राष्ट्रीय क्षमता साबित करते हैं।",
+        "category": "लीग"
+      },
+      "es": {
+        "headline": "Real Club de Campo logra cuarto puesto en la EHL 2026",
+        "summary": "Los equipos masculino y femenino del Real Club de Campo han conseguido el cuarto puesto en la Eurocopa Hockey League 2026. Este excelente resultado demuestra el nivel competitivo del hockey español y refleja el éxito de los programas de desarrollo de la Federación Española. Ambos conjuntos han asegurado un lugar en la élite del hockey europeo, consolidando su posición en la competición de clubes más importante del continente.",
+        "category": "Liga"
+      }
+    }
+  },
+  {
+    "id": "781644c1a96a",
+    "source": "Real Federacion Española de Hockey",
+    "source_url": "https://eshockey.es/real-club-de-campo-m-pierde-por-la-minima-en-semis-de-la-ehl-y-jugara-por-el-bronce/",
+    "published_at": "2026-04-05",
+    "fetched_at": "2026-04-07T08:49:49.506Z",
+    "translations": {
+      "ja": {
+        "headline": "レアル・クラブ・デ・カンポM、ユーロホッケーリーグ準決勝で惜敗",
+        "summary": "スペインの強豪レアル・クラブ・デ・カンポMは、ユーロホッケーリーグ（EHL）の準決勝で接戦を落とした。同チームは惜しくも決勝進出を逃したものの、3位決定戦での銅メダル獲得を目指す。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Real Club de Campo M falls short in Euro Hockey League semis",
+        "summary": "Real Club de Campo M suffered a narrow defeat in the Euro Hockey League (EHL) semi-final. The Spanish side narrowly missed out on a place in the final and will now compete in the bronze medal match to secure third place in the competition.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Real Club de Campo M verliest nipt in halve finales EHL",
+        "summary": "Real Club de Campo M is in de halve finales van de Euro Hockey League (EHL) nipt onderuit gegaan. Het Spaanse team miste op kleine schaal een plek in de finale en zal nu om het brons strijden in de wedstrijd voor de derde plaats.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "रियल क्लब डे कैम्पो M यूरो हॉकी लीग सेमीफाइनल में हारा",
+        "summary": "रियल क्लब डे कैम्पो M यूरो हॉकी लीग (EHL) के सेमीफाइनल में एक सीमांत हार का सामना करना पड़ा। यह स्पेनी टीम फाइनल में जगह बनाने में विफल रही और अब कांस्य पदक के लिए तीसरे स्थान के मैच में खेलेगी।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Real Club de Campo M cae en semis del EHL",
+        "summary": "Real Club de Campo M perdió por la mínima en la semifinal del Euroliga de Hockey (EHL). El equipo español se quedó fuera de la final y competirá ahora por la medalla de bronce en el partido por el tercer puesto.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "30347dd3d6fd",
+    "source": "CAH Argentina",
+    "source_url": "https://www.cahockey.org.ar/noticia/las-leoncitas-comienzan-su-camino-en-la-copa-panamericana-junior/3884",
+    "published_at": "2026-04-06",
+    "fetched_at": "2026-04-07T08:49:55.141Z",
+    "translations": {
+      "ja": {
+        "headline": "アルゼンチン女子ジュニア代表、パンアメリカンカップ開幕",
+        "summary": "アルゼンチンの女子ジュニアホッケーチーム「レオンシタス」がパンアメリカンカップジュニアの大会に参加を開始しました。本大会はジュニア選手の育成と国際競技の経験を積む重要な機会となります。アルゼンチンチームの活躍に注目が集まっています。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Argentina's Junior Women Begin Pan American Cup Journey",
+        "summary": "Argentina's junior women's hockey team, known as Las Leoncitas, has begun their campaign in the Junior Pan American Cup tournament. The competition provides crucial international experience and development opportunities for young athletes. The Argentine squad is set to compete against regional rivals in this prestigious junior championship.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Argentijnse juniorenploeg start Copa Panamericana",
+        "summary": "Het Argentijnse vrouwenhokey juniorenteam 'Las Leoncitas' is gestart aan de Copa Panamericana Junior. Dit toernooi biedt waardevolle internationale speelervaring en ontwikkelingskansen voor jonge atleten. Het team zal tegen regionale tegenstanders uitkomen in dit prestigieuze juniorenkampioenschap.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "अर्जेंटीना की महिला जूनियर टीम शुरू करेगी पैन अमेरिकी कप",
+        "summary": "अर्जेंटीना की महिला हॉकी जूनियर टीम 'लास लिओनसिटास' जूनियर पैन अमेरिकी कप टूर्नामेंट में अपनी यात्रा शुरू कर चुकी है। यह प्रतियोगिता युवा खिलाड़ियों के लिए अंतर्राष्ट्रीय अनुभव और विकास के लिए महत्वपूर्ण अवसर प्रदान करती है। अर्जेंटीना की टीम क्षेत्रीय प्रतिद्वंद्वियों के विरुद्ध इस प्रतिष्ठित जूनियर चैंपियनशिप में प्रतिस्पर्धा करेगी।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Las Leoncitas inician su camino en la Copa Panamericana",
+        "summary": "El equipo femenino junior de hockey de Argentina, conocido como Las Leoncitas, ha comenzado su participación en el torneo de la Copa Panamericana Junior. Esta competencia proporciona una oportunidad crucial para que las jóvenes atletas ganen experiencia internacional y continúen su desarrollo. El equipo argentino competirá contra rivales regionales en este prestigioso campeonato junior.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "8a3541457cd5",
+    "source": "Asia Hockey",
+    "source_url": "https://asiahockey.org/news/day-05-of-the-mens-asian-games-qualifier-2026-featured-a-series-of-competitive-fixtures-across-pool-a-and-pool-b-at-rtaf-pitch-1-as-teams-continued-to-battle-for-crucial-points-in/",
+    "published_at": "2026-04-06",
+    "fetched_at": "2026-04-07T08:50:03.199Z",
+    "translations": {
+      "ja": {
+        "headline": "2026年男子アジア大会予選5日目、熱戦続く",
+        "summary": "2026年男子アジア大会予選5日目では、複数の競争的な試合が行われた。アジアホッケーの報道によると、各チームは激しい競争を繰り広げ、大会での上位進出を目指して全力を尽くした。この日の試合結果は、各国代表チームの実力を示す重要な指標となり、今後のトーナメント進行に大きな影響を与えることが予想される。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Day 5 of Men's Asian Games Qualifier 2026 Delivers Competitive Matches",
+        "summary": "Day 05 of the Men's Asian Games Qualifier 2026 featured a series of competitive matches as reported by Asia Hockey. Teams demonstrated intense rivalry and determination in their pursuit of advancement in the tournament. The results from this day's fixtures proved significant in showcasing the strength of participating national teams and are expected to have considerable impact on the tournament's progression and standings moving forward.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Dag 5 Mannen Azië-spelen Kwalificatie 2026 vol Competitie",
+        "summary": "Dag 05 van de Mannen Azië-spelen Kwalificatie 2026 bood een reeks competitieve wedstrijden volgens Asia Hockey. De teams toonden intense rivaliteit en vastberadenheid in hun streven naar doorgang in het toernooi. De resultaten van deze dag bewezenbleek van groot belang voor het aantonen van de kracht van deelnemende nationale teams en zullen naar verwachting aanzienlijke invloed hebben op de voortgang en stand van het toernooi.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "पुरुष एशिया खेल योग्यता 2026 का दिन 5 प्रतिस्पर्धात्मक",
+        "summary": "पुरुष एशिया खेल योग्यता 2026 के दिन 05 में एशिया हॉकी की रिपोर्ट के अनुसार प्रतिस्पर्धात्मक मैचों की एक श्रृंखला प्रस्तुत की गई। टीमों ने टूर्नामेंट में आगे बढ़ने की अपनी खोज में तीव्र प्रतिद्वंद्विता और दृढ़ संकल्प का प्रदर्शन किया। इस दिन की फिक्सचर के परिणाम प्रतिभागी राष्ट्रीय टीमों की ताकत प्रदर्शित करने में महत्वपूर्ण साबित हुए और टूर्नामेंट की प्रगति और स्टैंडिंग पर काफी प्रभाव डालने की उम्मीद है।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Día 5 Clasificatoria Juegos Asiáticos Hombres 2026 Competitivo",
+        "summary": "El día 05 de la Clasificatoria de los Juegos Asiáticos Hombres 2026 presentó una serie de partidos competitivos según reporta Asia Hockey. Los equipos demostraron intensa rivalidad y determinación en su búsqueda del avance en el torneo. Los resultados de los encuentros de este día resultaron significativos para mostrar la fortaleza de los equipos nacionales participantes y se espera que tengan un impacto considerable en la progresión y clasificación del torneo.",
+        "category": "試合結果"
+      }
+    }
+  }
+]
