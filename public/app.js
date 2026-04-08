@@ -24,27 +24,10 @@ function formatDate(dateStr) {
   return dateStr.replace(/-/g, '/');
 }
 
-function formatPublishedDate(dateStr, lang) {
+function formatPublishedDate(dateStr) {
   if (!dateStr) return null;
-  const [, m, d] = dateStr.split('-').map(Number);
-  const months = {
-    ja: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
-    en: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
-    nl: ['jan','feb','mrt','apr','mei','jun','jul','aug','sep','okt','nov','dec'],
-    es: ['ene','feb','mar','abr','may','jun','jul','ago','sep','oct','nov','dic'],
-    hi: ['जन','फ़र','मार','अप्र','मई','जून','जुल','अग','सित','अक्','नव','दिस'],
-  };
-  const mo = (months[lang] || months.en)[m - 1];
-  return lang === 'ja' ? `${m}月${d}日` : `${d} ${mo}`;
-}
-
-function timeAgo(isoStr) {
-  const diff = Date.now() - new Date(isoStr).getTime();
-  const mins = Math.floor(diff / 60000);
-  if (mins < 60) return `${mins}分前`;
-  const hours = Math.floor(mins / 60);
-  if (hours < 24) return `${hours}時間前`;
-  return `${Math.floor(hours / 24)}日前`;
+  const [y, m, d] = dateStr.split('-');
+  return ;
 }
 
 function catClass(cat) {
@@ -167,13 +150,12 @@ function renderCard(article, showDate = false) {
   const summary = escHtml(t.summary || '');
   const cat = t.category || 'その他';
   const catLabel = (CAT_DISPLAY[state.lang] || CAT_DISPLAY.ja)[cat] || cat;
-  const time = timeAgo(article.fetched_at);
   const articleDate = article.date || state.date;
   const shareUrl = `${location.origin}${location.pathname}?date=${articleDate}&lang=${state.lang}#article-${article.id}`;
   const dateBadge = showDate && article.date
     ? `<span class="article-date-badge">${formatDate(article.date)}</span>` : '';
   const pubDate = article.published_at
-    ? `<span class="article-pub-date">${formatPublishedDate(article.published_at, state.lang)}</span>` : '';
+    ? `<span class="article-pub-date">${formatPublishedDate(article.published_at)}</span>` : '';
 
   return `
 <article id="article-${article.id}" class="article-card ${catClass(cat)}">
@@ -186,7 +168,6 @@ function renderCard(article, showDate = false) {
     <span class="article-source">${escHtml(article.source)}</span>
     ${pubDate}
     <span class="article-category">${escHtml(catLabel)}</span>
-    <span class="article-time">${time}</span>
     <button class="share-btn" data-url="${escHtml(shareUrl)}" data-title="${headline}" aria-label="Share">
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
