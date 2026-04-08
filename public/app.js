@@ -27,7 +27,7 @@ function formatDate(dateStr) {
 function formatPublishedDate(dateStr) {
   if (!dateStr) return null;
   const [y, m, d] = dateStr.split('-');
-  return ;
+  return y + '/' + m + '/' + d;
 }
 
 function catClass(cat) {
