@@ -8,7 +8,11 @@ const https = require('https');
 const Anthropic = require('@anthropic-ai/sdk');
 
 const sources = require('./sources.json');
-const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
+const anthropic = new Anthropic({
+  apiKey: process.env.ANTHROPIC_API_KEY,
+  maxRetries: 5,
+  timeout: 60000,
+});
 
 // ─── ユーティリティ ────────────────────────────────────────────
 
@@ -209,6 +213,18 @@ async function fetchScrape(source) {
   return items;
 }
 
+// ─── リトライユーティリティ ────────────────────────────────────
+
+async function withRetry(fn, retries = 3, delayMs = 5000) {
+  for (let i = 0; i < retries; i++) {
+    try { return await fn(); }
+    catch (e) {
+      if (i === retries - 1) throw e;
+      await new Promise(r => setTimeout(r, delayMs * (i + 1)));
+    }
+  }
+}
+
 // ─── Claude Haiku による多言語要約生成 ────────────────────────
 
 const CATEGORY_LIST = '試合結果 / 代表チーム / リーグ / 選手 / テクノロジー / ルール / スポンサー・パートナー / その他';
@@ -344,7 +360,7 @@ async function main() {
     const article = batch[i];
     try {
       process.stdout.write(`  [${i + 1}/${batch.length}] ${article.original_title.slice(0, 50)}... `);
-      const translations = await generateTranslations(article, ['ja', 'en', 'nl', 'hi', 'es']);
+      const translations = await withRetry(() => generateTranslations(article, ['ja', 'en', 'nl', 'hi', 'es']));
       processed.push({
         id: article.id,
         source: article.source,
