@@ -156,11 +156,15 @@ function renderCard(article, showDate = false) {
     ? `<span class="article-date-badge">${formatDate(article.date)}</span>` : '';
   const pubDate = article.published_at
     ? `<span class="article-pub-date">${formatPublishedDate(article.published_at)}</span>` : '';
+  const SOURCE_FALLBACK_URLS = {
+    'PanAm Hockey': 'https://www.panamhockey.org/news',
+  };
+  const linkUrl = SOURCE_FALLBACK_URLS[article.source] || article.source_url;
 
   return `
 <article id="article-${article.id}" class="article-card ${catClass(cat)}">
   <div class="article-headline">
-    <a href="${escHtml(article.source_url)}" target="_blank" rel="noopener">${headline}</a>
+    <a href="${escHtml(linkUrl)}" target="_blank" rel="noopener">${headline}</a>
   </div>
   <p class="article-summary">${summary}</p>
   <div class="article-meta">

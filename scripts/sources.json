@@ -189,6 +189,7 @@
       "url": "https://www.panamhockey.org/news",
       "lang": "en",
       "priority": 2,
+      "browserHeaders": true,
       "minPublishedDate": "2026-03-15",
       "selector": {
         "list": "article",
