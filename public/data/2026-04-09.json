@@ -1,0 +1,410 @@
+[
+  {
+    "id": "9e98a4255ea9",
+    "source": "The Hockey Paper",
+    "source_url": "https://www.thehockeypaper.co.uk/articles/2026/04/09/second-family-hockey-club-fears-closure-as-100-years-loom",
+    "published_at": "2026-04-09",
+    "fetched_at": "2026-04-09T07:58:45.126Z",
+    "translations": {
+      "ja": {
+        "headline": "100周年を控えるサセックスクラブが閉鎖の危機",
+        "summary": "サウスウィック・ホッケー・クラブは創立100周年を控えているが、3Gピッチの問題により閉鎖の危機に直面している。同クラブは11年間ステイニング・グラマー・スクールを本拠地としてきたが、学校の再開発計画によってホッケー施設が廃止される予定。クラブは新たな施設の確保を急いでいる。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Sussex Hockey Club Faces Closure as Centenary Approaches",
+        "summary": "Southwick Hockey Club, approaching its 100th anniversary, faces potential closure due to ongoing issues with 3G pitch provision. The club has been based at Steyning Grammar School for 11 years, but the school's redevelopment plans include no provision for hockey facilities. The club must find alternative accommodation to survive.",
+        "category": "Other"
+      },
+      "nl": {
+        "headline": "Hockeyclub in Sussex dreigt te sluiten voor 100e verjaardag",
+        "summary": "Southwick Hockey Club staat op het punt zijn 100-jarig bestaan te vieren maar dreigt te sluiten vanwege problemen met 3G-veldbeschikbaarheid. De club speelt al 11 jaar op Steyning Grammar School, maar de herontwikkelingplannen van de school voorzien niet in hockeyfaciliteiten. De club zoekt naar alternatieve trainingsfaciliteiten om te overleven.",
+        "category": "Overig"
+      },
+      "hi": {
+        "headline": "सेक्स क्लब शताब्दी के दौरान बंद होने का जोखिम",
+        "summary": "साउथविक हॉकी क्लब अपनी 100वीं वर्षगांठ से पहले 3जी पिच की समस्या के कारण बंद होने का जोखिम है। क्लब 11 वर्षों से स्टेनिंग व्याकरण स्कूल में खेल रहा है, लेकिन स्कूल के पुनर्विकास योजना में हॉकी सुविधाओं का कोई प्रावधान नहीं है। क्लब को जीवित रहने के लिए नई सुविधा खोजनी होगी।",
+        "category": "अन्य"
+      },
+      "es": {
+        "headline": "Club de Sussex enfrenta cierre a centésimo aniversario",
+        "summary": "El Southwick Hockey Club, acercándose a su centenario, enfrenta un posible cierre debido a problemas continuos con la provisión de canchas 3G. El club ha tenido su sede en Steyning Grammar School durante 11 años, pero los planes de redevelopment de la escuela no incluyen instalaciones de hockey. El club debe encontrar alternativas para sobrevivir.",
+        "category": "Otros"
+      }
+    }
+  },
+  {
+    "id": "da2c96bc1001",
+    "source": "FIH",
+    "source_url": "https://www.fih.hockey/news/la28-olympic-tickets-go-on-sale-april-9",
+    "published_at": "2026-04-08",
+    "fetched_at": "2026-04-09T07:58:47.084Z",
+    "translations": {
+      "ja": {
+        "headline": "LA28オリンピックチケット4月9日発売開始",
+        "summary": "2028年ロサンゼルスオリンピックのフィールドホッケーチケットが4月9日より販売開始となります。国際ホッケー連盟（FIH）の公式発表により、ファンはこの日からオリンピックの試合チケットを購入することができるようになります。",
+        "category": "スポンサー・パートナー"
+      },
+      "en": {
+        "headline": "LA28 Olympic Hockey Tickets on Sale April 9",
+        "summary": "Field hockey tickets for the 2028 Los Angeles Olympic Games will go on sale beginning April 9, according to the International Hockey Federation (FIH). Fans will be able to purchase tickets for Olympic matches starting on this date, marking an important milestone for those planning to attend the Games.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "LA28 Olympische tickets vanaf 9 april te koop",
+        "summary": "Kaarten voor hockey op de Olympische Spelen van 2028 in Los Angeles gaan op 9 april in de verkoop, aldus de Internationale Hockeyfederatie (FIH). Fans kunnen vanaf deze datum tickets voor olympische wedstrijden aanschaffen, wat een belangrijk moment markeert voor wie de Spelen wil bijwonen.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "LA28 ओलंपिक टिकट 9 अप्रैल को बिक्री के लिए",
+        "summary": "2028 लॉस एंजिल्स ओलंपिक खेलों के लिए फील्ड हॉकी टिकट अंतर्राष्ट्रीय हॉकी महासंघ (FIH) की घोषणा के अनुसार 9 अप्रैल से बिक्री के लिए उपलब्ध होंगे। प्रशंसक इस तारीख से ओलंपिक मैचों के टिकट खरीद सकेंगे।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "Entradas olímpicas LA28 a la venta desde 9 abril",
+        "summary": "Los boletos para hockey sobre césped en los Juegos Olímpicos de Los Ángeles 2028 se pondrán a la venta a partir del 9 de abril, según el anuncio de la Federación Internacional de Hockey (FIH). Los aficionados podrán comprar entradas para los partidos olímpicos a partir de esta fecha.",
+        "category": "Patrocinador"
+      }
+    }
+  },
+  {
+    "id": "4adb5338a8cc",
+    "source": "FIH",
+    "source_url": "https://www.fih.hockey/events/fih-para-hockey-worldcup-belgium-netherlands-2026/news/participating-teams-and-pools-revealed-for-inaugural-fih-para-hockey-world-cup",
+    "published_at": "2026-04-02",
+    "fetched_at": "2026-04-09T07:58:47.086Z",
+    "translations": {
+      "ja": {
+        "headline": "初のFIHパラホッケー世界選手権の参加チームとプール発表",
+        "summary": "国際ホッケー連盟(FIH)は、初となるパラホッケー世界選手権の参加チームと大会プール構成を発表しました。この歴史的な大会は、パラホッケーの発展における重要なマイルストーンとなり、世界中の国々が競技の最高レベルで競い合う機会を提供します。詳細なプール編成により、各チームの対戦相手が決定されました。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Inaugural FIH Para Hockey World Cup teams and pools unveiled",
+        "summary": "The International Hockey Federation (FIH) has announced the participating teams and pool configurations for the inaugural FIH Para Hockey World Cup. This historic tournament marks a significant milestone in para hockey development, providing nations with the opportunity to compete at the sport's highest level. The pool divisions have been finalized, determining matchups for teams across the competition.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Deelnemende teams en poules bekend voor eerste FIH Para Hockey World Cup",
+        "summary": "De Internationale Hockey Federatie (FIH) heeft de deelnemende teams en pouleindeling voor de eerste FIH Para Hockey World Cup bekendgemaakt. Dit historische toernooi vormt een belangrijk moment in de ontwikkeling van para hockey, waarbij landen de kans krijgen om op het hoogste niveau van de sport te wedijveren. De pouleindeling bepaalt welke teams tegen elkaar zullen aantreden.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "प्रथम FIH पैरा हॉकी विश्व कप की भाग लेने वाली टीमें और पूल घोषित",
+        "summary": "अंतर्राष्ट्रीय हॉकी महासंघ (FIH) ने प्रथम FIH पैरा हॉकी विश्व कप में भाग लेने वाली टीमों और पूल संरचना की घोषणा की है। यह ऐतिहासिक टूर्नामेंट पैरा हॉकी के विकास में एक महत्वपूर्ण मील का पत्थर है, जो देशों को खेल के सर्वोच्च स्तर पर प्रतिस्पर्धा करने का अवसर प्रदान करता है। पूल विभाजन अंतिम रूप से निर्धारित किए गए हैं।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Equipos y grupos revelados para la Copa Mundial inaugural de Para Hockey FIH",
+        "summary": "La Federación Internacional de Hockey (FIH) ha anunciado los equipos participantes y la configuración de grupos para la primera Copa Mundial de Para Hockey FIH. Este torneo histórico marca un hito importante en el desarrollo del para hockey, brindando a las naciones la oportunidad de competir al más alto nivel del deporte. La división de grupos ha sido finalizada, determinando los enfrentamientos para los equipos de la competencia.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "6eb35289f870",
+    "source": "Real Federacion Española de Hockey",
+    "source_url": "https://eshockey.es/hockeycreasuteaming/",
+    "published_at": "2026-04-08",
+    "fetched_at": "2026-04-09T07:58:52.361Z",
+    "translations": {
+      "ja": {
+        "headline": "HOCKEY+がティーミングを立ち上げ、プロジェクト成長を継続",
+        "summary": "スペイン・ホッケー連盟傘下のHOCKEY+は、プロジェクトのさらなる成長を実現するため、新たなティーミング（資金調達プラットフォーム）を立ち上げた。このイニシアチブにより、ホッケーの発展を支援する複数のステークホルダーを結集させ、持続可能な資金確保と協力体制の強化を目指している。",
+        "category": "スポンサー・パートナー"
+      },
+      "en": {
+        "headline": "HOCKEY+ Launches Teaming to Drive Project Growth",
+        "summary": "HOCKEY+, under the Real Federacion Española de Hockey, has established a new teaming initiative to further expand its project. This collaborative funding approach brings together multiple stakeholders committed to supporting hockey development, ensuring sustainable financial support and strengthening partnerships to accelerate the sport's growth and visibility.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "HOCKEY+ Lanceert Teaming voor Projectgroei",
+        "summary": "HOCKEY+, onderdeel van de Real Federacion Española de Hockey, heeft een nieuw teamingplatform opgericht om de groei van het project verder te bevorderen. Dit samenwerkingsinitiatief brengt meerdere stakeholders samen die zich inzetten voor hockeybetrokkenheid, waardoor duurzame financiering en versterkte partnerschappen het sportief potentieel kunnen vergroten.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "HOCKEY+ ने परियोजना विकास के लिए टीमिंग शुरू की",
+        "summary": "Real Federacion Española de Hockey के अंतर्गत HOCKEY+ ने अपनी परियोजना को आगे बढ़ाने के लिए एक नया टीमिंग प्लेटफॉर्म स्थापित किया है। यह सहयोगात्मक वित्तपोषण पहल कई हितधारकों को एक साथ लाती है जो हॉकी के विकास को समर्थन देने के लिए प्रतिबद्ध हैं और टिकाऊ वित्तीय सहायता सुनिश्चित करती है।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "HOCKEY+ Crea su Teaming para Crecer",
+        "summary": "HOCKEY+, bajo la Real Federacion Española de Hockey, ha lanzado una nueva iniciativa de teaming para impulsar el crecimiento continuo del proyecto. Esta estrategia colaborativa de financiación reúne a múltiples stakeholders comprometidos con el desarrollo del hockey, asegurando recursos sostenibles y fortaleciendo alianzas para potenciar el crecimiento y visibilidad del deporte.",
+        "category": "Patrocinador"
+      }
+    }
+  },
+  {
+    "id": "1b7600afa656",
+    "source": "Real Federacion Española de Hockey",
+    "source_url": "https://eshockey.es/la-copa-del-rey-y-la-reina-ya-tiene-confirmadas-sus-designaciones-arbitrales/",
+    "published_at": "2026-04-08",
+    "fetched_at": "2026-04-09T07:58:52.362Z",
+    "translations": {
+      "ja": {
+        "headline": "スペイン国王杯と女王杯の審判配置が決定",
+        "summary": "スペイン・ホッケー連盟は、スペイン国王杯と女王杯の審判配置を正式に発表した。両大会の重要な試合に向けて、経験豊富な審判団が指名された。この発表により、両大会の運営体制が整備され、公正で質の高い試合進行が保証される。",
+        "category": "ルール"
+      },
+      "en": {
+        "headline": "King's and Queen's Cup referee assignments confirmed",
+        "summary": "The Spanish Hockey Federation has officially announced the referee designations for the King's Cup and Queen's Cup tournaments. Experienced officials have been assigned to key matches in both competitions. This confirmation ensures proper tournament organization and maintains the highest standards of officiating for both prestigious Spanish field hockey championships.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "Scheidsrechterstoedelingen Koning- en Koninginnebekerbevestigd",
+        "summary": "De Real Federación Española de Hockey heeft officieel de scheidrechterstoedelingen voor de Koningingsbeker en Koninginnebeeker bekend gemaakt. Ervaren arbiter zijn aangewezen voor belangrijke wedstrijden in beide toernooien. Deze bevestiging zorgt voor behoorlijke organisatie van beide tornooi en handhaaft de hoogste arbitrage standaarden.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "राजा और रानी कप के रेफरी नियुक्त किए गए",
+        "summary": "स्पेनिश हॉकी संघ ने राजा कप और रानी कप टूर्नामेंट के लिए रेफरी नियुक्तियों की आधिकारिक घोषणा की है। दोनों प्रतियोगिताओं में महत्वपूर्ण मैचों के लिए अनुभवी अधिकारियों को नियुक्त किया गया है। यह घोषणा दोनों टूर्नामेंट के उचित संचालन को सुनिश्चित करती है।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "Designaciones arbitrales confirmadasen Copa del Rey y Reina",
+        "summary": "La Real Federación Española de Hockey ha confirmado oficialmente las designaciones arbitrales para la Copa del Rey y la Copa de la Reina. Se han asignado árbitros experimentados para los encuentros clave de ambas competiciones. Esta confirmación garantiza la correcta organización de ambos torneos y mantiene los más altos estándares de arbitraje en los campeonatos de hockey español.",
+        "category": "Patrocinador"
+      }
+    }
+  },
+  {
+    "id": "9648ab38dbc8",
+    "source": "Real Federacion Española de Hockey",
+    "source_url": "https://eshockey.es/el-cd-terrassa-acogera-una-historica-25a-edicion-del-teeh-2026/",
+    "published_at": "2026-04-07",
+    "fetched_at": "2026-04-09T07:58:52.363Z",
+    "translations": {
+      "ja": {
+        "headline": "テラッサが2026年TEEH第25回大会を開催",
+        "summary": "スペインのCD テラッサが、2026年にトロフィー・ユーロペオ・エスクエラス・ホッケイ(TEEH)の歴史的な第25回大会を開催することが決定した。この大会はスペイン国内の有力クラブチームが参加する重要な競技会で、テラッサでの開催は同クラブにとって大きな栄誉となる。大会詳細は今後発表予定。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "Terrassa to Host Historic 25th TEEH in 2026",
+        "summary": "CD Terrassa has been selected to host the 25th edition of the Trophy Europeo Escuelas Hockey (TEEH) in 2026, marking a historic milestone for the tournament. The TEEH is a prestigious Spanish club competition featuring top domestic teams. Terrassa's selection as host reflects the club's status within Spanish field hockey. Further tournament details will be announced in due course.",
+        "category": "その他"
+      },
+      "nl": {
+        "headline": "Terrassa gastheer van historische 25e TEEH 2026",
+        "summary": "CD Terrassa is geselecteerd als gaststad voor de 25e editie van het Trophy Europeo Escuelas Hockey (TEEH) in 2026, een historische mijlpaal voor dit toernooi. De TEEH is een prestigieus Spaans clubtoernooi met deelname van topclubs. De selectie van Terrassa als gastheer onderstreept de status van de club in het Spaanse hockey. Verdere toernooidetails volgen nog.",
+        "category": "その他"
+      },
+      "hi": {
+        "headline": "टेराससा 2026 में ऐतिहासिक 25वें TEEH की मेजबानी करेगा",
+        "summary": "CD टेराससा को 2026 में ट्रॉफी यूरोपीओ एस्कुएलास हॉकी (TEEH) के 25वें संस्करण की मेजबानी के लिए चुना गया है, जो इस टूर्नामेंट के लिए एक ऐतिहासिक मील का पत्थर है। TEEH एक प्रतिष्ठित स्पेनिश क्लब प्रतियोगिता है जिसमें शीर्ष घरेलू टीमें भाग लेती हैं। टेराससा के होस्ट के रूप में चयन स्पेनिश हॉकी में क्लब की स्थिति को दर्शाता है।",
+        "category": "その他"
+      },
+      "es": {
+        "headline": "Terrassa acogerá la 25ª edición del TEEH en 2026",
+        "summary": "El CD Terrassa ha sido seleccionado para albergar la 25ª edición del Trophy Europeo Escuelas Hockey (TEEH) en 2026, un hito histórico para este torneo. El TEEH es una prestigiosa competición de clubs españoles que reúne a los mejores equipos del país. La elección de Terrassa como sede refleja el prestigio del club en el hockey español. Los detalles adicionales del torneo serán anunciados proximamente.",
+        "category": "その他"
+      }
+    }
+  },
+  {
+    "id": "cf37ecbc81da",
+    "source": "Real Federacion Española de Hockey",
+    "source_url": "https://eshockey.es/atletic-m-ganadores-de-ehco-trophy-2026-atletic-f-y-polo-m-bronce/",
+    "published_at": "2026-04-07",
+    "fetched_at": "2026-04-09T07:58:52.364Z",
+    "translations": {
+      "ja": {
+        "headline": "ATLETIC M、EHCO TROPHY 2026優勝",
+        "summary": "スペイン・フィールドホッケー連盟の発表によると、ATLETIC Mがエッチオトロフィー2026で優勝を獲得しました。同大会ではATLETIC Fが銅メダルを獲得し、スペインチームの活躍が目立ちました。この成績はスペインホッケーの国際競技力を示す重要な結果となっています。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "ATLETIC M Wins EHCO Trophy 2026",
+        "summary": "According to the Real Federación Española de Hockey, ATLETIC M has claimed victory at the EHCO Trophy 2026 tournament. In the same competition, ATLETIC F secured the bronze medal, demonstrating strong performances by Spanish teams. This achievement highlights Spain's competitive standing in international field hockey and reinforces the nation's growing presence in European hockey competitions.",
+        "category": "Match Results"
+      },
+      "nl": {
+        "headline": "ATLETIC M wint EHCO Trophy 2026",
+        "summary": "Volgens de Real Federación Española de Hockey heeft ATLETIC M de EHCO Trophy 2026 gewonnen. ATLETIC F behaalde in dezelfde competitie het brons, wat aantoont dat Spaanse teams sterk presteren op internationaal niveau. Dit resultaat onderstreept Spanje's positie in het Europese hockey en demonstreert de groeiende competitiviteit van het Spaanse hockey.",
+        "category": "Match Results"
+      },
+      "hi": {
+        "headline": "ATLETIC M ने EHCO Trophy 2026 जीता",
+        "summary": "Real Federación Española de Hockey की घोषणा के अनुसार, ATLETIC M ने EHCO Trophy 2026 में जीत हासिल की है। इसी टूर्नामेंट में ATLETIC F को कांस्य पदक मिला है, जो स्पेनिश टीमों की शक्तिशाली प्रदर्शन को दर्शाता है। यह परिणाम अंतर्राष्ट्रीय फील्ड हॉकी में स्पेन की प्रतिस्पर्धी क्षमता को प्रदर्शित करता है।",
+        "category": "Match Results"
+      },
+      "es": {
+        "headline": "ATLETIC M gana EHCO Trophy 2026",
+        "summary": "Según la Real Federación Española de Hockey, ATLETIC M se ha proclamado ganador del EHCO Trophy 2026. En la misma competición, ATLETIC F ha conseguido la medalla de bronce, demostrando un excelente desempeño de los equipos españoles. Este resultado refleja la fortaleza competitiva de España en el hockey internacional y consolida la presencia del hockey español en las competiciones europeas.",
+        "category": "Match Results"
+      }
+    }
+  },
+  {
+    "id": "b26ecc2a51f1",
+    "source": "Real Federacion Española de Hockey",
+    "source_url": "https://eshockey.es/convocatioria-hockey-concentracion-10-12-de-abril-en-terrassa/",
+    "published_at": "2026-04-06",
+    "fetched_at": "2026-04-09T07:58:52.366Z",
+    "translations": {
+      "ja": {
+        "headline": "スペイン代表ホッケー+ 4月10-12日テラッサで合宿",
+        "summary": "スペイン王立ホッケー連盟は、HOCKEY+プログラムの代表チーム合宿をカタルーニャ州テラッサで4月10日から12日にかけて開催することを発表した。この合宿は、代表選手の育成と競技力向上を目的とした集中的なトレーニングプログラムである。詳細な参加選手リストと日程は、連盟の公式通知に従うこと。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Spain Hockey+ Team Concentration Camp April 10-12",
+        "summary": "The Spanish Royal Field Hockey Federation has announced a HOCKEY+ representative team concentration camp to be held in Terrassa, Catalonia, from April 10-12. This training camp focuses on developing elite players and enhancing competitive performance through intensive preparation sessions. Further details regarding participant selection and schedule will be provided through official federation communications.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Spaans Hockey+ Team Concentratie 10-12 april",
+        "summary": "De Spaanse Koninklijke Hockeyfederatie kondigt een HOCKEY+ concentratiekamp voor het nationale team aan in Terrassa, Catalonië, van 10 tot 12 april. Dit trainingscamp is gericht op de ontwikkeling van topsporters en verbetering van competitieve prestaties door middel van intensieve trainingssessies. Verdere details over deelnemersselectie en het schema zullen via officiële federatiecommunicatie worden verstrekt.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "स्पेन हॉकी+ दल एकाग्रता शिविर 10-12 अप्रैल",
+        "summary": "स्पेनिश रॉयल फील्ड हॉकी फेडरेशन ने घोषणा की है कि HOCKEY+ राष्ट्रीय दल के लिए एक एकाग्रता शिविर 10 से 12 अप्रैल तक कातालोनिया के टेरासा में आयोजित किया जाएगा। यह प्रशिक्षण शिविर शीर्ष स्तर के खिलाड़ियों के विकास और गहन प्रशिक्षण सत्रों के माध्यम से प्रतिस्पर्धी प्रदर्शन में सुधार पर केंद्रित है।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Convocatoria HOCKEY+ Concentración 10-12 de abril",
+        "summary": "La Real Federación Española de Hockey anuncia una concentración del equipo representativo HOCKEY+ en Terrassa, Cataluña, del 10 al 12 de abril. Este campamento de entrenamiento se enfoca en el desarrollo de jugadores de élite y la mejora del rendimiento competitivo mediante sesiones de preparación intensiva. Los detalles sobre la selección de participantes y el cronograma se proporcionarán a través de las comunicaciones oficiales de la federación.",
+        "category": "代表チーム"
+      }
+    }
+  },
+  {
+    "id": "55da04ab95b0",
+    "source": "England Hockey",
+    "source_url": "https://www.englandhockey.co.uk/media/news/nominations-for-the-england-hockey-awards-closing-soon",
+    "published_at": null,
+    "fetched_at": "2026-04-09T07:58:58.194Z",
+    "translations": {
+      "ja": {
+        "headline": "イングランドホッケー賞の推薦受付が間もなく終了",
+        "summary": "イングランドホッケーが実施する年間表彰式「イングランドホッケー賞」の推薦募集期限が近づいています。この賞は、選手、コーチ、ボランティア、クラブなど、ホッケー界に貢献した個人や団体を表彰するものです。推薦締め切りが迫っているため、該当者がいる場合は速やかに応募することをお勧めします。詳細はイングランドホッケー公式ウェブサイトをご確認ください。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "England Hockey Awards nominations closing soon",
+        "summary": "England Hockey is reminding the community that nominations for the England Hockey Awards are closing soon. The awards recognise outstanding contributions to field hockey from players, coaches, volunteers, clubs and organisations across the sport. Those wishing to nominate an individual or organisation for their exceptional dedication and achievements in field hockey are encouraged to submit their nominations before the deadline. Visit the England Hockey website for further details and nomination procedures.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "Nominaties voor England Hockey Awards gaan binnenkort dicht",
+        "summary": "England Hockey herinnert de gemeenschap eraan dat nominaties voor de England Hockey Awards binnenkort worden gesloten. De awards eren uitzonderlijke bijdragen aan hockey van spelers, trainers, vrijwilligers, clubs en organisaties in de sport. Degenen die een individu of organisatie willen nomineren voor hun buitengewone toewijding en prestaties in hockey, worden aangemoedigd om hun nominaties voor de deadline in te dienen. Bezoek de website van England Hockey voor meer informatie en nominatieprocedures.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "इंग्लैंड हॉकी पुरस्कार नामांकन जल्द बंद होंगे",
+        "summary": "इंग्लैंड हॉकी समुदाय को याद दिला रहा है कि इंग्लैंड हॉकी पुरस्कारों के नामांकन जल्द बंद हो जाएंगे। ये पुरस्कार खेल में खिलाड़ियों, कोचों, स्वयंसेवकों, क्लबों और संगठनों के असाधारण योगदान को सम्मानित करते हैं। जो व्यक्ति या संगठन हॉकी में अपनी असाधारण समर्पण और उपलब्धियों के लिए नामांकन करना चाहते हैं, उन्हें समय सीमा से पहले अपने नामांकन जमा करने के लिए प्रोत्साहित किया जाता है।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "Nominaciones para los premios England Hockey cerrándose",
+        "summary": "England Hockey recuerda a la comunidad que las nominaciones para los Premios England Hockey se cerrarán pronto. Los premios reconocen las contribuciones excepcionales al hockey de jugadores, entrenadores, voluntarios, clubes y organizaciones en el deporte. Quienes deseen nominar a un individuo u organización por su dedicación y logros excepcionales en hockey, se les anima a enviar sus nominaciones antes de la fecha límite. Visite el sitio web de England Hockey para obtener más información y procedimientos de nominación.",
+        "category": "Patrocinador"
+      }
+    }
+  },
+  {
+    "id": "9e297603d185",
+    "source": "PanAm Hockey",
+    "source_url": "https://www.panamhockey.org/news/argentina-shines-as-ambrosini-leads-the-way-on-day-3",
+    "published_at": null,
+    "fetched_at": "2026-04-09T07:59:03.873Z",
+    "translations": {
+      "ja": {
+        "headline": "アルゼンチン躍進、アンブロジーニがDay 3で主導",
+        "summary": "PanAm Hockeyのニュースによると、アルゼンチン代表がDay 3で優れたパフォーマンスを発揮した。選手アンブロジーニが重要な役割を担い、チームをリードして成功を収めた。この試合結果はアルゼンチンの強化を示すもので、大会での競争力が高まっていることを示唆している。詳細な試合内容は追加情報の確認が必要。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Argentina Shines as Ambrosini Leads on Day 3",
+        "summary": "Argentina delivered an impressive performance on Day 3 of the Pan American Hockey competition, with player Ambrosini taking the lead and driving the team to success. The strong showing highlights Argentina's competitive strength in the tournament and demonstrates the team's growing momentum. Ambrosini's pivotal role was instrumental in achieving the day's positive outcome.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Argentinië schittert met Ambrosini in leidende rol",
+        "summary": "Argentinië toonde uitstekende prestaties op Day 3 van de Pan-Amerikaanse hockeywedstrijden. Speler Ambrosini speelde een leidende rol en stuurde het team naar succes. Deze sterke vertoning onderstreept Argentinië's competitieve kracht in het toernooi en toont de groeiende vaardigheid van het team.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "अर्जेंटीना चमकता है, अम्ब्रोजिनी ने दिन 3 का नेतृत्व किया",
+        "summary": "पैनअमेरिकन हॉकी प्रतियोगिता के दिन 3 में अर्जेंटीना ने शानदार प्रदर्शन किया। खिलाड़ी अम्ब्रोजिनी ने महत्वपूर्ण भूमिका निभाते हुए टीम का नेतृत्व किया और सफलता दिलाई। यह मजबूत प्रदर्शन अर्जेंटीना की प्रतियोगिता में ताकत को दर्शाता है और टीम की बढ़ती प्रतिभा को प्रदर्शित करता है।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Argentina brilla con Ambrosini liderando en Día 3",
+        "summary": "Argentina mostró un desempeño excepcional en el Día 3 de la competencia de hockey panamericano. El jugador Ambrosini asumió un papel líder e impulsó al equipo hacia el éxito. Este sólido desempeño subraya la fortaleza competitiva de Argentina en el torneo y demuestra el creciente ímpetu del equipo en la competencia.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "7bfdfcc68f46",
+    "source": "PanAm Hockey",
+    "source_url": "https://www.panamhockey.org/news/uruguay-edges-tight-clash-as-standout-performers-rise-on-day-2",
+    "published_at": null,
+    "fetched_at": "2026-04-09T07:59:03.873Z",
+    "translations": {
+      "ja": {
+        "headline": "ウルグアイが接戦を制す、2日目で躍動する選手たち",
+        "summary": "パンアム・ホッケー大会2日目、ウルグアイが激しい試合を制した。複数の選手が優れたパフォーマンスを発揮し、大会での存在感を示した。試合の詳細な結果と、躍動した選手たちの活躍が注目されている。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Uruguay Edges Tight Clash; Standout Performers Rise on Day 2",
+        "summary": "Uruguay secured a narrow victory in a competitive Day 2 match at the PanAm Hockey tournament. Several players delivered outstanding performances, establishing their prominence in the competition. The tight contest showcased the competitive nature of the event and highlighted the emerging stars making an impact.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Uruguay wint nipte wedstrijd; sterren glimmen op dag 2",
+        "summary": "Uruguay boekte een nipte overwinning in een competitieve wedstrijd op dag 2 van het PanAm Hockey-toernooi. Verschillende spelers leverden uitstekende prestaties, wat hun prominentie in de competitie onderstreept. De nauwsluitende strijd toonde het competitieve niveau van het evenement.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "उरुग्वे ने कड़े मुकाबले को जीता, दिन 2 पर शानदार प्रदर्शन",
+        "summary": "पैनएम हॉकी टूर्नामेंट के दूसरे दिन उरुग्वे ने एक कड़े मुकाबले में जीत दर्ज की। कई खिलाड़ियों ने शानदार प्रदर्शन किया और प्रतियोगिता में अपनी मजबूत उपस्थिति दर्शाई। यह रोमांचक मैच टूर्नामेंट की प्रतिस्पर्धी प्रकृति को दर्शाता है।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Uruguay vence en ajustado duelo; estrellas brillan en día 2",
+        "summary": "Uruguay aseguró una victoria cerrada en un competitivo partido del día 2 del torneo PanAm Hockey. Varios jugadores entregaron destacadas actuaciones, estableciendo su prominencia en la competencia. El enfrentamiento ajustado demostró la naturaleza competitiva del evento y resaltó las estrellas emergentes.",
+        "category": "試合結果"
+      }
+    }
+  },
+  {
+    "id": "1bd2f191b35a",
+    "source": "PanAm Hockey",
+    "source_url": "https://www.panamhockey.org/news/exciting-start-at-the-junior-pan-american-cups",
+    "published_at": null,
+    "fetched_at": "2026-04-09T07:59:03.873Z",
+    "translations": {
+      "ja": {
+        "headline": "ジュニアパンアメリカンカップが熱い開幕",
+        "summary": "ジュニアパンアメリカンホッケーカップが興奮のうちに開幕した。本大会は南米、北米、カリブ海地域の有望な若手選手たちが一堂に集まる重要な国際大会。各国の代表チームが激しい競争を繰り広げ、次世代のホッケー選手たちの技術とチームワークが披露された。大会を通じてパンアメリカ地域のホッケー発展が期待される。",
+        "category": "代表チーム"
+      },
+      "en": {
+        "headline": "Junior Pan American Cups opens with excitement",
+        "summary": "The Junior Pan American Hockey Cups have launched with an exciting start, bringing together promising young players from across South America, North America, and the Caribbean region. This important international tournament showcases the next generation of hockey talent, with national teams competing fiercely. Players demonstrate technical skills and teamwork at a high level, highlighting the growing strength of hockey throughout the Pan American region and promising future development.",
+        "category": "代表チーム"
+      },
+      "nl": {
+        "headline": "Junior Pan American Cups begint met spanning",
+        "summary": "De Junior Pan American Hockey Cups zijn op een spannende manier van start gegaan, met talentvolle jonge spelers van overal in Zuid-Amerika, Noord-Amerika en het Caribisch gebied. Dit belangrijke internationale toernooi toont de volgende generatie hockeytalent, met nationale teams die fel concurreren. De spelers demonstreren technische vaardigheden en teamwork op hoog niveau, wat de groeiende sterkte van hockey in de Pan-Amerikaanse regio onderstreept.",
+        "category": "代表チーム"
+      },
+      "hi": {
+        "headline": "जूनियर पैन अमेरिकन कप रोमांचक शुरुआत",
+        "summary": "जूनियर पैन अमेरिकन हॉकी कप एक रोमांचक शुरुआत के साथ शुरू हुए, जिसमें दक्षिण अमेरिका, उत्तर अमेरिका और कैरिबियन क्षेत्र भर से प्रतिभाशाली युवा खिलाड़ी शामिल हैं। यह महत्वपूर्ण अंतर्राष्ट्रीय टूर्नामेंट हॉकी की अगली पीढ़ी की प्रतिभा को दर्शाता है। राष्ट्रीय टीमें भीषण प्रतिस्पर्धा में सामने आई, जो पैन-अमेरिकन क्षेत्र में हॉकी की बढ़ती शक्ति को दर्शाता है।",
+        "category": "代表チーム"
+      },
+      "es": {
+        "headline": "Copas Junior Panamericanas comienzan emocionantes",
+        "summary": "Las Copas Junior Panamericanas de Hockey han comenzado con un inicio emocionante, reuniendo a jugadores jóvenes prometedores de toda América del Sur, América del Norte y la región del Caribe. Este torneo internacional importante presenta el próximo talento generacional del hockey, con equipos nacionales compitiendo intensamente. Los jugadores demuestran habilidades técnicas y trabajo en equipo de alto nivel, subrayando la creciente fortaleza del hockey en toda la región Panamericana.",
+        "category": "代表チーム"
+      }
+    }
+  }
+]

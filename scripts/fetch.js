@@ -382,6 +382,13 @@ async function main() {
   }
   console.log(`\nDone. Added: ${processed.length}, Total today (${getToday()}): ${allToday.length}`);
 
+  // 失敗検知: 新規記事があったのに翻訳成功数が0件なら全滅とみなしてfailで終了
+  // （ワークフローが「緑のまま静かに止まる」状態を防ぐ）
+  if (batch.length > 0 && processed.length === 0) {
+    console.error(`\nFATAL: All ${batch.length} translation attempts failed. Marking job as failed.`);
+    process.exit(1);
+  }
+
   // 全記事インデックスを再生成（横断検索用）
   const index = [];
   fs.readdirSync(dataDir)
