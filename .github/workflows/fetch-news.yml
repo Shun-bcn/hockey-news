@@ -24,13 +24,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Debug API key
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          echo "Key length: ${#ANTHROPIC_API_KEY}"
-          echo "Key prefix: ${ANTHROPIC_API_KEY:0:10}"
-
       - name: Fetch and process news
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
