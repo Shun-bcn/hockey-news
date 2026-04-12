@@ -1,0 +1,36 @@
+[
+  {
+    "id": "52aa00a440f8",
+    "source": "PanAm Hockey",
+    "source_url": "https://www.panamhockey.org/news/chile-pushes-hard-but-held-by-canada-in-scoreless-draw",
+    "published_at": null,
+    "fetched_at": "2026-04-12T06:16:23.653Z",
+    "translations": {
+      "ja": {
+        "headline": "チリ、カナダとスコアレス・ドロー",
+        "summary": "パンアメリカンホッケーの試合でチリ代表がカナダ代表と対戦し、0-0のスコアレス・ドローに終わった。チリは積極的な攻撃を展開したものの、カナダの堅い守備に阻まれた。両チームともゴールを奪うことができず、激しい戦いの末に引き分けに終わった。この結果はパンアメリカン地域の競争力の高さを示す重要な試合となった。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Chile Holds Canada to Scoreless Draw",
+        "summary": "Chile's national team fought hard against Canada in a Pan American Hockey match that ended in a 0-0 scoreless draw. Despite mounting significant offensive pressure throughout the game, Chile was unable to break through Canada's solid defensive wall. Canada similarly struggled to find the back of the net against Chile's determined goalkeeper and defense. The draw reflects the competitive balance between the two nations in Pan American hockey.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Chili houdt Canada op gelijkspel",
+        "summary": "Chili's nationale hockeyteam speelde gelijk tegen Canada in een Pan-Amerikaanse hockeywedstrijd die eindigde in een doelpuntloos gelijkspel van 0-0. Ondanks aanzienlijke offensieve druk van Chili gedurende de wedstrijd kon het land niet door Canadas sterke verdediging breken. Ook Canada had moeite om tegen Chili's vastberaden doelman en verdediging te scoren. Het gelijkspel onderstreept de competitieve balans tussen beide landen.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "चिली ने कनाडा को 0-0 से रोका",
+        "summary": "चिली की राष्ट्रीय हॉकी टीम ने पैन अमेरिकन हॉकी मैच में कनाडा के खिलाफ खेलते हुए 0-0 की बराबरी हासिल की। पूरे मैच में चिली ने आक्रामक दबाव बनाए रखा लेकिन कनाडा की मजबूत रक्षा को तोड़ने में विफल रहे। कनाडा को भी चिली के दृढ़ गोलकीपर और रक्षा के खिलाफ गोल करने में कठिनाई हुई। यह परिणाम पैन अमेरिकन हॉकी में दोनों देशों के बीच प्रतिस्पर्धात्मक संतुलन को दर्शाता है।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Chile sostiene empate sin goles con Canadá",
+        "summary": "El equipo nacional de hockey de Chile jugó contra Canadá en un partido de hockey panamericano que terminó en un empate sin goles de 0-0. A pesar de ejercer una presión ofensiva significativa durante todo el partido, Chile no pudo romper la sólida defensa canadiense. Canadá también tuvo dificultades para marcar contra el determinado portero y la defensa de Chile. El empate refleja el equilibrio competitivo entre ambas naciones en el hockey panamericano.",
+        "category": "試合結果"
+      }
+    }
+  }
+]
