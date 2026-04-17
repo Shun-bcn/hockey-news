@@ -264,6 +264,7 @@ Category translations (use these exact translations for スポンサー・パー
 - スポンサー・パートナー → in English: Sponsor / Partner, in Dutch: Sponsor / Partner, in Hindi: प्रायोजक / साझेदार, in Spanish: Patrocinador
 
 Terminology (always use these exact translations):
+- Hockey (the sport) → in Japanese: ホッケー (NOT ホッキー)
 ${ehlTerm}
 - Kampong → in Japanese: カンポン / in other languages: Kampong (unchanged)
 - Old Georgians → in Japanese: オールドジョージアンズ
