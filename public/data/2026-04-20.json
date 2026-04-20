@@ -1,0 +1,36 @@
+[
+  {
+    "id": "4bbfbcdca290",
+    "source": "NOS Sport",
+    "source_url": "https://nos.nl/l/2611113",
+    "published_at": "2026-04-19",
+    "fetched_at": "2026-04-20T07:31:45.418Z",
+    "translations": {
+      "ja": {
+        "headline": "オランダ・レッド、プレーオフ出場確定",
+        "summary": "ホッケー主力リーグでエインドホーフェンの強豪オランダ・レッドが、2位ロッテルダムとのトップ対決で4-1の大勝を収めた。残り3試合を控え、公式にリーグタイトルをめぐるプレーオフ出場を確定させた初のチームとなった。アゲート・ブームガルト監督率いるチームは前シーズン、シーズンファイナル出場を逃していた。",
+        "category": "試合結果"
+      },
+      "en": {
+        "headline": "Oranje-Rood Secures Playoff Spot",
+        "summary": "Oranje-Rood demonstrated their dominance in the top division with a commanding 4-1 victory over second-placed Rotterdam on Sunday. The Eindhoven leaders have officially qualified for the playoffs for the national title with three matches still remaining, becoming the first team to secure this spot. Coach Ageeth Boomgaardt's unbeaten squad (13 wins, 5 draws) showed clear superiority over Rotterdam, who had won six consecutive league matches before this defeat.",
+        "category": "試合結果"
+      },
+      "nl": {
+        "headline": "Oranje-Rood zeker van play-offs",
+        "summary": "Oranje-Rood heeft zich officieel geplaatst voor de play-offs om de landstitel. De Eindhovense koploper won zondag met 4-1 van nummer twee Rotterdam in een indrukwekkende topper. Met nog drie competitieduels te gaan is Oranje-Rood het eerste team dat verzekerd is van de playoffs. Het ongeslagen team van trainer Ageeth Boomgaardt (13 zeges, 5 gelijkspelen) toonde het klasseverschil al snel tegen het tot dan toe zes duels op rij winnende Rotterdam.",
+        "category": "試合結果"
+      },
+      "hi": {
+        "headline": "ऑरेंज-रेड ने प्लेऑफ सुरक्षित की",
+        "summary": "ऑरेंज-रेड ने रविवार को दूसरे स्थान की रॉटरडैम के खिलाफ एक प्रभावशाली 4-1 की जीत हासिल की। एआईंडहोवन की शीर्ष टीम ने राष्ट्रीय शीर्षक के लिए प्लेऑफ में जगह सुरक्षित कर ली है और तीन मैच अभी बाकी हैं। कोच एजीथ बूमगार्ट की अपराजेय टीम (13 जीत, 5 ड्रॉ) ने रॉटरडैम के खिलाफ स्पष्ट श्रेष्ठता प्रदर्शित की, जो इससे पहले छह लगातार मैच जीते थे।",
+        "category": "試合結果"
+      },
+      "es": {
+        "headline": "Oranje-Rood asegura lugar en playoffs",
+        "summary": "Oranje-Rood demostró su dominio en la división principal con una contundente victoria de 4-1 sobre el segundo clasificado Rotterdam el domingo. El equipo líder de Eindhoven se ha clasificado oficialmente para los playoffs del título nacional con tres partidos aún por jugarse. El equipo invicto del entrenador Ageeth Boomgaardt (13 victorias, 5 empates) mostró clara superioridad sobre Rotterdam, que había ganado seis encuentros consecutivos antes de esta derrota.",
+        "category": "試合結果"
+      }
+    }
+  }
+]
