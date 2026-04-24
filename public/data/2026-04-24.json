@@ -1,0 +1,70 @@
+[
+  {
+    "id": "540e883a8bfb",
+    "source": "The Hockey Paper",
+    "source_url": "https://www.thehockeypaper.co.uk/articles/2026/04/23/la-2028-olympics-will-hockey-fans-be-able-to-snap-up-cheap-tickets",
+    "published_at": "2026-04-23",
+    "fetched_at": "2026-04-24T07:19:55.618Z",
+    "translations": {
+      "ja": {
+        "headline": "LA 2028オリンピック：ホッケーファンは格安チケットを購入できるか",
+        "summary": "LA 2028オリンピックのホッケーチケット購入をめぐり、国際的なファンが£20の格安チケットを逃す可能性がある。大会は「手頃な価格と包括性」をコンセプトとしているが、チケット供給の制限が懸念されている。詳細な販売戦略はまだ明確ではなく、ホッケー愛好家の間で早期購入の競争が予想される。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "LA 2028 Olympics: Budget-Friendly Hockey Tickets at Risk",
+        "summary": "International field hockey fans may struggle to secure £20 affordable tickets for the LA 2028 Olympics, despite the Games' commitment to being 'affordable and inclusive.' Limited availability of cheaper entry options raises concerns for global spectators hoping to attend matches. The Olympics aims to maintain accessibility, but ticket distribution strategies may challenge fans' ability to purchase budget options.",
+        "category": "Sponsor / Partner"
+      },
+      "nl": {
+        "headline": "LA 2028 Olympische Spelen: Goedkope hockeyticketten onder druk",
+        "summary": "Internationale hockeyfans lopen het risico om goedkope £20-tickets voor de LA 2028 Olympische Spelen mis te lopen, ondanks de toezegging van de Spelen om 'betaalbaar en inclusief' te zijn. De beperkte beschikbaarheid van budgetvriendelijke kaarten roept vragen op onder supporters die wedstrijden willen bijwonen. Hoewel toegankelijkheid voorop staat, kunnen ticketdistributiestrategieën het moeilijk maken om goedkope opties te kopen.",
+        "category": "Sponsor / Partner"
+      },
+      "hi": {
+        "headline": "LA 2028 ओलंपिक: सस्ती हॉकी टिकटें खतरे में",
+        "summary": "LA 2028 ओलंपिक खेलों के लिए अंतर्राष्ट्रीय हॉकी प्रशंसकों को £20 की सस्ती टिकटें खरीदने में कठिनाई हो सकती है, हालांकि खेल 'सस्ते और समावेशी' होने का वचन देते हैं। बजट के अनुकूल प्रवेश विकल्पों की सीमित उपलब्धता वैश्विक दर्शकों के लिए चिंता का विषय है। हालांकि पहुंच सर्वोच्च प्राथमिकता है, टिकट वितरण रणनीति सस्ते विकल्पों को खरीदना मुश्किल बना सकती है।",
+        "category": "प्रायोजक / साझेदार"
+      },
+      "es": {
+        "headline": "Juegos Olímpicos LA 2028: Entradas baratas de hockey en riesgo",
+        "summary": "Los aficionados internacionales al hockey pueden perder la oportunidad de obtener entradas asequibles de £20 para los Juegos Olímpicos de LA 2028, a pesar del compromiso de los Juegos de ser 'asequibles e inclusivos.' La disponibilidad limitada de opciones presupuestarias genera preocupación entre los espectadores globales que desean asistir. Aunque la accesibilidad es prioritaria, las estrategias de distribución de entradas podrían dificultar la compra de opciones económicas.",
+        "category": "Patrocinador"
+      }
+    }
+  },
+  {
+    "id": "7259ea26d882",
+    "source": "KNHB",
+    "source_url": "https://www.knhb.nl/nieuws/play-offs-kampioenschappen",
+    "published_at": null,
+    "fetched_at": "2026-04-24T07:19:59.746Z",
+    "translations": {
+      "ja": {
+        "headline": "試合はいつ行われるのか",
+        "summary": "KNHB（オランダホッケー連盟）からのニュース記事です。試合日程に関する情報を提供しています。詳細な試合スケジュールや開催日時については、公式情報源をご確認ください。",
+        "category": "その他"
+      },
+      "en": {
+        "headline": "When Will the Matches Be Played?",
+        "summary": "News from KNHB regarding field hockey match scheduling. The article addresses questions about when matches will take place. For specific details about match schedules and fixture dates, readers are encouraged to check the official KNHB channels.",
+        "category": "その他"
+      },
+      "nl": {
+        "headline": "Wanneer worden ze gespeeld?",
+        "summary": "Bericht van de KNHB over de speelschema's van hockeyduels. Het artikel behandelt vragen over wanneer wedstrijden zullen plaatsvinden. Voor specifieke informatie over speeldatums en wedstrijdschema's worden lezers aangeraden de officiële KNHB-kanalen te raadplegen.",
+        "category": "その他"
+      },
+      "hi": {
+        "headline": "मैच कब खेले जाएंगे?",
+        "summary": "KNHB से हॉकी मैचों के शेड्यूल के बारे में समाचार। यह लेख इस बारे में प्रश्नों को संबोधित करता है कि मैच कब खेले जाएंगे। मैच की तारीखों और शेड्यूल के बारे में विशिष्ट जानकारी के लिए, पाठकों को आधिकारिक KNHB चैनलों की जांच करने की सलाह दी जाती है।",
+        "category": "その他"
+      },
+      "es": {
+        "headline": "¿Cuándo se jugarán los partidos?",
+        "summary": "Noticia de la KNHB sobre los calendarios de partidos de hockey sobre hierba. El artículo aborda preguntas sobre cuándo se llevarán a cabo los encuentros. Para obtener información específica sobre fechas de partidos y calendarios de fixtures, se recomienda a los lectores consultar los canales oficiales de la KNHB.",
+        "category": "その他"
+      }
+    }
+  }
+]
