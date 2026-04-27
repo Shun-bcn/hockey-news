@@ -272,14 +272,21 @@ ${ehlTerm}
 - Old Georgians → in Japanese: オールドジョージアンズ
 - Sander de Wijn → in Japanese: サンダー・デ・バイン
 
-Spanish hockey terminology (always use these exact Japanese translations):
-- La Gala del Hockey Español / La Gala del Hockey Espanola → in Japanese: スペインホッケー表彰式
-- la Copa Iberdrola / la Copa de la Reina Iberdrola → in Japanese: スペイン女王杯
-- la Copa del Rey → in Japanese: スペイン国王杯
-- DIVISIÓN DE HONOR B FEMENINA / División de Honor B Femenina → in Japanese: スペイン女子2部リーグ（DHBF）
-- DIVISIÓN DE HONOR B MASCULINA / División de Honor B Masculina → in Japanese: スペイン男子2部リーグ（DHBM）
-- la Liga Iati / Liga Iati → in Japanese: スペイン男子1部リーグ（DHAM）
-- LIGA IBERDROLA / Liga Iberdrola → in Japanese: スペイン女子1部リーグ（DHAF）
+Spanish hockey terminology (use these exact translations in every language):
+- La Gala del Hockey Español / La Gala del Hockey Espanola
+  → Japanese: スペインホッケー表彰式 / English: Spanish Hockey Awards Ceremony / Dutch: Spaanse Hockey Galaceremonie / Hindi: स्पेनिश हॉकी पुरस्कार समारोह
+- la Copa Iberdrola / la Copa de la Reina Iberdrola
+  → Japanese: スペイン女王杯 / English: Spanish Queen's Cup / Dutch: Spaanse Koninginnenbeker / Hindi: स्पेनिश क्वीन्स कप
+- la Copa del Rey
+  → Japanese: スペイン国王杯 / English: Spanish King's Cup / Dutch: Spaanse Koningsbeker / Hindi: स्पेनिश किंग्स कप
+- DIVISIÓN DE HONOR B FEMENINA / División de Honor B Femenina
+  → Japanese: スペイン女子2部リーグ（DHBF）/ English: Spain Women's 2nd Division (DHBF) / Dutch: Spanje Dames 2e Divisie (DHBF) / Hindi: स्पेन महिला द्वितीय डिवीजन (DHBF)
+- DIVISIÓN DE HONOR B MASCULINA / División de Honor B Masculina
+  → Japanese: スペイン男子2部リーグ（DHBM）/ English: Spain Men's 2nd Division (DHBM) / Dutch: Spanje Heren 2e Divisie (DHBM) / Hindi: स्पेन पुरुष द्वितीय डिवीजन (DHBM)
+- la Liga Iati / Liga Iati / DIVISIÓN DE HONOR A MASCULINA
+  → Japanese: スペイン男子1部リーグ（DHAM）/ English: Spain Men's 1st Division (DHAM) / Dutch: Spanje Heren 1e Divisie (DHAM) / Hindi: स्पेन पुरुष प्रथम डिवीजन (DHAM)
+- LIGA IBERDROLA / Liga Iberdrola / DIVISIÓN DE HONOR A FEMENINA
+  → Japanese: スペイン女子1部リーグ（DHAF）/ English: Spain Women's 1st Division (DHAF) / Dutch: Spanje Dames 1e Divisie (DHAF) / Hindi: स्पेन महिला प्रथम डिवीजन (DHAF)
 
 Output format:
 {
