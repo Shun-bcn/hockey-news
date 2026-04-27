@@ -255,7 +255,9 @@ Generate summaries in: ${langList}
 
 Rules:
 - headline: max 60 characters, clear and newsworthy
-- summary: 300-400 characters, include key facts, context and outcome so readers understand the full story
+- summary: 300-400 characters normally; if match scores are available, include ALL scores and expand up to 600 characters
+- If the article contains match results, ALWAYS include the scores (e.g. "3-1", "2-0") in the summary — this is the highest priority information
+- Do NOT use filler phrases like "詳細は記事本文をご覧ください" / "for more details see the article" / "詳細については公式発表をご確認ください" — use the character budget for actual facts instead
 - category: exactly one of [${CATEGORY_LIST}] — ALWAYS use the Japanese category name
 - If original language matches the target, keep the meaning accurate. For other languages, re-express the facts naturally.
 - Output ONLY valid JSON, no markdown, no explanation.
@@ -290,7 +292,7 @@ Output format:
 
   const response = await anthropic.messages.create({
     model: 'claude-haiku-4-5-20251001',
-    max_tokens: 1500,
+    max_tokens: 2500,
     messages: [{ role: 'user', content: prompt }],
   });
 
