@@ -270,6 +270,15 @@ ${ehlTerm}
 - Old Georgians → in Japanese: オールドジョージアンズ
 - Sander de Wijn → in Japanese: サンダー・デ・バイン
 
+Spanish hockey terminology (always use these exact Japanese translations):
+- La Gala del Hockey Español / La Gala del Hockey Espanola → in Japanese: スペインホッケー表彰式
+- la Copa Iberdrola / la Copa de la Reina Iberdrola → in Japanese: スペイン女王杯
+- la Copa del Rey → in Japanese: スペイン国王杯
+- DIVISIÓN DE HONOR B FEMENINA / División de Honor B Femenina → in Japanese: スペイン女子2部リーグ（DHBF）
+- DIVISIÓN DE HONOR B MASCULINA / División de Honor B Masculina → in Japanese: スペイン男子2部リーグ（DHBM）
+- la Liga Iati / Liga Iati → in Japanese: スペイン男子1部リーグ（DHAM）
+- LIGA IBERDROLA / Liga Iberdrola → in Japanese: スペイン女子1部リーグ（DHAF）
+
 Output format:
 {
   "ja": { "headline": "...", "summary": "...", "category": "..." },
@@ -340,6 +349,19 @@ async function main() {
   // 重複排除
   const seen = new Set(todayArticles.map(a => a.id));
   rawArticles = rawArticles.filter(a => !seen.has(a.id));
+
+  // excludeKeywords フィルタ: アイスホッケー等の除外キーワードを含む記事を除外
+  if (sources.excludeKeywords && sources.excludeKeywords.length > 0) {
+    const excludePatterns = sources.excludeKeywords.map(k => k.toLowerCase());
+    const before = rawArticles.length;
+    rawArticles = rawArticles.filter(a => {
+      const text = (a.original_title + ' ' + a.original_content).toLowerCase();
+      return !excludePatterns.some(kw => text.includes(kw));
+    });
+    if (rawArticles.length < before) {
+      console.log(`Excluded ${before - rawArticles.length} articles by keyword filter`);
+    }
+  }
 
   // minPublishedDate フィルタ: 日付が取得できていて minPublishedDate より古い記事を除外
   const allSources = [...sources.rss, ...sources.scrape];
